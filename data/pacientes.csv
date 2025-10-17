@@ -1,0 +1,3003 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P001,Ana Torres,34,F,Miraflores,Odontología,2024-11-15,150
+P002,Luis Pérez,42,M,Surco,Pediatría,2024-10-21,250
+P003,Carlos Torres,38,M,Los Olivos,Ginecología,2023-03-11,54.46
+P004,María Rojas,,F,La Molina,Medicina General,2024-01-22,
+P005,Rosa Mendoza,,,Miraflores,Traumatología,2023-11-03,
+P006,Sofía Rojas,,NA,Chorrillos,Pediatría,2024-07-01,80.43
+P007,Pedro Rojas,81,F,Chorrillos,Odontología,2023-05-14,
+P008,Rosa Torres,NA,M,Chorrillos,Ginecología,2023-01-20,287.03
+P009,Miguel Vargas,49,M,NA,,2024-06-04,NA
+P010,Ana Cruz,,,Surco,Traumatología,2023-06-01,
+P011,Carlos Ramírez,,,Miraflores,Medicina General,2023-05-06,109.2
+P012,María Mendoza,,M,Los Olivos,Ginecología,2024-12-13,
+P013,Lucía Gómez,,NA,San Isidro,Cardiología,2024-08-24,NA
+P014,Jorge Cruz,,F,San Isidro,Cardiología,2023-07-17,
+P015,Ana Pérez,NA,F,Callao,Pediatría,2023-03-30,
+P016,María Rojas,NA,,Los Olivos,Cardiología,2023-07-23,
+P017,Ana Fernández,40,F,La Molina,Medicina General,2023-02-17,
+P018,María Mendoza,,,La Molina,Cardiología,2024-06-08,NA
+P019,María Torres,,,Callao,,2023-09-03,
+P020,Ana Mendoza,,F,NA,Ginecología,2023-11-24,NA
+P021,Lucía Cruz,,M,Callao,Odontología,2024-03-14,
+P022,Pedro Salazar,,M,Surco,Cardiología,2023-03-13,
+P023,Carlos Gómez,,F,Surco,NA,2024-11-02,290.39
+P024,Sofía Torres,NA,,Miraflores,Odontología,2023-04-02,
+P025,Jorge Gómez,,F,La Molina,Ginecología,2024-03-01,NA
+P026,Jorge Gómez,,M,Callao,Cardiología,2023-12-23,NA
+P027,Lucía Gómez,,F,Surco,NA,2023-08-14,NA
+P028,Ana Salazar,,,La Molina,Medicina General,2023-01-13,
+P029,Rosa Vargas,,,Surco,NA,2024-12-24,278.65
+P030,Luis Mendoza,6,F,Miraflores,Pediatría,2024-07-08,322.51
+P031,Miguel Cruz,,,Surco,Cardiología,2024-01-25,306.91
+P032,Rosa Rojas,,NA,NA,Medicina General,2023-10-01,265.59
+P033,Lucía Gómez,85,,Surco,Ginecología,2024-04-01,83.92
+P034,Sofía Vargas,,F,Miraflores,Pediatría,2024-06-09,
+P035,Pedro Torres,,NA,San Isidro,Odontología,2024-05-07,452.37
+P036,Jorge Cruz,57,,Comas,Medicina General,2024-05-19,189.82
+P037,Carlos Ramírez,60,NA,,Ginecología,2023-01-15,NA
+P038,Ana Fernández,50,F,San Isidro,NA,2024-01-22,476.45
+P039,Pedro Gómez,,,Los Olivos,Medicina General,2024-03-18,388.2
+P040,Lucía Cruz,NA,F,San Isidro,Medicina General,2024-08-30,
+P041,Luis Salazar,,M,Chorrillos,Traumatología,2024-12-20,NA
+P042,Miguel Pérez,,,La Molina,Medicina General,2023-02-02,NA
+P043,Luis Ramírez,NA,NA,NA,Ginecología,2023-09-14,
+P044,Pedro Ramírez,69,F,Comas,NA,2024-07-13,NA
+P045,Rosa Pérez,,M,Callao,Odontología,2023-09-14,
+P046,Pedro Pérez,NA,M,Callao,NA,2024-04-24,
+P047,María Salazar,NA,,NA,NA,2023-01-15,NA
+P048,Ana Pérez,NA,,San Isidro,Pediatría,2023-02-22,
+P049,Jorge Torres,,,NA,Cardiología,2024-02-08,277.49
+P050,María Ramírez,,M,Callao,Medicina General,2024-04-12,
+P051,María Ramírez,15,,,,2023-01-15,
+P052,Rosa Cruz,NA,M,NA,Ginecología,2023-08-01,
+P053,Lucía Pérez,,M,Callao,,2024-01-12,NA
+P054,Luis Gómez,,NA,San Isidro,NA,2023-05-18,NA
+P055,Luis Fernández,NA,NA,Surco,NA,2024-03-09,
+P056,Ana Rojas,NA,M,Callao,Traumatología,2024-11-02,
+P057,Ana Gómez,,M,NA,Odontología,2024-08-06,132.5
+P058,María Cruz,58,,Comas,Cardiología,2023-09-08,
+P059,Jorge Pérez,,NA,Chorrillos,,2024-05-28,NA
+P060,Rosa Fernández,89,NA,,NA,2024-01-07,438.0
+P061,María Mendoza,,F,NA,NA,2024-10-16,NA
+P062,Lucía Cruz,NA,,Comas,Traumatología,2024-07-20,
+P063,Miguel Mendoza,29,NA,La Molina,Medicina General,2023-09-19,
+P064,Rosa Salazar,,,Surco,Odontología,2023-03-02,NA
+P065,Jorge Pérez,,,Miraflores,Pediatría,2024-03-23,
+P066,María Mendoza,,NA,Callao,NA,2024-09-08,
+P067,Luis Fernández,,F,La Molina,Medicina General,2023-02-19,448.81
+P068,Rosa Vargas,,F,Callao,NA,2023-10-09,124.99
+P069,Rosa Rojas,,,Surco,Ginecología,2024-10-12,NA
+P070,Carlos Cruz,32,M,Comas,,2024-03-27,
+P071,Ana Salazar,,,Chorrillos,Ginecología,2023-11-05,
+P072,Jorge Fernández,,NA,La Molina,,2023-06-04,NA
+P073,Luis Ramírez,,F,San Isidro,,2024-05-20,
+P074,Lucía Vargas,NA,NA,Miraflores,Medicina General,2023-04-13,288.77
+P075,Lucía Gómez,,NA,La Molina,Ginecología,2023-07-05,NA
+P076,Luis Gómez,NA,NA,Surco,Cardiología,2024-01-30,
+P077,Miguel Pérez,,M,Los Olivos,Ginecología,2023-02-17,
+P078,María Gómez,63,F,,Cardiología,2023-05-19,
+P079,Lucía Fernández,NA,NA,NA,Odontología,2024-03-29,
+P080,Luis Rojas,23,,La Molina,Medicina General,2024-10-25,
+P081,Sofía Torres,3,F,Surco,Odontología,2024-02-12,NA
+P082,Sofía Torres,NA,,NA,NA,2024-07-26,
+P083,Luis Fernández,57,,Chorrillos,Medicina General,2024-10-27,
+P084,Jorge Fernández,,F,Miraflores,Ginecología,2024-03-19,398.49
+P085,María Pérez,NA,M,La Molina,Cardiología,2024-01-11,NA
+P086,Lucía Fernández,NA,M,Chorrillos,NA,2024-11-09,
+P087,Sofía Mendoza,NA,F,La Molina,Traumatología,2024-09-05,281.64
+P088,Carlos Vargas,,NA,Comas,,2023-10-25,
+P089,Pedro Torres,,F,Callao,,2024-06-30,NA
+P090,Carlos Rojas,76,F,La Molina,Odontología,2024-12-25,
+P091,Sofía Fernández,26,NA,NA,Odontología,2023-12-26,
+P092,Ana Pérez,,M,San Isidro,Odontología,2024-09-14,384.5
+P093,Luis Vargas,,F,Comas,Odontología,2024-10-30,
+P094,María Vargas,NA,,Miraflores,Ginecología,2023-10-28,NA
+P095,Carlos Gómez,83,,San Isidro,,2023-04-14,321.68
+P096,Miguel Mendoza,,M,Callao,Medicina General,2023-11-25,NA
+P097,María Fernández,,,Chorrillos,,2023-05-08,
+P098,Sofía Torres,24,M,La Molina,Medicina General,2023-12-02,
+P099,Lucía Torres,NA,,,Cardiología,2024-12-30,
+P100,María Ramírez,NA,M,Comas,Odontología,2024-04-03,NA
+P101,Miguel Vargas,,F,Miraflores,NA,2023-12-16,NA
+P102,Rosa Vargas,61,M,Chorrillos,Pediatría,2023-07-11,303.69
+P103,Ana Pérez,,F,Comas,Cardiología,2023-12-14,
+P104,Luis Ramírez,,F,NA,Pediatría,2024-12-25,335.25
+P105,Rosa Gómez,NA,,Los Olivos,Pediatría,2023-06-16,356.22
+P106,Lucía Gómez,,F,,Medicina General,2023-06-22,
+P107,Jorge Ramírez,,NA,Miraflores,Ginecología,2024-02-27,
+P108,María Vargas,33,M,Chorrillos,,2023-09-03,
+P109,Sofía Torres,NA,,Los Olivos,Medicina General,2024-01-17,
+P110,Luis Vargas,,F,San Isidro,Medicina General,2023-05-19,NA
+P111,Luis Mendoza,,F,,Cardiología,2023-09-06,
+P112,Sofía Ramírez,78,,La Molina,Odontología,2023-02-23,
+P113,Lucía Salazar,,,San Isidro,NA,2023-05-24,
+P114,Lucía Pérez,6,,Surco,Traumatología,2023-04-17,
+P115,Sofía Pérez,,NA,Miraflores,Pediatría,2023-11-28,492.96
+P116,Sofía Cruz,30,M,La Molina,Pediatría,2024-07-21,462.47
+P117,Lucía Fernández,NA,NA,Callao,NA,2023-07-25,NA
+P118,María Pérez,NA,F,San Isidro,Ginecología,2023-04-13,
+P119,Miguel Mendoza,,,La Molina,NA,2023-12-13,NA
+P120,Carlos Fernández,,,Chorrillos,Odontología,2024-12-06,NA
+P121,Pedro Torres,,F,Comas,Ginecología,2024-11-19,
+P122,Ana Ramírez,49,M,Chorrillos,Odontología,2023-09-15,
+P123,Pedro Pérez,49,M,NA,Odontología,2023-02-11,
+P124,Ana Vargas,NA,NA,Surco,Ginecología,2023-08-12,
+P125,Miguel Salazar,,F,Surco,Cardiología,2024-07-29,228.27
+P126,Miguel Pérez,NA,NA,Comas,,2023-07-05,247.49
+P127,Rosa Gómez,NA,M,La Molina,NA,2024-10-18,NA
+P128,Carlos Rojas,NA,NA,,Medicina General,2024-02-25,NA
+P129,Carlos Pérez,84,,Miraflores,NA,2024-01-05,
+P130,Ana Mendoza,NA,F,La Molina,Cardiología,2024-03-02,
+P131,Rosa Fernández,NA,NA,,Ginecología,2023-12-08,
+P132,Jorge Rojas,NA,,Chorrillos,NA,2024-02-24,NA
+P133,Carlos Rojas,31,,Comas,Pediatría,2023-10-29,205.35
+P134,Luis Fernández,3,F,Miraflores,Medicina General,2023-08-10,
+P135,Ana Cruz,73,,La Molina,Medicina General,2024-04-05,
+P136,Jorge Ramírez,26,NA,Comas,Pediatría,2024-07-02,
+P137,Lucía Pérez,NA,F,Los Olivos,Odontología,2023-04-12,NA
+P138,Carlos Torres,39,NA,,Traumatología,2023-02-26,
+P139,Rosa Fernández,,,La Molina,Odontología,2023-08-12,
+P140,Lucía Mendoza,NA,,Callao,Odontología,2023-07-15,NA
+P141,Rosa Cruz,,F,Chorrillos,Ginecología,2024-01-21,NA
+P142,Jorge Vargas,,NA,Callao,Medicina General,2024-08-17,NA
+P143,María Rojas,NA,,Miraflores,Cardiología,2024-01-08,
+P144,Lucía Torres,81,NA,Chorrillos,NA,2023-04-02,NA
+P145,Ana Vargas,NA,NA,La Molina,Odontología,2024-12-24,NA
+P146,Rosa Pérez,NA,,Los Olivos,NA,2023-11-28,NA
+P147,Jorge Torres,46,NA,Surco,Ginecología,2024-08-27,
+P148,Miguel Gómez,,M,Los Olivos,Pediatría,2023-07-07,
+P149,Luis Torres,,,La Molina,Cardiología,2023-10-31,
+P150,Ana Fernández,,,,Medicina General,2024-07-17,467.87
+P151,Sofía Rojas,17,F,Surco,Pediatría,2024-06-15,
+P152,Sofía Mendoza,NA,,Miraflores,Cardiología,2023-06-04,
+P153,Lucía Fernández,,,,Ginecología,2024-10-07,75.3
+P154,Pedro Pérez,NA,F,Miraflores,Medicina General,2024-03-29,381.47
+P155,María Vargas,,,,Odontología,2024-11-16,
+P156,Luis Pérez,NA,M,Miraflores,NA,2024-12-15,NA
+P157,Ana Gómez,NA,,Surco,Traumatología,2023-12-31,
+P158,Lucía Salazar,NA,,Comas,Medicina General,2023-04-16,
+P159,Luis Mendoza,,M,Los Olivos,Odontología,2023-02-08,227.77
+P160,Luis Pérez,,M,Comas,NA,2024-09-15,
+P161,Luis Pérez,NA,,San Isidro,NA,2024-01-23,NA
+P162,Luis Mendoza,,F,San Isidro,Ginecología,2023-01-18,
+P163,Jorge Vargas,74,,Surco,Ginecología,2023-10-18,
+P164,María Salazar,,NA,La Molina,NA,2023-12-20,NA
+P165,Ana Pérez,10,M,Los Olivos,NA,2023-10-08,NA
+P166,Luis Ramírez,8,M,,Cardiología,2024-07-23,
+P167,María Fernández,,M,NA,Medicina General,2023-12-12,
+P168,Lucía Ramírez,NA,F,Chorrillos,Medicina General,2023-06-24,
+P169,Lucía Ramírez,,M,Los Olivos,Pediatría,2023-04-10,
+P170,Miguel Cruz,NA,NA,Los Olivos,,2024-11-06,NA
+P171,María Cruz,,,,Cardiología,2023-03-24,
+P172,Lucía Ramírez,,NA,Surco,Ginecología,2024-03-02,
+P173,María Ramírez,35,M,Los Olivos,Traumatología,2024-03-26,
+P174,Rosa Ramírez,,M,La Molina,Cardiología,2023-11-29,253.42
+P175,Rosa Rojas,NA,F,La Molina,NA,2024-06-13,
+P176,Jorge Cruz,,M,Miraflores,Medicina General,2023-03-17,
+P177,Jorge Ramírez,,F,Surco,Odontología,2023-09-21,61.54
+P178,Rosa Salazar,,,La Molina,Cardiología,2024-04-30,NA
+P179,Rosa Rojas,,M,NA,Ginecología,2024-04-13,392.81
+P180,Carlos Vargas,NA,F,Chorrillos,Odontología,2024-08-31,NA
+P181,Pedro Rojas,NA,NA,Miraflores,Ginecología,2023-02-24,NA
+P182,Miguel Mendoza,,NA,Los Olivos,Medicina General,2024-10-24,407.74
+P183,Miguel Fernández,NA,M,La Molina,Medicina General,2023-06-10,NA
+P184,Ana Fernández,NA,,Los Olivos,Medicina General,2023-02-10,NA
+P185,Ana Rojas,,M,Miraflores,Pediatría,2024-09-08,
+P186,Ana Cruz,NA,M,Comas,Traumatología,2023-01-07,
+P187,Sofía Fernández,9,M,Comas,Medicina General,2024-03-05,
+P188,Pedro Fernández,,M,Surco,Medicina General,2023-05-22,
+P189,Luis Rojas,,,NA,Cardiología,2023-08-25,
+P190,Carlos Cruz,NA,F,Chorrillos,Medicina General,2023-10-22,132.66
+P191,Sofía Vargas,33,F,NA,,2024-08-03,309.65
+P192,Rosa Torres,NA,NA,La Molina,Traumatología,2023-05-17,NA
+P193,Luis Gómez,NA,F,Los Olivos,Traumatología,2024-01-17,NA
+P194,María Pérez,10,F,La Molina,Odontología,2023-06-15,
+P195,Ana Rojas,41,M,Miraflores,NA,2024-11-03,356.52
+P196,Luis Ramírez,NA,M,Comas,Medicina General,2023-05-26,
+P197,Miguel Torres,88,M,,Ginecología,2024-11-04,158.59
+P198,Miguel Mendoza,65,F,Surco,Pediatría,2024-05-16,NA
+P199,María Rojas,54,F,Los Olivos,Medicina General,2024-07-19,390.6
+P200,Sofía Ramírez,,F,Los Olivos,,2023-08-11,
+P201,Lucía Rojas,33,,Los Olivos,NA,2023-12-21,
+P202,Carlos Vargas,,M,Miraflores,Pediatría,2023-09-24,NA
+P203,Pedro Gómez,,NA,Surco,Odontología,2024-11-22,
+P204,Carlos Mendoza,13,M,Surco,Odontología,2023-02-27,
+P205,Miguel Salazar,NA,NA,La Molina,NA,2024-10-29,419.16
+P206,Pedro Pérez,,NA,La Molina,Traumatología,2024-10-23,NA
+P207,Ana Fernández,,,Miraflores,Cardiología,2024-04-02,
+P208,Luis Salazar,NA,,La Molina,Medicina General,2024-02-20,
+P209,Ana Torres,,,Los Olivos,NA,2024-03-31,
+P210,Jorge Ramírez,60,,NA,Traumatología,2024-09-03,
+P211,Ana Torres,,F,Miraflores,Traumatología,2023-03-22,
+P212,Carlos Mendoza,13,M,Surco,Traumatología,2023-01-10,
+P213,Luis Torres,12,F,NA,NA,2024-04-23,
+P214,Miguel Torres,NA,F,San Isidro,Medicina General,2024-11-09,NA
+P215,Sofía Cruz,35,F,Callao,Traumatología,2024-09-04,326.8
+P216,Luis Gómez,NA,NA,,,2023-01-21,
+P217,Sofía Torres,,NA,Comas,Pediatría,2023-09-25,
+P218,Ana Cruz,31,NA,Chorrillos,Odontología,2023-12-31,413.25
+P219,María Mendoza,NA,NA,Los Olivos,Traumatología,2024-09-04,212.36
+P220,Miguel Cruz,69,M,NA,Traumatología,2023-04-30,
+P221,Sofía Pérez,,M,Chorrillos,Medicina General,2023-01-09,89.01
+P222,Rosa Rojas,NA,M,Miraflores,NA,2024-04-18,
+P223,Miguel Fernández,,,,Traumatología,2024-05-22,
+P224,Miguel Rojas,60,M,Miraflores,Ginecología,2024-08-29,
+P225,María Torres,NA,,San Isidro,Traumatología,2024-04-23,
+P226,María Ramírez,,F,Comas,Medicina General,2023-08-08,428.63
+P227,Sofía Mendoza,,F,Chorrillos,Traumatología,2024-04-19,NA
+P228,María Vargas,72,F,Miraflores,Ginecología,2023-12-12,NA
+P229,Lucía Cruz,,NA,Comas,,2024-07-29,NA
+P230,Pedro Pérez,,M,San Isidro,Odontología,2024-02-05,NA
+P231,Pedro Torres,23,F,Comas,Odontología,2024-10-03,NA
+P232,Luis Pérez,NA,,Callao,Odontología,2023-06-07,344.9
+P233,Carlos Fernández,,NA,San Isidro,Medicina General,2023-02-09,347.29
+P234,Ana Vargas,14,M,San Isidro,Pediatría,2024-06-18,
+P235,Jorge Mendoza,NA,F,NA,Pediatría,2023-06-27,NA
+P236,Miguel Vargas,88,F,Miraflores,Pediatría,2024-02-29,
+P237,Luis Fernández,NA,F,Callao,Traumatología,2024-10-03,NA
+P238,Carlos Ramírez,NA,NA,,Traumatología,2024-04-12,64.45
+P239,Luis Rojas,,M,Surco,Odontología,2023-03-09,
+P240,Sofía Ramírez,,NA,Callao,Medicina General,2024-01-29,
+P241,Ana Ramírez,39,F,La Molina,,2023-08-05,133.28
+P242,Ana Gómez,,,San Isidro,Medicina General,2024-12-07,
+P243,Luis Salazar,19,F,Los Olivos,,2023-02-16,
+P244,Sofía Pérez,,F,Comas,Pediatría,2023-03-04,
+P245,María Pérez,,,Surco,Cardiología,2023-09-30,115.42
+P246,Lucía Torres,,F,Comas,Ginecología,2023-01-22,
+P247,María Vargas,,NA,La Molina,Traumatología,2024-12-02,
+P248,Rosa Ramírez,,,Miraflores,,2024-02-13,NA
+P249,Carlos Pérez,,,Los Olivos,Pediatría,2023-07-27,NA
+P250,Sofía Vargas,NA,M,La Molina,Medicina General,2024-05-13,
+P251,Sofía Gómez,NA,NA,Los Olivos,NA,2023-03-24,493.98
+P252,Pedro Vargas,NA,NA,NA,Medicina General,2024-11-18,273.01
+P253,Lucía Torres,,F,San Isidro,Ginecología,2023-06-11,303.08
+P254,Jorge Rojas,,M,Los Olivos,Medicina General,2023-12-02,
+P255,María Salazar,,F,La Molina,,2024-02-04,NA
+P256,Pedro Torres,,M,Miraflores,,2023-06-09,
+P257,Miguel Torres,,F,Chorrillos,Pediatría,2024-11-01,
+P258,Lucía Rojas,,,San Isidro,Pediatría,2023-05-09,NA
+P259,Pedro Pérez,83,,NA,Odontología,2024-03-31,NA
+P260,Ana Pérez,,,Surco,,2023-06-01,483.05
+P261,María Pérez,,NA,Chorrillos,Cardiología,2024-08-30,NA
+P262,Jorge Rojas,,M,San Isidro,Ginecología,2024-05-03,NA
+P263,Carlos Pérez,,,NA,Cardiología,2024-03-26,
+P264,María Mendoza,,F,San Isidro,NA,2024-04-11,
+P265,María Pérez,,M,Los Olivos,Pediatría,2023-05-09,414.18
+P266,Jorge Cruz,,NA,Chorrillos,Ginecología,2023-12-01,
+P267,Carlos Torres,63,M,La Molina,Medicina General,2023-08-16,158.87
+P268,Lucía Pérez,,,NA,Cardiología,2024-09-03,
+P269,Rosa Vargas,,M,Miraflores,Traumatología,2023-03-06,
+P270,Sofía Fernández,42,NA,Miraflores,NA,2024-07-02,
+P271,Jorge Salazar,,M,La Molina,Ginecología,2023-08-17,432.06
+P272,Miguel Torres,,,Los Olivos,Medicina General,2023-01-23,
+P273,María Pérez,NA,M,Callao,,2024-12-26,
+P274,Sofía Torres,NA,M,,Ginecología,2023-09-01,NA
+P275,Miguel Torres,NA,,Miraflores,Pediatría,2024-08-25,
+P276,Sofía Salazar,71,,,Pediatría,2024-05-08,NA
+P277,Miguel Cruz,,NA,Surco,Cardiología,2023-01-22,
+P278,María Fernández,,M,La Molina,Medicina General,2023-01-29,NA
+P279,Carlos Pérez,NA,M,,Ginecología,2024-02-03,430.66
+P280,Pedro Gómez,,M,NA,NA,2024-11-18,
+P281,Lucía Fernández,NA,,Comas,Cardiología,2023-05-06,
+P282,Jorge Fernández,NA,,La Molina,Pediatría,2023-03-30,
+P283,Carlos Ramírez,39,M,Callao,Pediatría,2023-05-29,
+P284,Carlos Mendoza,,F,La Molina,Pediatría,2024-12-18,NA
+P285,Jorge Salazar,,,,Cardiología,2023-11-03,419.21
+P286,Rosa Pérez,NA,F,Comas,Medicina General,2023-04-17,
+P287,Jorge Rojas,,,Surco,,2023-09-08,
+P288,Luis Fernández,85,M,San Isidro,,2024-12-13,
+P289,María Pérez,NA,,Callao,Odontología,2023-09-07,327.35
+P290,Sofía Rojas,,,Chorrillos,Medicina General,2023-06-11,
+P291,Jorge Cruz,,NA,La Molina,,2023-07-04,221.66
+P292,María Rojas,12,NA,Callao,NA,2023-02-01,
+P293,Rosa Vargas,83,M,Callao,Medicina General,2024-02-21,
+P294,Rosa Fernández,3,F,Surco,Traumatología,2023-01-10,428.56
+P295,Jorge Mendoza,NA,F,La Molina,Ginecología,2024-09-24,209.36
+P296,Jorge Torres,35,,Callao,Medicina General,2023-09-30,NA
+P297,Ana Ramírez,23,M,NA,Odontología,2023-08-20,350.26
+P298,Ana Fernández,,M,Callao,,2023-03-01,
+P299,Ana Fernández,,F,Surco,Odontología,2023-05-07,
+P300,Miguel Cruz,,F,La Molina,NA,2023-09-26,
+P301,Luis Mendoza,,F,,Traumatología,2023-07-04,
+P302,Lucía Fernández,,,Surco,Traumatología,2023-09-07,NA
+P303,Lucía Fernández,22,NA,Chorrillos,Pediatría,2024-08-30,51.07
+P304,Rosa Fernández,,,Miraflores,Medicina General,2023-06-04,
+P305,Luis Ramírez,58,NA,,,2023-05-19,249.37
+P306,Jorge Pérez,,,Miraflores,Odontología,2023-03-15,
+P307,Rosa Rojas,89,,Comas,Traumatología,2024-12-10,320.22
+P308,Sofía Gómez,,NA,,Ginecología,2023-03-28,
+P309,Ana Pérez,NA,,Callao,Odontología,2023-03-29,318.2
+P310,Sofía Pérez,NA,,Comas,,2023-04-17,
+P311,Pedro Pérez,,NA,,NA,2023-08-18,
+P312,Rosa Vargas,NA,F,Surco,Odontología,2024-03-09,
+P313,Lucía Fernández,,,Comas,NA,2024-11-07,NA
+P314,Rosa Cruz,,F,Chorrillos,Traumatología,2024-10-12,NA
+P315,Lucía Salazar,NA,,Comas,Medicina General,2023-04-26,171.86
+P316,Ana Salazar,NA,NA,Callao,Medicina General,2023-12-06,NA
+P317,Luis Fernández,,NA,NA,,2024-11-05,NA
+P318,Pedro Salazar,88,NA,Los Olivos,Odontología,2024-04-23,
+P319,María Vargas,8,M,Los Olivos,Traumatología,2024-04-12,
+P320,Carlos Ramírez,,,Los Olivos,Pediatría,2023-08-07,NA
+P321,Jorge Mendoza,69,M,Chorrillos,Medicina General,2023-10-05,NA
+P322,Ana Cruz,61,M,San Isidro,Medicina General,2024-04-28,471.0
+P323,Luis Gómez,4,,La Molina,Odontología,2024-10-05,NA
+P324,Miguel Gómez,,,Los Olivos,,2023-01-02,NA
+P325,Jorge Vargas,,NA,La Molina,Ginecología,2023-01-11,
+P326,Ana Pérez,,M,,,2023-07-17,NA
+P327,Jorge Gómez,28,F,San Isidro,,2024-12-02,
+P328,Miguel Fernández,NA,M,La Molina,Ginecología,2023-01-04,
+P329,María Torres,,NA,Los Olivos,Odontología,2023-01-05,
+P330,Jorge Pérez,55,,Surco,Cardiología,2024-03-25,
+P331,Jorge Mendoza,59,,Surco,Traumatología,2024-04-20,
+P332,Carlos Gómez,,,,Odontología,2023-01-09,NA
+P333,Luis Rojas,,F,Chorrillos,Medicina General,2024-04-09,
+P334,Luis Torres,,,,Ginecología,2023-08-16,NA
+P335,Pedro Fernández,,M,Comas,Cardiología,2024-11-10,
+P336,Jorge Pérez,,NA,Miraflores,,2023-04-20,NA
+P337,María Gómez,,NA,Comas,Odontología,2024-03-12,
+P338,Sofía Ramírez,NA,NA,Miraflores,NA,2023-09-21,
+P339,Miguel Cruz,80,M,Los Olivos,Traumatología,2023-05-18,
+P340,Sofía Cruz,,,Miraflores,Traumatología,2023-04-12,
+P341,Jorge Rojas,,M,Callao,Ginecología,2023-05-28,NA
+P342,Miguel Rojas,,F,Chorrillos,Odontología,2023-05-04,
+P343,Miguel Pérez,11,,Chorrillos,NA,2023-01-11,
+P344,Jorge Vargas,,,San Isidro,,2023-02-08,
+P345,Pedro Gómez,22,F,Los Olivos,Pediatría,2023-03-11,
+P346,Rosa Torres,,NA,Los Olivos,Cardiología,2024-12-21,NA
+P347,Pedro Gómez,4,M,Callao,Odontología,2024-04-11,286.41
+P348,Carlos Vargas,,M,Callao,,2023-06-29,
+P349,Sofía Pérez,,M,Surco,NA,2024-04-27,NA
+P350,Ana Pérez,31,,Surco,Traumatología,2024-11-08,NA
+P351,Lucía Gómez,57,,Comas,Medicina General,2023-02-22,NA
+P352,Ana Cruz,NA,F,Callao,NA,2024-07-22,
+P353,Rosa Rojas,NA,F,,Medicina General,2023-12-23,
+P354,Jorge Rojas,,,Miraflores,NA,2024-11-30,
+P355,Sofía Fernández,,,Surco,Pediatría,2024-11-09,
+P356,Sofía Cruz,,,Miraflores,,2024-10-30,
+P357,Sofía Vargas,NA,NA,Surco,NA,2024-10-12,370.11
+P358,Miguel Fernández,NA,M,Callao,Odontología,2023-05-23,297.52
+P359,Miguel Rojas,72,M,Miraflores,Pediatría,2023-02-15,NA
+P360,Miguel Gómez,NA,F,San Isidro,NA,2024-11-17,262.22
+P361,Sofía Mendoza,,,Miraflores,Medicina General,2024-08-03,
+P362,Carlos Mendoza,,M,Surco,,2024-04-13,478.16
+P363,Miguel Gómez,26,M,NA,Traumatología,2023-05-21,NA
+P364,Lucía Fernández,,M,Comas,Ginecología,2024-01-19,NA
+P365,Lucía Vargas,NA,F,Comas,NA,2024-04-15,
+P366,Miguel Torres,,F,Miraflores,Pediatría,2023-06-07,
+P367,Ana Ramírez,NA,NA,Los Olivos,Traumatología,2023-11-21,NA
+P368,Miguel Gómez,60,NA,Comas,NA,2023-03-17,
+P369,Lucía Salazar,NA,,San Isidro,,2023-04-12,NA
+P370,María Torres,NA,F,Surco,NA,2023-10-20,NA
+P371,Miguel Torres,,,,NA,2024-09-28,
+P372,Rosa Salazar,,M,Surco,NA,2024-08-01,
+P373,Carlos Rojas,23,NA,Miraflores,,2024-06-11,
+P374,Ana Pérez,NA,F,Miraflores,Odontología,2024-10-08,
+P375,María Vargas,19,M,Los Olivos,Pediatría,2023-04-24,
+P376,Miguel Mendoza,,NA,Surco,NA,2023-12-04,
+P377,Lucía Mendoza,NA,F,NA,Pediatría,2024-08-02,431.43
+P378,Luis Torres,NA,M,Miraflores,Odontología,2024-09-06,
+P379,Luis Vargas,,F,Callao,Cardiología,2024-11-21,
+P380,Rosa Fernández,17,NA,Chorrillos,Pediatría,2023-07-03,
+P381,Ana Fernández,,F,Chorrillos,Odontología,2023-02-03,
+P382,Luis Ramírez,,,Los Olivos,Ginecología,2023-10-09,NA
+P383,Lucía Vargas,,NA,Miraflores,Pediatría,2023-05-31,NA
+P384,Rosa Mendoza,,M,Surco,NA,2023-02-07,166.45
+P385,Pedro Fernández,,,Chorrillos,Ginecología,2024-10-15,NA
+P386,Lucía Rojas,NA,M,Surco,Odontología,2024-11-10,138.5
+P387,Lucía Ramírez,,NA,Surco,NA,2024-12-23,
+P388,Lucía Cruz,,NA,NA,,2023-12-16,317.22
+P389,Pedro Cruz,,NA,Los Olivos,Cardiología,2023-11-14,
+P390,Ana Pérez,NA,,La Molina,Cardiología,2024-10-03,255.47
+P391,Rosa Salazar,,NA,Callao,Traumatología,2024-12-15,NA
+P392,María Ramírez,NA,NA,Comas,Odontología,2024-12-15,
+P393,Miguel Salazar,,M,Comas,,2024-10-24,
+P394,Jorge Mendoza,,F,Miraflores,Pediatría,2023-06-22,NA
+P395,Jorge Torres,,F,San Isidro,Traumatología,2024-07-14,NA
+P396,Carlos Fernández,,M,La Molina,Cardiología,2024-11-19,
+P397,Ana Mendoza,52,M,Miraflores,,2024-11-10,
+P398,Luis Salazar,70,,San Isidro,Medicina General,2024-04-11,
+P399,Carlos Salazar,25,,NA,NA,2023-06-11,
+P400,María Fernández,,,Los Olivos,Traumatología,2024-10-01,
+P401,Pedro Rojas,NA,NA,Surco,Cardiología,2023-11-25,NA
+P402,Lucía Salazar,,NA,La Molina,Odontología,2023-07-23,
+P403,Luis Mendoza,,NA,NA,Traumatología,2024-10-31,
+P404,Rosa Gómez,NA,F,NA,Odontología,2024-10-21,
+P405,María Fernández,,M,Comas,Traumatología,2023-12-30,NA
+P406,Miguel Ramírez,38,NA,Chorrillos,NA,2023-01-29,
+P407,María Vargas,,,NA,Pediatría,2023-05-30,
+P408,Jorge Cruz,,NA,Miraflores,Traumatología,2023-02-11,179.3
+P409,Jorge Mendoza,45,NA,Miraflores,Traumatología,2024-01-06,
+P410,Jorge Cruz,,F,Miraflores,Traumatología,2023-01-10,
+P411,Carlos Salazar,,NA,,Ginecología,2023-06-11,
+P412,Pedro Gómez,,,Callao,,2023-09-17,
+P413,Sofía Gómez,,F,La Molina,Traumatología,2024-08-04,
+P414,Ana Fernández,,M,Surco,NA,2024-02-28,NA
+P415,Luis Fernández,75,M,,Cardiología,2024-07-05,301.53
+P416,Lucía Cruz,,,NA,Traumatología,2023-05-07,NA
+P417,Pedro Pérez,,F,Miraflores,Ginecología,2024-11-30,NA
+P418,Carlos Salazar,NA,F,,Odontología,2024-08-20,375.7
+P419,Sofía Gómez,,M,NA,Traumatología,2023-09-25,
+P420,Pedro Gómez,NA,,Los Olivos,Odontología,2024-10-03,154.52
+P421,María Torres,,F,La Molina,Odontología,2024-09-15,
+P422,Miguel Torres,60,,Surco,Ginecología,2024-07-03,
+P423,Rosa Torres,,M,Miraflores,Medicina General,2023-06-24,207.18
+P424,Rosa Rojas,17,NA,Los Olivos,Medicina General,2023-02-24,
+P425,Lucía Rojas,NA,F,San Isidro,,2024-07-18,NA
+P426,Carlos Fernández,NA,NA,,Cardiología,2023-04-15,NA
+P427,Jorge Cruz,33,NA,Callao,Cardiología,2023-06-22,
+P428,Lucía Mendoza,3,,NA,Odontología,2024-08-09,
+P429,Ana Salazar,,,NA,Pediatría,2023-10-24,NA
+P430,Ana Rojas,,,Chorrillos,,2023-09-21,
+P431,Sofía Salazar,13,,Chorrillos,NA,2024-10-21,
+P432,Sofía Cruz,NA,M,Chorrillos,Ginecología,2023-03-31,
+P433,Ana Mendoza,,M,Chorrillos,Pediatría,2024-05-21,NA
+P434,Miguel Salazar,87,NA,,Ginecología,2024-10-06,
+P435,Ana Mendoza,,NA,Miraflores,,2024-02-27,
+P436,Ana Salazar,,F,,Traumatología,2024-05-16,
+P437,Carlos Torres,NA,NA,Chorrillos,Cardiología,2023-04-05,151.37
+P438,Carlos Pérez,NA,M,Callao,Odontología,2023-06-17,NA
+P439,Lucía Ramírez,,NA,Callao,Medicina General,2023-11-24,179.98
+P440,Luis Torres,,M,Surco,Ginecología,2023-03-05,
+P441,Luis Salazar,,NA,,NA,2024-10-11,
+P442,Lucía Ramírez,NA,F,Miraflores,Cardiología,2024-07-20,
+P443,Luis Salazar,27,NA,Los Olivos,,2023-05-23,NA
+P444,Miguel Fernández,,,,,2023-07-28,
+P445,Rosa Rojas,39,F,Los Olivos,Cardiología,2024-09-13,
+P446,María Fernández,,NA,Callao,Traumatología,2023-09-17,
+P447,Rosa Pérez,,NA,San Isidro,Odontología,2023-08-19,
+P448,Rosa Mendoza,NA,M,Comas,Ginecología,2023-09-29,
+P449,Sofía Rojas,,F,Chorrillos,Traumatología,2023-06-16,NA
+P450,Miguel Cruz,,,,,2023-08-18,
+P451,Sofía Mendoza,52,NA,NA,Odontología,2024-02-19,NA
+P452,Rosa Gómez,,M,NA,Odontología,2023-07-20,NA
+P453,María Vargas,,M,Callao,Odontología,2024-11-07,NA
+P454,Ana Gómez,,NA,Los Olivos,Cardiología,2024-04-11,
+P455,Carlos Rojas,NA,,San Isidro,Cardiología,2024-01-19,
+P456,Pedro Torres,NA,NA,Surco,Ginecología,2024-10-23,
+P457,Miguel Cruz,NA,NA,Surco,Pediatría,2024-04-27,
+P458,María Vargas,,M,,Pediatría,2024-07-25,495.69
+P459,Ana Vargas,,M,NA,Medicina General,2023-02-23,492.75
+P460,Carlos Fernández,,F,Callao,Medicina General,2024-04-26,104.66
+P461,Pedro Fernández,NA,M,Chorrillos,Medicina General,2024-10-22,
+P462,Luis Torres,,F,Chorrillos,,2024-06-06,
+P463,Ana Torres,,NA,Los Olivos,Medicina General,2024-02-12,
+P464,Sofía Salazar,33,NA,Los Olivos,NA,2023-12-30,
+P465,Pedro Cruz,,NA,NA,,2023-02-09,
+P466,Jorge Pérez,,NA,Chorrillos,NA,2024-05-04,112.62
+P467,Pedro Cruz,NA,M,Miraflores,Medicina General,2023-03-22,
+P468,Lucía Cruz,NA,NA,La Molina,Ginecología,2023-03-15,NA
+P469,Pedro Ramírez,22,M,Chorrillos,Medicina General,2023-05-02,
+P470,Miguel Mendoza,84,M,Comas,Ginecología,2024-09-17,
+P471,María Mendoza,NA,,Surco,NA,2024-05-31,234.87
+P472,Pedro Gómez,,F,NA,,2023-03-14,
+P473,Pedro Rojas,25,NA,Surco,Pediatría,2024-09-14,272.17
+P474,Jorge Rojas,15,,La Molina,,2024-01-26,
+P475,María Rojas,NA,NA,Callao,Traumatología,2024-06-08,
+P476,Lucía Cruz,74,NA,Surco,Odontología,2023-10-03,431.39
+P477,Miguel Fernández,65,,Chorrillos,Traumatología,2024-04-15,
+P478,Miguel Mendoza,,NA,Chorrillos,Traumatología,2024-02-07,
+P479,Miguel Mendoza,,NA,Los Olivos,NA,2023-09-10,NA
+P480,Rosa Ramírez,,,La Molina,,2024-12-30,
+P481,Lucía Pérez,NA,F,Los Olivos,Medicina General,2024-07-26,NA
+P482,Ana Salazar,,NA,Miraflores,,2023-10-12,365.2
+P483,María Fernández,,F,NA,Cardiología,2023-05-12,
+P484,Sofía Salazar,,M,Callao,,2023-05-31,
+P485,Ana Vargas,,F,La Molina,Traumatología,2023-04-21,
+P486,Rosa Pérez,NA,,Comas,Cardiología,2023-10-27,211.86
+P487,Luis Mendoza,,,NA,Ginecología,2024-11-05,NA
+P488,María Mendoza,,NA,Los Olivos,Odontología,2023-06-21,NA
+P489,Carlos Cruz,,M,Comas,,2024-05-20,
+P490,Pedro Vargas,,,Callao,Odontología,2023-04-07,
+P491,Miguel Fernández,,NA,Comas,,2024-11-17,NA
+P492,Lucía Rojas,25,NA,Miraflores,Odontología,2024-08-06,361.79
+P493,Miguel Vargas,,,,Ginecología,2023-02-13,
+P494,Miguel Vargas,NA,M,,Medicina General,2023-03-23,
+P495,Lucía Vargas,43,M,,NA,2024-08-23,
+P496,Ana Fernández,,NA,Chorrillos,Traumatología,2023-12-28,
+P497,Pedro Torres,39,F,Callao,,2024-06-29,65.45
+P498,Sofía Mendoza,,M,San Isidro,Pediatría,2024-12-17,NA
+P499,Jorge Pérez,,,Surco,Cardiología,2024-02-08,NA
+P500,María Fernández,,M,Callao,Cardiología,2024-04-09,NA
+P501,María Salazar,8,NA,Los Olivos,Cardiología,2024-11-23,236.0
+P502,Miguel Salazar,62,M,Callao,NA,2024-11-17,408.67
+P503,Sofía Fernández,65,F,Chorrillos,Ginecología,2024-02-19,137.59
+P504,Pedro Fernández,43,,NA,Cardiología,2024-11-04,
+P505,Jorge Fernández,,M,NA,Odontología,2023-10-18,
+P506,Luis Gómez,,NA,Callao,Pediatría,2024-06-20,
+P507,Sofía Fernández,,F,Miraflores,Cardiología,2024-11-20,
+P508,Miguel Torres,,,Miraflores,Medicina General,2023-05-25,
+P509,María Rojas,,M,Comas,Traumatología,2024-10-27,
+P510,Sofía Mendoza,NA,NA,Surco,Odontología,2023-07-22,209.74
+P511,Ana Mendoza,64,NA,La Molina,Medicina General,2024-08-08,NA
+P512,Sofía Vargas,,M,Comas,Medicina General,2023-10-12,
+P513,Pedro Gómez,,NA,Surco,Medicina General,2024-10-19,
+P514,Carlos Fernández,19,NA,Surco,NA,2023-01-03,
+P515,Jorge Ramírez,NA,M,Chorrillos,Traumatología,2023-01-24,
+P516,Rosa Fernández,,NA,Callao,Cardiología,2024-01-26,
+P517,Miguel Torres,,M,Miraflores,NA,2023-07-28,NA
+P518,Jorge Rojas,,NA,Miraflores,Pediatría,2024-07-13,NA
+P519,Jorge Gómez,NA,NA,,Cardiología,2024-05-12,478.02
+P520,Jorge Gómez,NA,NA,Los Olivos,Traumatología,2023-07-04,NA
+P521,Sofía Gómez,,M,Surco,Cardiología,2023-05-28,
+P522,María Fernández,,M,San Isidro,Traumatología,2024-07-21,
+P523,Carlos Torres,,M,NA,Pediatría,2023-11-06,NA
+P524,Carlos Gómez,,F,,Traumatología,2023-11-10,
+P525,Ana Ramírez,4,NA,NA,Cardiología,2023-11-24,NA
+P526,Rosa Mendoza,,M,,Medicina General,2024-10-31,
+P527,Carlos Salazar,NA,,Miraflores,NA,2024-12-04,
+P528,Jorge Mendoza,,NA,La Molina,NA,2023-06-15,
+P529,María Pérez,NA,,,NA,2023-08-05,160.5
+P530,Lucía Cruz,NA,M,La Molina,Traumatología,2024-08-05,352.12
+P531,Pedro Rojas,,NA,,Cardiología,2023-10-14,NA
+P532,Miguel Ramírez,,F,Callao,Odontología,2024-07-01,NA
+P533,María Cruz,,NA,Surco,Ginecología,2024-09-29,
+P534,Pedro Gómez,,NA,Los Olivos,,2023-12-16,
+P535,Lucía Mendoza,,F,Callao,Medicina General,2023-04-23,NA
+P536,Ana Pérez,,F,NA,,2023-07-18,73.71
+P537,María Pérez,15,F,Callao,NA,2024-12-08,
+P538,Ana Torres,NA,M,Chorrillos,,2024-10-07,NA
+P539,María Rojas,58,NA,Surco,Ginecología,2024-07-20,
+P540,Carlos Cruz,,NA,,Medicina General,2023-07-05,
+P541,Ana Cruz,,NA,La Molina,Cardiología,2024-07-15,
+P542,Pedro Mendoza,90,F,Comas,Pediatría,2024-06-29,
+P543,Lucía Vargas,NA,,San Isidro,Cardiología,2024-09-03,
+P544,Luis Salazar,NA,M,San Isidro,Cardiología,2024-03-01,
+P545,Sofía Gómez,,NA,Surco,Cardiología,2023-02-25,
+P546,Lucía Rojas,,NA,San Isidro,Ginecología,2023-05-26,286.05
+P547,Luis Gómez,NA,M,Chorrillos,Cardiología,2024-07-28,NA
+P548,Carlos Vargas,,F,Miraflores,Pediatría,2023-08-18,
+P549,Carlos Rojas,,NA,,,2024-05-13,
+P550,Rosa Fernández,NA,NA,Miraflores,Cardiología,2024-05-03,438.79
+P551,Miguel Salazar,,M,Chorrillos,Ginecología,2024-03-28,
+P552,Rosa Mendoza,NA,NA,San Isidro,Medicina General,2024-03-10,
+P553,Jorge Vargas,NA,F,Callao,Ginecología,2024-11-27,
+P554,Ana Rojas,,F,Callao,NA,2023-03-09,NA
+P555,Miguel Salazar,,F,Callao,Odontología,2023-02-08,264.18
+P556,Sofía Fernández,70,,Callao,NA,2024-02-29,
+P557,María Pérez,NA,NA,Comas,NA,2023-05-18,428.26
+P558,Jorge Torres,,M,NA,Traumatología,2023-05-11,
+P559,Rosa Vargas,NA,,NA,Medicina General,2023-01-26,NA
+P560,Lucía Cruz,NA,NA,Chorrillos,Traumatología,2023-10-21,
+P561,Pedro Fernández,,M,,NA,2024-05-16,218.19
+P562,Pedro Cruz,,,Surco,NA,2023-06-23,387.4
+P563,Miguel Cruz,NA,F,Surco,Traumatología,2023-06-03,NA
+P564,Pedro Salazar,NA,F,Comas,Odontología,2023-07-06,
+P565,Miguel Ramírez,52,F,San Isidro,Pediatría,2024-08-20,
+P566,Miguel Ramírez,,F,La Molina,Cardiología,2024-09-18,417.15
+P567,Luis Rojas,,F,San Isidro,NA,2023-05-30,NA
+P568,Ana Pérez,,NA,Surco,Traumatología,2024-08-30,458.06
+P569,Luis Fernández,,NA,Chorrillos,,2023-07-23,
+P570,Ana Pérez,,M,,Cardiología,2024-10-12,214.55
+P571,Rosa Torres,NA,,,Pediatría,2024-06-15,266.23
+P572,Carlos Mendoza,NA,F,Los Olivos,Cardiología,2023-04-24,NA
+P573,Carlos Fernández,NA,,Los Olivos,Medicina General,2023-05-07,NA
+P574,Sofía Ramírez,,F,,Medicina General,2023-09-29,
+P575,María Cruz,NA,M,Comas,,2024-06-04,NA
+P576,Ana Ramírez,NA,NA,San Isidro,Ginecología,2023-04-05,476.17
+P577,Jorge Gómez,71,F,Callao,Odontología,2024-06-02,
+P578,Lucía Cruz,NA,F,Comas,Ginecología,2023-11-29,NA
+P579,Miguel Mendoza,82,,,Cardiología,2023-05-14,NA
+P580,María Ramírez,87,F,Comas,Ginecología,2024-02-19,
+P581,Lucía Rojas,,F,Callao,,2024-11-17,NA
+P582,María Pérez,87,M,Surco,Odontología,2023-04-09,
+P583,Sofía Fernández,51,F,NA,Odontología,2023-09-15,
+P584,María Mendoza,,NA,Callao,NA,2024-07-29,
+P585,Ana Cruz,,F,San Isidro,Pediatría,2023-10-11,462.7
+P586,Sofía Fernández,NA,,Los Olivos,Odontología,2024-05-04,NA
+P587,María Torres,NA,M,La Molina,Cardiología,2024-03-25,NA
+P588,Sofía Salazar,,NA,Miraflores,,2023-09-27,479.92
+P589,Luis Cruz,,F,Los Olivos,Traumatología,2024-03-25,
+P590,Lucía Cruz,,M,NA,Pediatría,2024-06-10,
+P591,Sofía Vargas,NA,,Chorrillos,Odontología,2023-03-10,
+P592,Sofía Mendoza,,NA,Comas,Medicina General,2023-01-07,NA
+P593,Carlos Torres,,M,Miraflores,Odontología,2024-10-28,NA
+P594,Ana Pérez,,M,Chorrillos,Traumatología,2023-03-14,NA
+P595,Carlos Cruz,89,F,La Molina,Cardiología,2024-08-29,NA
+P596,Miguel Pérez,,M,Surco,Pediatría,2024-02-27,
+P597,Sofía Fernández,12,,Miraflores,Cardiología,2023-12-10,
+P598,Jorge Salazar,NA,F,Surco,NA,2023-06-02,
+P599,Pedro Fernández,28,,Callao,Medicina General,2024-11-20,
+P600,Luis Ramírez,21,NA,San Isidro,Cardiología,2024-02-28,
+P601,Jorge Vargas,,M,NA,Pediatría,2023-10-21,
+P602,Carlos Mendoza,,F,,,2023-04-11,
+P603,Ana Fernández,44,M,La Molina,Medicina General,2024-10-26,NA
+P604,Miguel Pérez,NA,,NA,Cardiología,2023-06-15,
+P605,Rosa Mendoza,NA,F,Chorrillos,Cardiología,2024-05-03,NA
+P606,María Vargas,76,F,Comas,NA,2023-06-11,
+P607,Pedro Gómez,30,M,Comas,NA,2023-12-26,
+P608,Ana Cruz,,M,Surco,Medicina General,2024-04-20,
+P609,Carlos Salazar,,,Miraflores,Ginecología,2023-09-17,346.54
+P610,Luis Vargas,,M,Chorrillos,Cardiología,2023-09-01,413.33
+P611,Lucía Rojas,NA,M,Chorrillos,Ginecología,2023-02-22,
+P612,Lucía Ramírez,,M,Comas,NA,2024-10-26,
+P613,Jorge Torres,,,Chorrillos,Pediatría,2023-11-13,NA
+P614,Jorge Salazar,,M,San Isidro,NA,2023-08-19,
+P615,Carlos Vargas,,,Callao,NA,2024-02-20,
+P616,Carlos Mendoza,69,M,Callao,NA,2023-03-13,116.62
+P617,Rosa Mendoza,,F,Miraflores,Ginecología,2023-11-16,122.05
+P618,Miguel Vargas,NA,NA,San Isidro,,2024-09-25,
+P619,Lucía Salazar,7,NA,Comas,Cardiología,2024-02-21,
+P620,María Gómez,NA,F,San Isidro,,2024-10-30,
+P621,María Rojas,44,F,,,2023-03-15,NA
+P622,Pedro Salazar,,F,Comas,Ginecología,2024-01-01,
+P623,Jorge Salazar,,NA,Comas,NA,2023-03-25,
+P624,María Mendoza,31,M,Chorrillos,Traumatología,2024-06-21,NA
+P625,Lucía Pérez,40,,Los Olivos,Pediatría,2024-11-27,
+P626,Sofía Fernández,,,,,2023-07-30,
+P627,Sofía Pérez,NA,NA,,Cardiología,2024-06-29,
+P628,Luis Gómez,51,M,Surco,Medicina General,2023-04-16,
+P629,Sofía Fernández,68,M,Los Olivos,Cardiología,2024-04-08,
+P630,María Mendoza,,,,Odontología,2023-11-18,
+P631,Pedro Ramírez,NA,,San Isidro,Traumatología,2023-02-06,88.09
+P632,Rosa Mendoza,,NA,La Molina,NA,2023-05-13,NA
+P633,María Ramírez,63,NA,Surco,,2023-06-21,
+P634,Pedro Rojas,38,,,Cardiología,2023-02-23,
+P635,Carlos Mendoza,55,F,,Odontología,2023-08-14,
+P636,María Ramírez,,F,La Molina,NA,2023-12-28,
+P637,Luis Gómez,8,,Miraflores,NA,2023-10-01,201.12
+P638,Pedro Rojas,,NA,Los Olivos,Cardiología,2023-03-01,
+P639,Jorge Fernández,78,,Callao,NA,2024-11-20,124.64
+P640,Pedro Rojas,NA,M,Comas,Traumatología,2024-09-19,NA
+P641,María Ramírez,NA,M,Los Olivos,NA,2024-06-03,NA
+P642,Miguel Mendoza,NA,M,Miraflores,Cardiología,2024-11-19,327.92
+P643,Pedro Salazar,,,Miraflores,Ginecología,2023-08-07,447.97
+P644,Luis Fernández,37,F,Callao,Odontología,2024-12-23,312.32
+P645,Lucía Torres,,NA,San Isidro,Traumatología,2024-05-09,
+P646,Carlos Cruz,,M,Miraflores,Ginecología,2024-09-21,
+P647,Luis Torres,42,,Chorrillos,Odontología,2024-08-05,324.96
+P648,María Fernández,NA,M,San Isidro,,2023-01-12,
+P649,Carlos Rojas,38,,Chorrillos,Traumatología,2024-01-23,82.17
+P650,Rosa Torres,23,F,NA,Odontología,2023-10-28,
+P651,Carlos Mendoza,32,,Surco,Cardiología,2023-12-01,240.17
+P652,Pedro Mendoza,,F,Callao,NA,2024-01-10,
+P653,Luis Vargas,,F,Chorrillos,NA,2024-04-16,243.24
+P654,Luis Pérez,NA,NA,Los Olivos,NA,2024-03-11,NA
+P655,Lucía Gómez,NA,,La Molina,Medicina General,2023-07-31,NA
+P656,Miguel Ramírez,78,,Miraflores,,2024-08-01,479.26
+P657,Rosa Cruz,,F,Chorrillos,Ginecología,2024-01-24,353.87
+P658,María Fernández,,NA,San Isidro,Ginecología,2023-11-03,NA
+P659,Jorge Cruz,,F,Callao,Cardiología,2023-04-12,NA
+P660,Carlos Gómez,NA,,NA,Medicina General,2024-09-24,
+P661,Pedro Rojas,31,M,La Molina,Odontología,2023-11-29,NA
+P662,Luis Gómez,,,La Molina,NA,2024-08-24,
+P663,Rosa Pérez,4,F,NA,Odontología,2024-11-30,
+P664,Lucía Torres,,,,Ginecología,2024-09-18,
+P665,Rosa Salazar,64,M,Chorrillos,Traumatología,2024-02-06,53.13
+P666,Jorge Vargas,46,,,,2023-12-23,
+P667,Rosa Rojas,25,M,Los Olivos,Cardiología,2024-06-27,
+P668,Miguel Rojas,NA,F,Miraflores,Medicina General,2023-05-27,460.79
+P669,Lucía Ramírez,NA,NA,Callao,Cardiología,2023-02-07,
+P670,Miguel Gómez,,NA,Comas,Ginecología,2024-07-03,208.03
+P671,Sofía Vargas,,M,San Isidro,Pediatría,2023-09-15,
+P672,Rosa Torres,NA,NA,Callao,Medicina General,2023-02-22,470.84
+P673,Miguel Cruz,44,M,NA,Pediatría,2023-11-05,NA
+P674,Jorge Fernández,,,Callao,Traumatología,2024-10-21,NA
+P675,Ana Salazar,14,,Surco,Traumatología,2023-08-19,NA
+P676,Rosa Pérez,87,F,Los Olivos,Ginecología,2023-12-19,476.6
+P677,Jorge Ramírez,,F,,Odontología,2023-03-31,264.14
+P678,Carlos Rojas,72,M,La Molina,Cardiología,2023-07-21,NA
+P679,Pedro Ramírez,,,Chorrillos,Cardiología,2024-12-31,
+P680,Lucía Ramírez,,NA,Los Olivos,Medicina General,2024-03-30,460.9
+P681,María Cruz,NA,NA,Comas,Ginecología,2023-11-28,
+P682,Carlos Ramírez,,M,Comas,Traumatología,2024-10-26,156.91
+P683,Miguel Fernández,,F,La Molina,Medicina General,2023-06-01,
+P684,Pedro Cruz,24,F,La Molina,Odontología,2023-05-22,222.59
+P685,Sofía Cruz,NA,F,Los Olivos,,2024-11-24,NA
+P686,Miguel Pérez,NA,,La Molina,NA,2023-03-01,NA
+P687,Carlos Cruz,NA,M,NA,Odontología,2023-06-23,
+P688,Jorge Torres,,F,Chorrillos,Ginecología,2024-05-19,
+P689,Luis Salazar,NA,M,San Isidro,Ginecología,2023-05-25,
+P690,Jorge Fernández,,M,La Molina,Ginecología,2023-06-23,NA
+P691,Carlos Rojas,NA,NA,La Molina,Pediatría,2024-04-09,NA
+P692,Carlos Fernández,22,NA,San Isidro,Ginecología,2023-01-14,422.21
+P693,Rosa Salazar,NA,F,Surco,Cardiología,2023-03-27,
+P694,Lucía Vargas,,M,Comas,Odontología,2023-09-30,
+P695,Sofía Cruz,NA,F,La Molina,Medicina General,2023-09-03,
+P696,Lucía Vargas,86,NA,La Molina,Traumatología,2023-06-19,
+P697,Luis Torres,,,Miraflores,Ginecología,2023-04-06,NA
+P698,María Gómez,NA,NA,Callao,Cardiología,2023-07-05,
+P699,Rosa Pérez,15,M,Comas,Ginecología,2024-11-27,
+P700,Lucía Cruz,,F,Comas,Ginecología,2024-05-25,NA
+P701,Sofía Cruz,88,M,NA,Odontología,2024-03-16,
+P702,Miguel Cruz,,NA,,Odontología,2023-05-20,NA
+P703,Sofía Vargas,,,NA,Odontología,2023-02-12,
+P704,María Pérez,NA,F,Comas,Medicina General,2024-04-20,341.57
+P705,Ana Ramírez,,M,La Molina,NA,2024-11-12,
+P706,Carlos Mendoza,,,,Odontología,2023-01-05,
+P707,Jorge Rojas,NA,NA,Chorrillos,,2024-08-29,
+P708,Ana Rojas,81,F,Comas,Medicina General,2024-06-12,141.46
+P709,Jorge Gómez,,NA,NA,Odontología,2023-01-13,NA
+P710,Luis Gómez,26,M,San Isidro,,2024-04-23,
+P711,María Pérez,,,San Isidro,Odontología,2024-08-15,NA
+P712,Miguel Ramírez,,F,Surco,Odontología,2023-08-21,407.99
+P713,Jorge Salazar,,NA,San Isidro,Cardiología,2024-02-29,296.37
+P714,Miguel Ramírez,,NA,Surco,NA,2024-08-25,381.42
+P715,Jorge Rojas,,F,Comas,,2024-03-17,
+P716,Luis Torres,,M,NA,Odontología,2023-08-28,NA
+P717,Miguel Fernández,67,NA,Miraflores,Medicina General,2024-10-21,
+P718,Luis Salazar,45,,Chorrillos,NA,2024-09-10,374.09
+P719,Ana Ramírez,,F,Miraflores,Medicina General,2023-04-24,
+P720,Carlos Ramírez,,,Miraflores,Ginecología,2023-10-31,
+P721,Luis Mendoza,,F,Callao,,2024-03-23,
+P722,Ana Vargas,,M,Chorrillos,Traumatología,2023-05-30,NA
+P723,Jorge Mendoza,,F,Los Olivos,Cardiología,2024-02-27,
+P724,Luis Rojas,,M,NA,,2024-05-26,
+P725,Pedro Torres,,M,Callao,Medicina General,2024-11-03,
+P726,María Cruz,NA,NA,Miraflores,Medicina General,2024-02-27,
+P727,Miguel Vargas,,F,NA,,2023-12-19,
+P728,Lucía Salazar,NA,F,Miraflores,NA,2023-11-05,366.18
+P729,María Rojas,,NA,Comas,Ginecología,2023-09-27,273.15
+P730,Jorge Gómez,NA,M,Callao,Pediatría,2024-12-17,456.37
+P731,María Gómez,,F,La Molina,NA,2023-12-28,NA
+P732,Miguel Gómez,NA,F,,Pediatría,2024-10-08,NA
+P733,Luis Mendoza,,M,San Isidro,Traumatología,2023-01-25,NA
+P734,Rosa Pérez,83,F,Callao,Pediatría,2024-03-15,341.22
+P735,Miguel Ramírez,,F,Chorrillos,Ginecología,2023-06-02,NA
+P736,Carlos Gómez,NA,M,Callao,Medicina General,2023-03-30,203.61
+P737,María Torres,,NA,Surco,,2023-03-19,NA
+P738,Pedro Torres,NA,,Los Olivos,Cardiología,2024-02-29,281.7
+P739,Sofía Cruz,,NA,San Isidro,Pediatría,2024-12-22,
+P740,Carlos Gómez,NA,,Los Olivos,Traumatología,2023-03-01,
+P741,Miguel Ramírez,,NA,Miraflores,Cardiología,2024-05-30,NA
+P742,Lucía Pérez,,F,Callao,Traumatología,2024-09-02,
+P743,Rosa Vargas,27,M,Surco,Cardiología,2024-08-26,385.28
+P744,María Pérez,,M,Los Olivos,NA,2023-08-23,NA
+P745,Miguel Pérez,37,NA,Surco,Odontología,2024-01-16,NA
+P746,Lucía Torres,63,F,San Isidro,NA,2023-12-18,209.54
+P747,Sofía Torres,55,F,,Medicina General,2024-02-23,258.94
+P748,Carlos Ramírez,,M,NA,Odontología,2024-04-16,
+P749,Rosa Rojas,,NA,Callao,NA,2023-08-14,
+P750,Rosa Pérez,NA,NA,Los Olivos,Medicina General,2024-07-20,
+P751,Pedro Rojas,,M,Comas,Cardiología,2023-06-16,
+P752,Rosa Mendoza,,NA,Surco,Traumatología,2023-07-23,
+P753,Pedro Gómez,,M,,Cardiología,2024-05-16,
+P754,Lucía Cruz,,NA,Miraflores,Traumatología,2023-11-08,
+P755,Carlos Fernández,NA,NA,,NA,2024-08-23,119.71
+P756,Pedro Ramírez,,,La Molina,Odontología,2023-04-19,
+P757,María Cruz,81,,Los Olivos,Ginecología,2023-12-27,194.89
+P758,Pedro Fernández,,,La Molina,Ginecología,2024-03-05,
+P759,Ana Pérez,,M,,Traumatología,2024-08-04,477.67
+P760,María Torres,,M,,Traumatología,2024-02-07,
+P761,Lucía Salazar,,F,San Isidro,Ginecología,2024-12-13,157.52
+P762,Pedro Rojas,30,M,Comas,Odontología,2024-12-14,
+P763,Luis Gómez,NA,,Miraflores,NA,2024-03-16,
+P764,Rosa Fernández,,F,Surco,NA,2024-07-28,NA
+P765,Carlos Torres,NA,F,La Molina,,2024-07-26,
+P766,María Salazar,65,M,Chorrillos,Pediatría,2023-09-04,
+P767,Rosa Ramírez,NA,NA,,,2023-12-28,380.98
+P768,Sofía Ramírez,,NA,Surco,Traumatología,2023-06-25,339.73
+P769,Rosa Gómez,,M,Los Olivos,Cardiología,2024-09-24,98.28
+P770,Miguel Gómez,NA,NA,Callao,Ginecología,2023-12-19,NA
+P771,Sofía Pérez,17,,Surco,Ginecología,2024-11-17,NA
+P772,María Pérez,,F,Comas,Ginecología,2024-09-14,
+P773,María Mendoza,,,Los Olivos,Pediatría,2024-06-27,NA
+P774,Lucía Rojas,NA,NA,,Cardiología,2023-01-01,
+P775,Pedro Fernández,,,Surco,,2023-02-21,76.0
+P776,Jorge Fernández,30,,Los Olivos,Cardiología,2023-12-18,
+P777,Lucía Vargas,,,,Pediatría,2024-11-23,470.75
+P778,Lucía Ramírez,26,,NA,Odontología,2023-03-10,243.68
+P779,Pedro Gómez,NA,F,Los Olivos,Medicina General,2024-09-14,NA
+P780,Pedro Ramírez,,M,Chorrillos,Medicina General,2023-04-29,203.01
+P781,Pedro Cruz,47,M,NA,Ginecología,2023-02-15,121.86
+P782,María Vargas,52,,Miraflores,Pediatría,2023-05-05,
+P783,Ana Fernández,80,M,Miraflores,Pediatría,2024-10-16,376.34
+P784,Lucía Ramírez,,M,,,2024-09-22,422.55
+P785,Luis Rojas,,NA,Los Olivos,Odontología,2024-10-08,NA
+P786,Ana Mendoza,,F,Callao,Medicina General,2023-03-16,
+P787,Pedro Rojas,NA,,Comas,Ginecología,2024-07-02,232.46
+P788,Miguel Vargas,NA,M,Comas,Traumatología,2024-10-13,486.55
+P789,Carlos Cruz,NA,NA,Surco,Cardiología,2024-04-10,NA
+P790,Lucía Pérez,,M,Callao,NA,2024-08-01,
+P791,Jorge Rojas,,M,Surco,Medicina General,2024-11-12,142.08
+P792,Ana Salazar,,F,Comas,Ginecología,2023-09-24,
+P793,Lucía Mendoza,,F,Chorrillos,Cardiología,2024-01-15,NA
+P794,Jorge Fernández,85,F,San Isidro,Ginecología,2023-06-07,
+P795,Sofía Vargas,53,NA,La Molina,Ginecología,2023-07-03,NA
+P796,Miguel Cruz,,F,Miraflores,Traumatología,2023-06-24,NA
+P797,Rosa Fernández,NA,,NA,Medicina General,2023-04-25,187.96
+P798,Miguel Salazar,28,NA,Los Olivos,Ginecología,2024-02-03,
+P799,Ana Ramírez,,M,Surco,Pediatría,2023-02-21,359.02
+P800,Pedro Gómez,NA,M,NA,Traumatología,2023-04-06,488.08
+P801,Lucía Fernández,,,San Isidro,Ginecología,2023-09-06,
+P802,Pedro Gómez,,,La Molina,Medicina General,2024-11-30,290.59
+P803,Sofía Torres,,M,Chorrillos,,2024-10-25,
+P804,María Salazar,,M,Chorrillos,,2023-01-07,
+P805,Pedro Mendoza,,NA,NA,Odontología,2023-09-17,
+P806,Rosa Cruz,,NA,,Traumatología,2023-04-22,474.67
+P807,Jorge Torres,,NA,NA,,2024-10-29,
+P808,Jorge Salazar,,NA,NA,Cardiología,2024-04-19,NA
+P809,Luis Pérez,,NA,Chorrillos,Traumatología,2023-05-14,
+P810,Lucía Vargas,NA,,Callao,Traumatología,2023-09-02,NA
+P811,Lucía Gómez,4,F,NA,Odontología,2024-07-17,463.43
+P812,María Pérez,,,NA,Traumatología,2023-09-09,
+P813,Miguel Cruz,NA,,La Molina,Odontología,2023-09-07,
+P814,Miguel Ramírez,39,F,,Pediatría,2023-10-20,
+P815,Jorge Ramírez,,F,La Molina,Cardiología,2024-08-29,
+P816,Jorge Gómez,,,Los Olivos,Odontología,2023-10-09,
+P817,Miguel Rojas,,M,Los Olivos,Medicina General,2023-10-06,
+P818,Lucía Vargas,NA,F,Comas,Traumatología,2024-06-09,
+P819,Lucía Cruz,,NA,Surco,Odontología,2023-04-26,261.38
+P820,Miguel Rojas,52,F,Callao,Ginecología,2023-04-13,NA
+P821,María Cruz,NA,F,NA,Odontología,2023-06-13,
+P822,Luis Torres,65,M,La Molina,Pediatría,2024-06-24,158.15
+P823,Ana Cruz,33,M,La Molina,Cardiología,2024-10-01,
+P824,Pedro Salazar,10,NA,Los Olivos,,2024-02-16,NA
+P825,Jorge Mendoza,66,,Callao,Odontología,2024-02-24,
+P826,Sofía Torres,NA,F,Miraflores,,2024-12-08,NA
+P827,Jorge Salazar,36,,Comas,Traumatología,2023-12-07,
+P828,María Gómez,55,,San Isidro,Ginecología,2024-10-14,72.31
+P829,Lucía Salazar,,,Comas,Cardiología,2023-11-15,
+P830,Lucía Gómez,,,Callao,NA,2024-01-18,421.95
+P831,Sofía Torres,,M,Miraflores,Odontología,2023-11-17,207.66
+P832,Carlos Fernández,,F,Surco,NA,2023-05-27,
+P833,María Vargas,NA,NA,NA,Ginecología,2024-01-29,NA
+P834,Carlos Rojas,,NA,Los Olivos,NA,2024-06-10,
+P835,Pedro Fernández,,NA,,Pediatría,2023-11-20,201.85
+P836,Carlos Vargas,78,F,Comas,,2023-05-05,
+P837,Jorge Torres,NA,F,Surco,NA,2023-09-20,
+P838,Jorge Pérez,72,NA,Callao,Medicina General,2024-12-03,
+P839,Sofía Cruz,70,,Comas,NA,2024-05-13,342.83
+P840,Sofía Pérez,3,F,La Molina,Ginecología,2024-07-31,97.29
+P841,Carlos Vargas,,,Chorrillos,NA,2023-08-29,NA
+P842,Jorge Pérez,,,Chorrillos,Ginecología,2024-05-13,
+P843,Pedro Vargas,72,F,La Molina,NA,2024-07-24,
+P844,Carlos Ramírez,,,San Isidro,Odontología,2024-07-15,NA
+P845,Luis Mendoza,,NA,La Molina,,2023-03-23,185.48
+P846,Miguel Pérez,44,F,Comas,Traumatología,2023-08-15,
+P847,Pedro Vargas,NA,,Los Olivos,Medicina General,2023-12-15,108.54
+P848,Pedro Salazar,,M,Chorrillos,Ginecología,2024-05-08,NA
+P849,Lucía Cruz,,M,Callao,Medicina General,2023-04-05,
+P850,Carlos Torres,,,NA,Ginecología,2024-10-06,258.73
+P851,Sofía Fernández,52,,Chorrillos,Ginecología,2023-03-22,NA
+P852,María Ramírez,,NA,Chorrillos,Medicina General,2024-02-04,103.9
+P853,Lucía Salazar,4,F,NA,Medicina General,2024-06-29,
+P854,Miguel Mendoza,,NA,Chorrillos,Odontología,2023-10-09,
+P855,Miguel Mendoza,35,M,Surco,Traumatología,2024-12-14,
+P856,Ana Pérez,,,Callao,Odontología,2023-09-02,NA
+P857,Miguel Torres,,F,Surco,Cardiología,2023-06-16,NA
+P858,María Salazar,,F,Miraflores,Medicina General,2023-11-18,NA
+P859,Carlos Ramírez,,NA,Miraflores,Cardiología,2024-06-27,
+P860,Rosa Gómez,,F,Callao,Cardiología,2023-12-25,
+P861,Ana Salazar,,,,Traumatología,2024-06-02,128.96
+P862,Carlos Gómez,NA,M,NA,Ginecología,2024-09-26,NA
+P863,Jorge Fernández,NA,F,Surco,Ginecología,2024-05-26,297.76
+P864,María Fernández,4,M,,Odontología,2023-10-02,NA
+P865,Luis Cruz,NA,F,La Molina,Pediatría,2023-01-19,NA
+P866,Carlos Fernández,,M,Comas,,2024-04-22,454.21
+P867,María Cruz,,M,Comas,Pediatría,2023-07-31,55.42
+P868,Carlos Ramírez,NA,,Chorrillos,Pediatría,2023-07-18,
+P869,Luis Rojas,NA,M,San Isidro,Ginecología,2023-01-03,466.58
+P870,Ana Pérez,NA,M,Los Olivos,Odontología,2024-11-15,NA
+P871,Jorge Mendoza,,,,Medicina General,2024-05-26,NA
+P872,Miguel Cruz,NA,F,Comas,Pediatría,2023-07-24,
+P873,Lucía Ramírez,NA,,San Isidro,NA,2023-11-09,
+P874,Jorge Vargas,,F,San Isidro,Cardiología,2023-01-23,449.61
+P875,Lucía Torres,NA,NA,Comas,Pediatría,2023-08-27,230.94
+P876,Pedro Cruz,,F,,Pediatría,2024-04-30,
+P877,Jorge Cruz,23,NA,Miraflores,NA,2024-09-08,NA
+P878,Sofía Vargas,,M,Callao,Pediatría,2024-03-28,NA
+P879,Miguel Cruz,,,Chorrillos,,2024-02-09,NA
+P880,Miguel Salazar,,F,Miraflores,Medicina General,2023-08-30,
+P881,Lucía Torres,,NA,,Ginecología,2024-03-08,
+P882,Sofía Salazar,NA,,Chorrillos,,2023-02-14,
+P883,María Salazar,,M,Surco,,2024-11-19,
+P884,María Ramírez,,M,Chorrillos,Traumatología,2024-12-31,61.84
+P885,María Gómez,31,NA,Surco,,2023-09-24,NA
+P886,Luis Torres,NA,M,Comas,,2023-01-11,
+P887,María Rojas,NA,F,Callao,Medicina General,2024-11-27,NA
+P888,Lucía Torres,40,,Miraflores,Medicina General,2023-11-21,
+P889,Lucía Salazar,,M,NA,Pediatría,2024-12-09,
+P890,Rosa Mendoza,NA,F,Surco,NA,2024-11-27,
+P891,María Cruz,79,,La Molina,Pediatría,2023-06-10,235.87
+P892,Carlos Fernández,48,NA,La Molina,Pediatría,2024-11-23,
+P893,Sofía Salazar,NA,F,,Odontología,2024-01-10,NA
+P894,Lucía Vargas,NA,,Comas,Traumatología,2023-07-23,92.98
+P895,Pedro Gómez,,NA,Surco,Odontología,2024-12-01,NA
+P896,Carlos Salazar,44,,San Isidro,,2024-08-01,482.05
+P897,Lucía Salazar,30,,Comas,Cardiología,2023-06-27,
+P898,Ana Gómez,,,La Molina,Medicina General,2024-01-03,
+P899,Pedro Gómez,NA,F,Chorrillos,Traumatología,2023-01-22,
+P900,Rosa Mendoza,,,La Molina,Odontología,2024-03-31,NA
+P901,Pedro Cruz,,F,NA,Ginecología,2023-09-26,
+P902,María Mendoza,,NA,Comas,,2024-07-01,
+P903,Lucía Mendoza,,,Comas,Ginecología,2024-10-02,NA
+P904,Ana Mendoza,,NA,Callao,Pediatría,2024-03-17,
+P905,Jorge Gómez,49,,Miraflores,Cardiología,2023-10-08,
+P906,Carlos Salazar,60,F,Los Olivos,Odontología,2024-04-22,NA
+P907,Rosa Rojas,,F,,Odontología,2023-12-12,NA
+P908,Pedro Gómez,,M,Miraflores,Odontología,2023-02-19,NA
+P909,Carlos Mendoza,,F,Los Olivos,Medicina General,2024-11-05,113.66
+P910,María Gómez,,NA,Miraflores,Odontología,2024-11-06,170.57
+P911,Miguel Torres,,,Chorrillos,NA,2023-04-10,
+P912,Jorge Ramírez,5,,,Ginecología,2024-09-07,
+P913,Carlos Mendoza,NA,NA,Chorrillos,Cardiología,2023-11-26,
+P914,Ana Mendoza,,,,Traumatología,2023-02-16,
+P915,María Gómez,,NA,Miraflores,,2024-08-04,375.26
+P916,Carlos Ramírez,,NA,La Molina,Pediatría,2024-06-13,NA
+P917,Rosa Salazar,11,M,La Molina,Medicina General,2024-09-30,
+P918,Carlos Fernández,,F,Chorrillos,Medicina General,2023-06-15,NA
+P919,María Torres,,,San Isidro,Traumatología,2024-01-28,NA
+P920,Ana Salazar,,F,San Isidro,,2024-01-17,NA
+P921,Jorge Torres,NA,NA,Miraflores,,2023-06-22,
+P922,Luis Fernández,60,M,Los Olivos,,2024-01-17,
+P923,María Ramírez,NA,F,Surco,Traumatología,2024-03-30,NA
+P924,Pedro Salazar,NA,,La Molina,,2024-09-04,
+P925,Pedro Fernández,NA,,San Isidro,Cardiología,2024-04-09,
+P926,Jorge Pérez,,NA,Los Olivos,Pediatría,2024-04-26,NA
+P927,Ana Mendoza,,F,Miraflores,Ginecología,2024-09-17,68.0
+P928,Lucía Salazar,11,F,San Isidro,NA,2024-03-29,
+P929,Miguel Torres,,F,Los Olivos,Traumatología,2024-10-17,
+P930,Ana Salazar,30,NA,Miraflores,Odontología,2024-12-31,386.87
+P931,Rosa Ramírez,8,M,Comas,Traumatología,2023-02-27,228.65
+P932,Miguel Mendoza,,NA,Surco,Traumatología,2023-06-14,109.74
+P933,Sofía Fernández,,M,La Molina,,2024-11-05,
+P934,Miguel Vargas,83,M,Comas,Ginecología,2024-08-04,
+P935,María Salazar,13,M,La Molina,Medicina General,2023-12-03,274.14
+P936,Ana Vargas,NA,F,Miraflores,Medicina General,2023-01-02,NA
+P937,Ana Salazar,NA,M,San Isidro,Pediatría,2023-09-05,NA
+P938,Sofía Fernández,,F,Callao,Ginecología,2024-02-13,NA
+P939,Pedro Rojas,NA,,Surco,NA,2023-12-03,NA
+P940,María Mendoza,42,,Surco,Odontología,2024-10-08,
+P941,Lucía Vargas,54,M,Comas,Cardiología,2023-02-21,
+P942,Jorge Cruz,,NA,Callao,,2024-07-12,
+P943,Ana Ramírez,,,La Molina,Odontología,2024-06-06,
+P944,Pedro Cruz,4,M,NA,Cardiología,2023-06-15,
+P945,Sofía Ramírez,62,F,Miraflores,Cardiología,2024-07-13,
+P946,Miguel Ramírez,41,M,Chorrillos,Cardiología,2023-07-19,NA
+P947,Luis Mendoza,,F,Comas,Medicina General,2024-09-19,NA
+P948,Pedro Torres,,NA,Callao,Pediatría,2023-03-14,150.07
+P949,Luis Ramírez,53,M,Miraflores,Ginecología,2024-11-19,53.29
+P950,Luis Vargas,NA,NA,Los Olivos,Cardiología,2023-05-12,NA
+P951,Miguel Fernández,77,NA,NA,NA,2023-11-24,
+P952,Sofía Cruz,NA,,Miraflores,NA,2023-08-29,NA
+P953,Luis Ramírez,,NA,Callao,Pediatría,2024-04-10,NA
+P954,Sofía Rojas,NA,NA,,NA,2023-10-25,
+P955,Carlos Rojas,,,Callao,Traumatología,2024-12-24,NA
+P956,Miguel Gómez,27,NA,Surco,Odontología,2023-08-02,310.4
+P957,María Mendoza,NA,,Surco,Traumatología,2023-02-13,NA
+P958,Sofía Fernández,,F,NA,,2024-05-29,353.45
+P959,Luis Torres,,,Chorrillos,Ginecología,2024-11-16,410.67
+P960,Jorge Vargas,,NA,,Cardiología,2024-03-22,211.64
+P961,Jorge Cruz,NA,,Miraflores,Pediatría,2024-05-30,NA
+P962,Rosa Rojas,NA,,Comas,Cardiología,2024-02-22,NA
+P963,María Ramírez,87,NA,Miraflores,Odontología,2023-11-08,
+P964,Jorge Fernández,NA,NA,Surco,NA,2023-06-02,55.92
+P965,Ana Mendoza,,F,La Molina,Traumatología,2023-10-16,
+P966,Pedro Torres,,,San Isidro,,2023-04-12,
+P967,Sofía Gómez,,,Miraflores,NA,2024-08-30,258.27
+P968,Carlos Cruz,NA,NA,,Medicina General,2024-01-11,
+P969,María Mendoza,NA,F,NA,,2023-05-07,
+P970,Ana Gómez,,M,La Molina,Odontología,2024-12-02,
+P971,Rosa Vargas,,M,Comas,Pediatría,2024-09-06,NA
+P972,Luis Vargas,,M,Comas,Cardiología,2023-03-25,NA
+P973,Luis Ramírez,75,M,La Molina,Cardiología,2024-12-27,NA
+P974,Rosa Salazar,54,NA,Surco,Ginecología,2024-04-02,61.12
+P975,Miguel Rojas,4,F,Chorrillos,Odontología,2024-10-10,
+P976,Ana Gómez,,,Chorrillos,Medicina General,2023-12-21,159.29
+P977,Sofía Vargas,67,,San Isidro,Traumatología,2024-08-30,200.67
+P978,Pedro Pérez,,M,,Odontología,2024-04-07,
+P979,Miguel Torres,,M,La Molina,NA,2023-06-01,
+P980,Lucía Rojas,67,F,San Isidro,Odontología,2023-04-20,NA
+P981,Carlos Vargas,,,Surco,,2023-01-24,NA
+P982,Sofía Salazar,NA,NA,Surco,Odontología,2024-03-23,
+P983,María Pérez,62,NA,Los Olivos,,2024-01-17,
+P984,Rosa Rojas,NA,,Callao,Traumatología,2023-06-27,
+P985,Luis Pérez,,M,San Isidro,Pediatría,2023-05-08,
+P986,Pedro Gómez,NA,,Surco,Ginecología,2024-08-16,NA
+P987,Jorge Pérez,,F,Comas,,2024-11-30,
+P988,Lucía Pérez,NA,,Callao,NA,2024-01-03,NA
+P989,Lucía Torres,,,La Molina,Cardiología,2023-03-08,405.78
+P990,Sofía Rojas,NA,F,Chorrillos,Traumatología,2023-06-23,
+P991,Lucía Cruz,66,NA,Los Olivos,Medicina General,2024-02-05,NA
+P992,Ana Vargas,NA,M,Chorrillos,Traumatología,2023-09-12,
+P993,Jorge Rojas,41,NA,Miraflores,Pediatría,2023-06-03,
+P994,Ana Cruz,,NA,Callao,Ginecología,2024-02-16,
+P995,Miguel Fernández,,,,Ginecología,2024-07-20,
+P996,Sofía Ramírez,,,San Isidro,Odontología,2023-03-29,426.01
+P997,Rosa Mendoza,NA,F,San Isidro,NA,2023-08-17,
+P998,Pedro Pérez,,NA,NA,Pediatría,2023-12-17,NA
+P999,Sofía Salazar,,NA,Surco,NA,2024-09-22,
+P1000,Lucía Mendoza,,,Miraflores,Traumatología,2023-09-24,
+P1001,Lucía Fernández,NA,M,,Odontología,2023-10-11,122.65
+P1002,Ana Salazar,,M,La Molina,Cardiología,2023-01-19,NA
+P1003,Luis Torres,,NA,La Molina,NA,2024-09-21,
+P1004,Lucía Pérez,,F,La Molina,Ginecología,2024-03-07,
+P1005,Luis Cruz,72,F,Comas,Medicina General,2024-08-03,200.45
+P1006,Carlos Mendoza,NA,M,Chorrillos,Traumatología,2023-09-21,
+P1007,María Fernández,NA,F,,Traumatología,2024-11-21,190.94
+P1008,Ana Torres,,,Chorrillos,Odontología,2024-11-19,NA
+P1009,Rosa Rojas,NA,F,Miraflores,,2023-05-13,
+P1010,Ana Cruz,76,M,,Pediatría,2024-06-09,
+P1011,María Fernández,34,NA,Callao,Ginecología,2024-06-19,NA
+P1012,Miguel Fernández,,F,San Isidro,Medicina General,2023-03-31,
+P1013,Sofía Gómez,,M,Comas,Odontología,2024-06-30,
+P1014,María Gómez,,M,Miraflores,Pediatría,2023-03-10,NA
+P1015,Carlos Ramírez,,,San Isidro,Ginecología,2023-01-26,
+P1016,Miguel Fernández,,F,Miraflores,Medicina General,2024-09-29,NA
+P1017,María Mendoza,NA,,Miraflores,Ginecología,2023-05-29,198.92
+P1018,Jorge Torres,87,,Miraflores,,2024-09-16,
+P1019,Pedro Salazar,NA,NA,Chorrillos,,2023-03-27,
+P1020,Sofía Rojas,NA,,Los Olivos,Cardiología,2023-01-19,
+P1021,Jorge Fernández,39,,La Molina,Medicina General,2023-03-23,
+P1022,María Torres,,NA,San Isidro,NA,2024-12-31,NA
+P1023,Luis Mendoza,,,NA,Traumatología,2024-03-30,NA
+P1024,Carlos Cruz,,M,Comas,Traumatología,2024-08-23,NA
+P1025,Miguel Cruz,32,M,NA,Ginecología,2024-03-16,366.96
+P1026,Luis Rojas,72,NA,San Isidro,Pediatría,2024-04-17,399.96
+P1027,Sofía Cruz,5,F,Callao,Pediatría,2024-04-17,
+P1028,Sofía Vargas,,,NA,Ginecología,2023-08-25,NA
+P1029,Luis Torres,,,Miraflores,Cardiología,2023-10-11,249.45
+P1030,Miguel Pérez,,M,Los Olivos,Cardiología,2024-09-29,
+P1031,Pedro Gómez,,NA,Callao,Cardiología,2023-12-12,284.71
+P1032,Lucía Salazar,NA,F,Chorrillos,Pediatría,2024-09-13,NA
+P1033,Sofía Gómez,,F,La Molina,Cardiología,2024-10-12,166.99
+P1034,Rosa Pérez,,,Surco,Ginecología,2023-09-24,
+P1035,Sofía Fernández,33,NA,Chorrillos,,2024-03-20,NA
+P1036,Sofía Mendoza,,,Callao,Cardiología,2023-12-07,NA
+P1037,Sofía Salazar,NA,,NA,Odontología,2023-04-30,
+P1038,Carlos Fernández,NA,,Los Olivos,NA,2023-12-31,NA
+P1039,María Gómez,NA,M,,Pediatría,2023-01-30,
+P1040,Jorge Fernández,NA,,Surco,Traumatología,2024-05-28,
+P1041,María Salazar,,M,Miraflores,Cardiología,2024-07-22,NA
+P1042,María Pérez,NA,NA,Surco,Traumatología,2024-03-14,189.63
+P1043,Jorge Mendoza,,NA,NA,Medicina General,2023-02-03,299.77
+P1044,Luis Fernández,NA,,San Isidro,Pediatría,2023-03-26,NA
+P1045,María Rojas,,F,Chorrillos,Traumatología,2023-12-31,NA
+P1046,Sofía Ramírez,20,F,La Molina,Medicina General,2024-07-16,
+P1047,Carlos Torres,68,NA,Surco,Traumatología,2024-10-28,
+P1048,María Rojas,NA,NA,Callao,Odontología,2024-01-04,
+P1049,Jorge Cruz,86,F,Chorrillos,Pediatría,2023-01-28,162.15
+P1050,Luis Fernández,NA,M,Los Olivos,Pediatría,2023-08-07,208.65
+P1051,Luis Rojas,,F,Comas,Ginecología,2024-08-13,NA
+P1052,Carlos Mendoza,NA,NA,NA,,2024-01-18,358.33
+P1053,Ana Ramírez,74,NA,NA,Odontología,2023-12-20,215.13
+P1054,María Cruz,NA,F,La Molina,,2024-06-01,
+P1055,Carlos Salazar,NA,,,NA,2023-09-05,NA
+P1056,Luis Mendoza,52,F,Surco,Ginecología,2023-12-18,76.18
+P1057,Ana Ramírez,,NA,NA,Cardiología,2024-12-20,NA
+P1058,Ana Salazar,55,F,Chorrillos,Pediatría,2023-09-08,NA
+P1059,María Gómez,59,M,San Isidro,Odontología,2024-06-07,125.51
+P1060,Rosa Mendoza,49,,Comas,Ginecología,2024-11-04,226.12
+P1061,Ana Cruz,,,San Isidro,,2024-02-23,
+P1062,Jorge Fernández,NA,M,Callao,Odontología,2024-08-06,NA
+P1063,Lucía Torres,NA,M,Surco,Pediatría,2024-12-11,NA
+P1064,Rosa Rojas,NA,NA,Chorrillos,,2024-12-28,
+P1065,Sofía Salazar,71,NA,NA,Traumatología,2023-05-20,
+P1066,María Pérez,,,NA,Pediatría,2023-05-22,142.04
+P1067,Miguel Fernández,,F,Callao,Ginecología,2023-05-14,
+P1068,Ana Gómez,,M,San Isidro,Ginecología,2023-03-25,
+P1069,Pedro Vargas,80,M,Los Olivos,Traumatología,2023-12-09,154.1
+P1070,Jorge Vargas,,M,,NA,2024-12-28,
+P1071,María Vargas,,M,Los Olivos,,2024-03-06,
+P1072,Jorge Pérez,,M,Comas,Ginecología,2024-05-15,82.7
+P1073,Sofía Fernández,NA,F,Comas,Odontología,2023-03-09,
+P1074,Jorge Torres,NA,,,Ginecología,2023-01-29,
+P1075,Jorge Ramírez,,,Comas,Medicina General,2024-09-25,
+P1076,Carlos Ramírez,,M,Chorrillos,Traumatología,2024-01-15,103.4
+P1077,Carlos Cruz,NA,M,Chorrillos,NA,2023-11-13,NA
+P1078,Sofía Salazar,78,F,,Traumatología,2023-06-11,
+P1079,Rosa Vargas,NA,M,Callao,Traumatología,2024-07-19,
+P1080,Miguel Gómez,53,F,Comas,Traumatología,2023-01-18,NA
+P1081,Jorge Cruz,,F,Comas,Odontología,2023-10-27,
+P1082,María Vargas,46,,Miraflores,Medicina General,2023-11-25,
+P1083,Ana Cruz,40,F,,Traumatología,2023-03-25,
+P1084,Miguel Vargas,,F,Callao,,2023-12-08,
+P1085,Sofía Mendoza,64,M,San Isidro,Odontología,2023-07-04,NA
+P1086,Miguel Salazar,64,NA,Los Olivos,Pediatría,2023-03-03,NA
+P1087,Luis Cruz,24,F,Callao,Pediatría,2023-09-19,132.43
+P1088,Miguel Vargas,NA,M,Los Olivos,Traumatología,2023-08-01,
+P1089,Lucía Mendoza,NA,F,Comas,NA,2024-04-10,178.76
+P1090,Luis Rojas,,NA,Miraflores,Ginecología,2023-10-25,NA
+P1091,Pedro Pérez,,M,Comas,,2023-02-07,
+P1092,Pedro Fernández,,,La Molina,Traumatología,2023-09-22,
+P1093,Lucía Mendoza,,M,Surco,NA,2024-10-23,181.89
+P1094,Luis Pérez,,M,La Molina,,2023-10-16,
+P1095,Carlos Cruz,NA,,Miraflores,NA,2023-05-14,NA
+P1096,Carlos Torres,25,M,Miraflores,Traumatología,2023-03-10,
+P1097,Pedro Fernández,51,M,,Medicina General,2024-09-16,NA
+P1098,Ana Salazar,NA,M,NA,Odontología,2023-03-01,NA
+P1099,María Salazar,,,Surco,Medicina General,2023-03-25,
+P1100,Rosa Gómez,65,,Comas,Cardiología,2023-08-12,
+P1101,Pedro Fernández,NA,,Comas,Traumatología,2024-06-15,78.27
+P1102,Carlos Ramírez,75,,NA,Odontología,2023-06-22,
+P1103,María Vargas,,F,San Isidro,,2024-03-26,347.88
+P1104,María Cruz,NA,F,Miraflores,Pediatría,2023-08-02,
+P1105,Carlos Pérez,NA,M,Chorrillos,Ginecología,2023-06-24,
+P1106,Luis Rojas,,,Chorrillos,Traumatología,2023-01-11,NA
+P1107,Carlos Torres,NA,M,Chorrillos,Medicina General,2023-11-08,
+P1108,Lucía Pérez,87,,San Isidro,Pediatría,2024-05-04,NA
+P1109,Carlos Cruz,NA,M,Miraflores,Medicina General,2023-02-06,119.6
+P1110,Miguel Salazar,23,F,Comas,Cardiología,2024-07-04,NA
+P1111,Carlos Torres,,NA,Chorrillos,Pediatría,2024-10-07,
+P1112,Miguel Pérez,,,NA,Odontología,2024-08-03,
+P1113,María Mendoza,,F,Surco,Medicina General,2024-05-25,
+P1114,María Vargas,,M,Miraflores,Pediatría,2023-03-23,
+P1115,Pedro Gómez,NA,NA,,,2023-11-25,252.72
+P1116,Rosa Mendoza,63,,La Molina,Pediatría,2023-01-01,
+P1117,Carlos Pérez,NA,F,La Molina,NA,2023-12-20,275.49
+P1118,Carlos Vargas,,F,Surco,Pediatría,2023-11-29,
+P1119,Lucía Vargas,17,,Los Olivos,Odontología,2023-05-23,
+P1120,Sofía Mendoza,,M,Miraflores,Odontología,2024-09-29,
+P1121,Jorge Fernández,89,F,,,2023-08-21,NA
+P1122,Sofía Salazar,,,Los Olivos,Traumatología,2024-03-24,NA
+P1123,Pedro Fernández,,F,Comas,Ginecología,2023-06-20,
+P1124,Luis Vargas,,M,Miraflores,Pediatría,2024-07-10,NA
+P1125,Lucía Salazar,76,,Callao,Ginecología,2023-11-19,334.88
+P1126,Carlos Rojas,NA,M,Miraflores,NA,2024-03-31,
+P1127,Ana Gómez,NA,F,NA,Ginecología,2024-08-24,
+P1128,Jorge Fernández,,M,Comas,Cardiología,2024-10-03,
+P1129,Pedro Mendoza,39,NA,La Molina,NA,2024-05-21,365.81
+P1130,Ana Cruz,33,,,Odontología,2023-03-12,
+P1131,Rosa Fernández,,F,Surco,Traumatología,2023-10-22,
+P1132,Sofía Ramírez,19,,San Isidro,,2023-01-24,NA
+P1133,Jorge Pérez,,F,La Molina,,2023-01-17,NA
+P1134,Carlos Gómez,11,NA,,,2024-07-11,NA
+P1135,María Rojas,NA,M,Callao,,2024-08-01,
+P1136,Luis Vargas,44,,NA,Ginecología,2024-01-27,
+P1137,Miguel Salazar,7,F,Callao,Odontología,2024-06-22,
+P1138,Lucía Cruz,43,,Miraflores,Medicina General,2024-04-22,
+P1139,Ana Cruz,64,NA,La Molina,Pediatría,2024-01-11,
+P1140,Rosa Salazar,,NA,Comas,Ginecología,2024-02-09,
+P1141,Jorge Mendoza,NA,NA,Callao,,2023-12-02,
+P1142,Pedro Salazar,,M,La Molina,Pediatría,2023-09-08,
+P1143,Miguel Vargas,9,,Miraflores,Cardiología,2024-03-22,NA
+P1144,Miguel Fernández,20,,Miraflores,NA,2023-06-13,
+P1145,María Fernández,,NA,Comas,Ginecología,2024-02-09,
+P1146,Carlos Ramírez,,F,Miraflores,Ginecología,2023-11-24,188.95
+P1147,Pedro Vargas,,F,La Molina,Ginecología,2024-05-31,NA
+P1148,Rosa Salazar,NA,M,Comas,NA,2023-04-11,NA
+P1149,Carlos Torres,,M,Surco,Odontología,2023-11-30,
+P1150,María Rojas,,,,,2023-08-21,265.39
+P1151,Sofía Ramírez,22,F,,Traumatología,2024-12-14,NA
+P1152,Jorge Fernández,NA,NA,Miraflores,NA,2023-09-14,
+P1153,Ana Salazar,,,Surco,,2023-11-18,NA
+P1154,Lucía Cruz,,M,Los Olivos,Medicina General,2024-07-28,NA
+P1155,Lucía Ramírez,NA,,La Molina,Cardiología,2023-11-29,
+P1156,Lucía Ramírez,,F,Comas,NA,2024-03-13,214.61
+P1157,Ana Ramírez,9,M,,Cardiología,2024-03-17,88.98
+P1158,Luis Salazar,,F,Callao,Medicina General,2023-07-09,
+P1159,Rosa Salazar,,,Chorrillos,Odontología,2024-12-12,
+P1160,Ana Cruz,,,Miraflores,Pediatría,2023-08-06,
+P1161,Lucía Fernández,7,,San Isidro,Cardiología,2023-01-29,
+P1162,Carlos Fernández,,,Los Olivos,Odontología,2023-04-15,
+P1163,Miguel Rojas,83,M,Chorrillos,Odontología,2023-12-26,
+P1164,Luis Torres,,,Comas,Ginecología,2024-06-16,NA
+P1165,Luis Cruz,,NA,Surco,Odontología,2023-06-25,
+P1166,Rosa Ramírez,,M,La Molina,NA,2024-06-07,NA
+P1167,Carlos Vargas,NA,F,Los Olivos,Pediatría,2024-07-27,NA
+P1168,Jorge Vargas,1,NA,NA,Traumatología,2023-12-20,
+P1169,Jorge Cruz,,,La Molina,NA,2024-12-03,
+P1170,Lucía Cruz,,M,Miraflores,Cardiología,2023-03-05,NA
+P1171,Rosa Gómez,,NA,Callao,,2024-07-21,NA
+P1172,María Fernández,NA,,NA,Ginecología,2024-12-07,NA
+P1173,Sofía Rojas,,M,San Isidro,,2023-04-25,233.4
+P1174,Rosa Gómez,NA,NA,,Odontología,2024-04-01,
+P1175,Miguel Salazar,NA,,Miraflores,NA,2024-03-09,382.44
+P1176,Pedro Gómez,,NA,NA,Cardiología,2023-10-01,NA
+P1177,Pedro Rojas,,NA,Comas,Traumatología,2023-12-29,85.4
+P1178,Lucía Fernández,74,M,San Isidro,Cardiología,2023-07-26,NA
+P1179,Miguel Ramírez,5,,Miraflores,,2023-09-14,
+P1180,María Vargas,,M,Callao,Ginecología,2024-02-01,
+P1181,Carlos Mendoza,,NA,La Molina,Pediatría,2024-03-22,
+P1182,Ana Torres,57,,,Pediatría,2024-01-18,206.6
+P1183,Rosa Vargas,,NA,Los Olivos,Pediatría,2023-08-24,425.1
+P1184,Rosa Torres,,NA,Chorrillos,Medicina General,2023-04-23,
+P1185,Carlos Vargas,48,F,Callao,Pediatría,2023-04-03,429.9
+P1186,Ana Mendoza,NA,NA,Miraflores,Odontología,2023-01-15,NA
+P1187,Carlos Salazar,NA,NA,NA,,2023-10-09,
+P1188,Carlos Salazar,70,F,Miraflores,Cardiología,2023-09-09,
+P1189,Rosa Vargas,,F,Miraflores,Pediatría,2024-07-07,229.36
+P1190,Lucía Rojas,62,,La Molina,Odontología,2024-11-06,
+P1191,Pedro Fernández,,F,,Pediatría,2024-11-06,
+P1192,Jorge Cruz,50,NA,San Isidro,Traumatología,2024-10-07,
+P1193,Rosa Rojas,,NA,La Molina,Medicina General,2023-01-13,63.93
+P1194,Sofía Rojas,NA,F,NA,Traumatología,2024-07-02,
+P1195,Pedro Mendoza,73,F,Chorrillos,Cardiología,2024-10-26,
+P1196,Lucía Mendoza,86,NA,Comas,Odontología,2023-12-26,
+P1197,Sofía Salazar,36,,San Isidro,Traumatología,2024-01-16,
+P1198,María Ramírez,,F,La Molina,Medicina General,2023-01-17,
+P1199,Sofía Gómez,77,,Los Olivos,Traumatología,2024-05-21,NA
+P1200,Jorge Mendoza,,,Chorrillos,Pediatría,2024-08-24,76.22
+P1201,Sofía Salazar,,,,Medicina General,2024-09-20,249.15
+P1202,Pedro Fernández,,F,Miraflores,Medicina General,2023-10-28,
+P1203,Rosa Ramírez,90,NA,Callao,,2024-11-04,
+P1204,Luis Gómez,,,Surco,Odontología,2024-04-11,
+P1205,Carlos Mendoza,,F,San Isidro,Cardiología,2023-09-03,
+P1206,Sofía Salazar,12,NA,Surco,Cardiología,2023-02-10,NA
+P1207,Miguel Vargas,,NA,La Molina,Odontología,2024-08-09,264.03
+P1208,Jorge Gómez,42,,,Pediatría,2024-01-18,NA
+P1209,Rosa Mendoza,,NA,Los Olivos,Ginecología,2023-05-29,NA
+P1210,Carlos Mendoza,,F,Callao,,2024-11-30,
+P1211,Luis Ramírez,NA,F,Chorrillos,,2024-05-26,NA
+P1212,Rosa Salazar,,F,San Isidro,,2023-04-02,189.51
+P1213,Pedro Fernández,,M,,Medicina General,2024-05-17,NA
+P1214,María Fernández,,F,La Molina,Ginecología,2023-04-12,NA
+P1215,Rosa Cruz,79,F,Miraflores,Odontología,2024-04-28,NA
+P1216,Rosa Pérez,,M,Callao,Medicina General,2024-10-17,
+P1217,María Salazar,,NA,San Isidro,Ginecología,2023-12-05,
+P1218,Luis Ramírez,,,Callao,Ginecología,2024-08-24,
+P1219,Rosa Gómez,7,NA,Callao,Ginecología,2024-01-16,
+P1220,Ana Fernández,,NA,Chorrillos,Traumatología,2023-12-01,
+P1221,Lucía Vargas,,NA,San Isidro,Traumatología,2024-09-17,NA
+P1222,Ana Mendoza,,M,Miraflores,Cardiología,2024-03-19,
+P1223,Jorge Fernández,NA,,Miraflores,NA,2023-08-30,363.3
+P1224,Miguel Rojas,NA,F,Miraflores,Odontología,2023-03-26,NA
+P1225,Miguel Pérez,,M,Comas,Medicina General,2024-04-28,
+P1226,Jorge Fernández,NA,F,San Isidro,Medicina General,2024-07-22,
+P1227,Pedro Salazar,NA,F,Los Olivos,Traumatología,2023-07-02,304.05
+P1228,María Cruz,NA,,Callao,Traumatología,2023-06-29,
+P1229,Miguel Pérez,,M,NA,Odontología,2024-11-29,188.3
+P1230,Carlos Gómez,,NA,NA,Traumatología,2024-07-28,
+P1231,Jorge Pérez,,F,Los Olivos,Medicina General,2024-12-30,417.53
+P1232,Lucía Cruz,,NA,Surco,Medicina General,2024-05-09,424.96
+P1233,Miguel Cruz,,M,Los Olivos,Cardiología,2023-12-02,
+P1234,Sofía Fernández,,,Los Olivos,Cardiología,2023-01-09,
+P1235,Lucía Cruz,30,F,Surco,NA,2024-04-30,NA
+P1236,Pedro Gómez,,F,La Molina,Cardiología,2024-08-06,343.39
+P1237,Luis Fernández,,,,Pediatría,2024-02-01,NA
+P1238,Sofía Salazar,NA,F,San Isidro,Cardiología,2024-07-28,
+P1239,Pedro Salazar,,NA,Miraflores,NA,2024-10-31,
+P1240,Ana Torres,NA,F,,Ginecología,2024-02-05,NA
+P1241,Sofía Pérez,NA,M,NA,Ginecología,2024-11-08,164.21
+P1242,Carlos Gómez,,,Comas,NA,2024-08-25,
+P1243,Lucía Torres,NA,M,Surco,Medicina General,2023-05-09,NA
+P1244,Pedro Pérez,,,Chorrillos,Pediatría,2024-07-02,NA
+P1245,Lucía Vargas,NA,M,Miraflores,Medicina General,2023-02-21,NA
+P1246,Ana Gómez,,NA,Callao,Pediatría,2023-05-18,340.45
+P1247,Rosa Pérez,34,,NA,NA,2023-03-12,
+P1248,Pedro Ramírez,,F,NA,Ginecología,2023-05-29,
+P1249,Lucía Fernández,NA,M,La Molina,Ginecología,2024-01-04,
+P1250,María Rojas,,M,Surco,,2024-05-27,
+P1251,Miguel Rojas,5,F,NA,,2023-10-07,NA
+P1252,Rosa Mendoza,NA,F,Miraflores,Cardiología,2024-02-08,
+P1253,Carlos Mendoza,NA,,Miraflores,Medicina General,2024-03-05,NA
+P1254,Sofía Vargas,13,M,Surco,,2023-06-20,NA
+P1255,Rosa Fernández,10,NA,Callao,,2023-07-08,
+P1256,Miguel Mendoza,,M,Chorrillos,Ginecología,2024-08-09,NA
+P1257,Luis Gómez,,F,Comas,Ginecología,2024-02-02,NA
+P1258,Rosa Rojas,NA,,Comas,Traumatología,2023-01-26,NA
+P1259,Rosa Mendoza,NA,,Callao,Medicina General,2024-09-13,NA
+P1260,Rosa Ramírez,,F,Chorrillos,Cardiología,2023-11-14,
+P1261,Miguel Mendoza,,M,La Molina,Medicina General,2023-03-17,
+P1262,María Ramírez,,NA,Callao,NA,2023-09-06,
+P1263,Miguel Ramírez,,,NA,Odontología,2023-08-27,478.47
+P1264,María Ramírez,,M,Comas,Medicina General,2023-11-21,130.28
+P1265,Miguel Vargas,,,San Isidro,Ginecología,2024-04-05,
+P1266,Miguel Gómez,14,M,Comas,Ginecología,2024-06-15,
+P1267,Jorge Salazar,17,M,San Isidro,Cardiología,2023-05-02,
+P1268,Sofía Cruz,55,,San Isidro,Cardiología,2023-10-26,
+P1269,Pedro Mendoza,84,NA,Chorrillos,Ginecología,2024-03-22,NA
+P1270,Luis Fernández,NA,NA,La Molina,,2024-10-09,NA
+P1271,Carlos Salazar,,,La Molina,Odontología,2024-04-30,315.96
+P1272,Miguel Torres,,,Surco,Pediatría,2023-08-18,
+P1273,Miguel Pérez,,F,San Isidro,Cardiología,2024-12-15,
+P1274,Jorge Mendoza,,F,San Isidro,Ginecología,2023-05-07,
+P1275,María Gómez,NA,NA,NA,Traumatología,2024-12-22,208.93
+P1276,Pedro Vargas,NA,NA,San Isidro,Ginecología,2023-12-10,
+P1277,Miguel Vargas,NA,F,La Molina,,2024-02-02,352.64
+P1278,Pedro Cruz,84,F,La Molina,Medicina General,2024-02-01,NA
+P1279,Jorge Ramírez,,F,,Odontología,2023-12-12,200.58
+P1280,María Vargas,,,Callao,Odontología,2024-04-24,
+P1281,Luis Cruz,,NA,Los Olivos,Cardiología,2023-04-15,NA
+P1282,Ana Rojas,NA,M,Callao,Cardiología,2024-03-13,NA
+P1283,Lucía Gómez,81,NA,San Isidro,,2024-06-19,
+P1284,Lucía Torres,62,F,NA,Traumatología,2024-06-05,
+P1285,Pedro Fernández,,NA,Surco,,2024-09-23,NA
+P1286,Sofía Ramírez,,F,La Molina,Traumatología,2024-12-13,
+P1287,Luis Vargas,,NA,San Isidro,Ginecología,2023-09-01,113.91
+P1288,Carlos Cruz,NA,NA,Los Olivos,Cardiología,2023-12-08,420.78
+P1289,Sofía Pérez,NA,,San Isidro,Ginecología,2023-01-10,195.48
+P1290,María Fernández,,NA,Miraflores,NA,2024-07-03,
+P1291,Sofía Mendoza,,F,Comas,Ginecología,2024-05-24,231.89
+P1292,Ana Vargas,,,Surco,Ginecología,2024-08-11,159.05
+P1293,Lucía Gómez,58,,Chorrillos,Medicina General,2024-01-04,192.53
+P1294,Lucía Ramírez,,,Los Olivos,Traumatología,2023-03-20,227.93
+P1295,María Salazar,,M,Surco,Ginecología,2024-12-22,192.01
+P1296,Ana Rojas,,M,San Isidro,Odontología,2024-03-17,
+P1297,Ana Salazar,,NA,Los Olivos,Medicina General,2024-12-13,NA
+P1298,Jorge Mendoza,41,,Miraflores,Traumatología,2024-10-31,
+P1299,Luis Cruz,,F,NA,NA,2023-10-30,
+P1300,Sofía Salazar,6,F,San Isidro,,2023-03-25,
+P1301,María Ramírez,,NA,,,2023-08-31,471.58
+P1302,María Mendoza,NA,M,NA,NA,2024-08-18,
+P1303,Lucía Cruz,,NA,Chorrillos,Medicina General,2024-07-21,
+P1304,Sofía Ramírez,,M,Chorrillos,Traumatología,2023-04-08,NA
+P1305,Ana Rojas,NA,M,NA,Pediatría,2023-07-03,475.08
+P1306,María Torres,35,,La Molina,Cardiología,2023-08-18,
+P1307,Sofía Ramírez,16,NA,NA,Traumatología,2023-05-31,
+P1308,María Ramírez,NA,,La Molina,,2024-01-15,
+P1309,Lucía Gómez,5,F,Comas,Pediatría,2024-01-05,
+P1310,Rosa Vargas,NA,F,San Isidro,Pediatría,2024-09-16,
+P1311,Pedro Torres,,M,,Traumatología,2024-05-11,
+P1312,María Vargas,71,F,Los Olivos,Ginecología,2024-06-25,
+P1313,Jorge Pérez,1,F,Comas,Odontología,2023-06-30,NA
+P1314,Pedro Vargas,,F,Comas,,2023-08-10,
+P1315,Luis Ramírez,NA,M,Surco,Traumatología,2023-10-30,
+P1316,Jorge Mendoza,81,,Comas,Cardiología,2024-09-08,
+P1317,Miguel Ramírez,,F,La Molina,Ginecología,2023-04-07,119.27
+P1318,Rosa Vargas,,F,Miraflores,Traumatología,2024-05-06,NA
+P1319,Pedro Torres,67,M,Comas,Traumatología,2024-03-28,373.35
+P1320,María Mendoza,,NA,Miraflores,NA,2023-11-06,
+P1321,Pedro Gómez,36,,Callao,Medicina General,2023-10-19,NA
+P1322,Carlos Fernández,NA,F,Surco,Odontología,2024-08-31,NA
+P1323,Lucía Ramírez,,M,San Isidro,NA,2023-02-08,
+P1324,Carlos Salazar,NA,NA,San Isidro,Cardiología,2023-07-07,67.06
+P1325,Ana Gómez,NA,NA,NA,Cardiología,2024-11-27,
+P1326,Jorge Torres,60,F,San Isidro,Traumatología,2024-12-05,
+P1327,Lucía Mendoza,NA,NA,Los Olivos,Medicina General,2024-08-21,NA
+P1328,Pedro Torres,33,NA,Callao,,2023-06-04,
+P1329,Ana Mendoza,NA,M,,Traumatología,2023-11-20,NA
+P1330,Sofía Fernández,,M,Miraflores,Ginecología,2024-12-04,NA
+P1331,Rosa Cruz,,,Callao,Pediatría,2024-10-05,NA
+P1332,Ana Vargas,,F,La Molina,Pediatría,2024-08-27,
+P1333,Sofía Pérez,39,,La Molina,Ginecología,2023-08-06,
+P1334,Miguel Rojas,53,M,Miraflores,Medicina General,2024-05-03,292.24
+P1335,Lucía Salazar,,M,Surco,Traumatología,2024-10-19,
+P1336,Luis Ramírez,,M,NA,Ginecología,2024-04-04,256.24
+P1337,Pedro Vargas,,NA,Callao,Cardiología,2023-01-15,NA
+P1338,Luis Ramírez,,NA,Chorrillos,Pediatría,2023-05-29,
+P1339,Jorge Vargas,77,,Callao,NA,2024-06-17,
+P1340,Rosa Mendoza,31,F,Comas,Traumatología,2024-03-25,NA
+P1341,Carlos Vargas,,,NA,Ginecología,2024-05-26,223.84
+P1342,Luis Rojas,NA,F,San Isidro,Medicina General,2024-01-22,380.82
+P1343,Sofía Ramírez,,M,San Isidro,NA,2023-11-28,
+P1344,Lucía Rojas,,NA,La Molina,Cardiología,2023-04-11,NA
+P1345,Miguel Ramírez,NA,NA,La Molina,Cardiología,2024-11-19,NA
+P1346,Luis Fernández,,M,NA,Pediatría,2023-11-02,NA
+P1347,Carlos Salazar,,,Chorrillos,,2024-04-16,370.26
+P1348,Miguel Rojas,,F,Surco,Pediatría,2023-06-23,
+P1349,Ana Fernández,25,NA,Miraflores,Pediatría,2023-10-20,NA
+P1350,Miguel Mendoza,,F,Callao,Cardiología,2024-02-10,
+P1351,Rosa Cruz,,,Surco,Traumatología,2024-12-04,NA
+P1352,Lucía Ramírez,NA,,San Isidro,Medicina General,2023-06-13,NA
+P1353,María Torres,,F,,Pediatría,2023-03-10,
+P1354,Ana Ramírez,40,,Miraflores,Ginecología,2024-03-25,223.62
+P1355,Ana Vargas,77,,NA,Odontología,2023-05-20,
+P1356,María Salazar,77,M,Comas,Traumatología,2024-01-18,
+P1357,Ana Mendoza,,NA,Miraflores,Ginecología,2024-07-03,
+P1358,Rosa Vargas,NA,NA,Comas,Ginecología,2024-02-05,210.34
+P1359,Jorge Rojas,NA,M,La Molina,Odontología,2024-11-14,
+P1360,Rosa Mendoza,53,NA,Comas,Cardiología,2024-01-08,470.15
+P1361,Sofía Ramírez,NA,M,Los Olivos,Ginecología,2023-05-21,489.22
+P1362,Pedro Torres,1,NA,Surco,Cardiología,2023-07-15,NA
+P1363,Carlos Cruz,,M,,NA,2023-11-16,NA
+P1364,Ana Mendoza,,,La Molina,Ginecología,2023-07-04,NA
+P1365,Lucía Pérez,,F,Comas,Cardiología,2024-06-29,262.49
+P1366,Ana Pérez,70,,Surco,Pediatría,2024-09-18,
+P1367,María Ramírez,,NA,San Isidro,Medicina General,2024-04-19,
+P1368,Luis Cruz,NA,M,Comas,Ginecología,2024-09-19,NA
+P1369,Ana Cruz,14,,Comas,Ginecología,2023-08-14,
+P1370,María Torres,,NA,San Isidro,NA,2023-10-16,72.79
+P1371,Carlos Torres,,NA,Miraflores,Pediatría,2023-11-06,61.24
+P1372,Miguel Rojas,NA,M,Miraflores,NA,2024-07-03,NA
+P1373,Carlos Fernández,,NA,Callao,Traumatología,2024-04-07,
+P1374,María Rojas,NA,M,Comas,Traumatología,2023-10-17,
+P1375,Pedro Rojas,,,NA,Medicina General,2023-10-29,
+P1376,Carlos Ramírez,NA,,,Medicina General,2024-05-05,NA
+P1377,Miguel Mendoza,52,F,Chorrillos,,2023-03-05,172.21
+P1378,María Pérez,,M,Comas,Pediatría,2023-11-11,389.29
+P1379,Ana Cruz,,NA,Chorrillos,Medicina General,2023-10-03,
+P1380,Luis Gómez,,F,NA,Medicina General,2024-04-08,
+P1381,Lucía Pérez,NA,NA,,Odontología,2023-06-13,
+P1382,Pedro Ramírez,,F,Comas,Cardiología,2023-11-24,NA
+P1383,Ana Gómez,36,M,Miraflores,NA,2023-03-29,NA
+P1384,Carlos Rojas,,NA,San Isidro,Ginecología,2023-01-05,
+P1385,Sofía Gómez,NA,NA,Chorrillos,Traumatología,2023-04-03,
+P1386,Lucía Pérez,NA,M,NA,Cardiología,2023-01-09,
+P1387,Jorge Torres,,,Comas,Ginecología,2024-12-28,307.35
+P1388,Ana Gómez,,F,Miraflores,Medicina General,2024-01-10,NA
+P1389,Sofía Vargas,,,Surco,Pediatría,2024-08-29,403.48
+P1390,Pedro Pérez,NA,,Los Olivos,Ginecología,2024-08-06,312.54
+P1391,Ana Cruz,89,NA,Callao,NA,2023-07-04,
+P1392,Rosa Ramírez,NA,M,,Odontología,2024-05-14,NA
+P1393,Jorge Salazar,,,Comas,Traumatología,2023-05-22,
+P1394,María Gómez,54,NA,Comas,NA,2023-05-25,
+P1395,Pedro Vargas,NA,F,Callao,Ginecología,2023-06-01,246.3
+P1396,Jorge Fernández,NA,,San Isidro,Ginecología,2024-07-10,128.59
+P1397,Rosa Salazar,58,NA,Chorrillos,Odontología,2024-09-24,235.62
+P1398,Luis Gómez,16,F,San Isidro,Pediatría,2023-06-23,358.19
+P1399,Ana Mendoza,8,NA,Callao,Ginecología,2023-08-12,91.89
+P1400,Rosa Salazar,NA,NA,Comas,NA,2024-01-14,297.24
+P1401,Rosa Torres,NA,M,NA,Ginecología,2023-03-12,
+P1402,Pedro Ramírez,,,Surco,Medicina General,2024-06-03,
+P1403,Pedro Pérez,NA,M,Comas,Traumatología,2023-02-11,469.8
+P1404,María Fernández,,M,Callao,Cardiología,2023-07-28,
+P1405,Luis Salazar,NA,,Surco,NA,2023-07-21,
+P1406,Jorge Pérez,,M,Callao,Pediatría,2024-12-18,
+P1407,Rosa Pérez,29,,Miraflores,Cardiología,2024-03-01,NA
+P1408,Miguel Gómez,,F,,,2023-03-26,
+P1409,Miguel Mendoza,,,Los Olivos,NA,2023-07-25,
+P1410,Sofía Rojas,,,NA,Traumatología,2023-04-19,
+P1411,Jorge Rojas,,F,Comas,Ginecología,2023-01-18,265.83
+P1412,Lucía Cruz,NA,M,Surco,Medicina General,2023-05-27,
+P1413,Sofía Rojas,,M,Comas,Odontología,2024-07-31,231.01
+P1414,Ana Rojas,NA,,Miraflores,,2023-05-06,
+P1415,Pedro Gómez,22,NA,,Pediatría,2023-01-13,NA
+P1416,Carlos Ramírez,79,M,,Medicina General,2024-01-28,
+P1417,Miguel Vargas,,F,NA,Medicina General,2023-02-03,326.06
+P1418,Pedro Mendoza,,NA,San Isidro,Ginecología,2024-02-04,NA
+P1419,Sofía Mendoza,NA,M,La Molina,Ginecología,2023-04-01,
+P1420,María Fernández,NA,F,NA,Cardiología,2023-04-21,
+P1421,Jorge Ramírez,,,Comas,Traumatología,2024-01-07,121.23
+P1422,Pedro Ramírez,,NA,San Isidro,Odontología,2024-10-18,
+P1423,Miguel Ramírez,NA,NA,,,2023-02-23,
+P1424,Luis Torres,17,F,Comas,Medicina General,2023-04-23,NA
+P1425,Ana Fernández,,F,NA,Traumatología,2024-11-25,NA
+P1426,Sofía Gómez,,M,Los Olivos,Traumatología,2024-06-19,178.01
+P1427,Lucía Torres,,M,Surco,Traumatología,2024-01-21,
+P1428,Carlos Vargas,NA,NA,La Molina,Cardiología,2024-07-12,
+P1429,Lucía Pérez,28,NA,San Isidro,Ginecología,2023-01-14,NA
+P1430,Rosa Cruz,52,M,,Traumatología,2024-04-24,
+P1431,Sofía Rojas,,F,San Isidro,Pediatría,2024-07-12,NA
+P1432,Lucía Cruz,NA,F,,Ginecología,2023-04-30,138.49
+P1433,Jorge Rojas,39,M,Los Olivos,Traumatología,2023-01-22,NA
+P1434,Carlos Pérez,NA,M,Callao,Odontología,2024-09-10,
+P1435,Miguel Rojas,NA,F,Chorrillos,Medicina General,2024-07-12,
+P1436,Sofía Rojas,64,F,Los Olivos,Odontología,2024-03-17,
+P1437,Lucía Mendoza,NA,F,Callao,Traumatología,2024-09-08,349.5
+P1438,Luis Pérez,,F,San Isidro,Traumatología,2024-06-24,NA
+P1439,Jorge Fernández,48,M,NA,NA,2024-05-24,NA
+P1440,Miguel Mendoza,NA,M,,Ginecología,2024-12-12,73.33
+P1441,Rosa Fernández,NA,,Los Olivos,NA,2024-01-18,NA
+P1442,Ana Gómez,,M,La Molina,,2023-08-16,NA
+P1443,Sofía Gómez,,F,Miraflores,Ginecología,2023-03-25,
+P1444,Pedro Ramírez,40,M,Comas,Ginecología,2023-10-08,439.21
+P1445,Jorge Vargas,NA,NA,Callao,Odontología,2023-12-29,NA
+P1446,Sofía Rojas,,,San Isidro,Traumatología,2023-12-10,347.67
+P1447,Rosa Ramírez,70,F,Comas,Cardiología,2023-01-13,
+P1448,Miguel Vargas,,M,Comas,NA,2023-08-17,
+P1449,Rosa Salazar,,,Los Olivos,Pediatría,2024-09-07,458.19
+P1450,Lucía Ramírez,NA,NA,,NA,2023-12-24,
+P1451,María Rojas,,F,Chorrillos,Odontología,2024-07-13,
+P1452,Miguel Salazar,,F,Miraflores,Ginecología,2023-05-15,
+P1453,Ana Fernández,,M,Surco,Odontología,2023-03-07,
+P1454,Rosa Pérez,,F,La Molina,Cardiología,2023-07-20,
+P1455,Sofía Gómez,,NA,La Molina,Traumatología,2024-09-10,NA
+P1456,Ana Mendoza,NA,NA,Comas,NA,2024-02-18,NA
+P1457,Jorge Fernández,41,NA,,Ginecología,2024-02-26,
+P1458,Luis Torres,NA,F,San Isidro,Pediatría,2024-04-13,NA
+P1459,Rosa Pérez,,NA,NA,,2023-04-09,
+P1460,Carlos Cruz,NA,F,Los Olivos,Ginecología,2023-04-11,
+P1461,Miguel Salazar,36,F,Callao,Ginecología,2024-11-22,
+P1462,Miguel Salazar,52,M,Los Olivos,Medicina General,2023-02-17,
+P1463,Jorge Torres,NA,M,Callao,Cardiología,2024-10-12,
+P1464,Luis Ramírez,NA,F,,Medicina General,2024-11-27,
+P1465,Miguel Cruz,,NA,Chorrillos,Traumatología,2024-01-21,NA
+P1466,Lucía Ramírez,53,NA,Comas,,2024-11-16,466.55
+P1467,Sofía Vargas,,NA,Surco,Pediatría,2023-02-03,
+P1468,Luis Ramírez,,M,Los Olivos,Pediatría,2023-03-10,NA
+P1469,Rosa Pérez,55,,,Medicina General,2024-03-28,
+P1470,Ana Ramírez,75,NA,San Isidro,,2023-03-03,NA
+P1471,María Cruz,33,NA,Comas,Ginecología,2023-03-11,342.31
+P1472,Jorge Mendoza,,,Miraflores,Medicina General,2024-05-25,
+P1473,Pedro Ramírez,NA,,San Isidro,Pediatría,2024-04-27,
+P1474,Lucía Salazar,NA,M,,,2023-04-17,
+P1475,Pedro Salazar,NA,F,La Molina,Traumatología,2024-01-14,
+P1476,María Gómez,NA,NA,,Traumatología,2023-12-23,
+P1477,Carlos Cruz,NA,M,Surco,Pediatría,2024-09-12,NA
+P1478,Lucía Mendoza,,M,Surco,Pediatría,2023-04-07,443.56
+P1479,Jorge Gómez,NA,,NA,Odontología,2024-11-13,
+P1480,Rosa Pérez,12,NA,Callao,Medicina General,2024-11-26,NA
+P1481,Jorge Gómez,,,,Cardiología,2023-05-06,
+P1482,Rosa Gómez,,,Callao,Odontología,2024-11-06,
+P1483,Lucía Cruz,,F,Los Olivos,Odontología,2024-12-18,
+P1484,Pedro Salazar,,F,San Isidro,,2023-03-01,210.98
+P1485,Ana Salazar,,M,Surco,Odontología,2024-11-01,
+P1486,Jorge Fernández,NA,M,Callao,Cardiología,2023-09-01,102.69
+P1487,María Ramírez,,NA,Chorrillos,NA,2024-06-03,
+P1488,Ana Gómez,,,Los Olivos,NA,2023-05-02,
+P1489,Pedro Salazar,,F,Los Olivos,Traumatología,2024-09-26,NA
+P1490,Sofía Gómez,44,M,Los Olivos,Traumatología,2023-11-19,415.86
+P1491,María Gómez,,M,Comas,Cardiología,2023-10-05,302.12
+P1492,Lucía Torres,NA,,Miraflores,NA,2024-08-04,
+P1493,Sofía Gómez,87,NA,San Isidro,Cardiología,2023-05-06,
+P1494,Pedro Pérez,,NA,Comas,Traumatología,2024-01-06,
+P1495,Sofía Vargas,89,NA,La Molina,NA,2023-01-24,NA
+P1496,Miguel Rojas,,M,Comas,Cardiología,2023-03-13,NA
+P1497,Luis Vargas,NA,NA,Comas,Medicina General,2023-05-02,NA
+P1498,Lucía Salazar,,F,San Isidro,NA,2024-05-19,NA
+P1499,Lucía Mendoza,,NA,NA,Ginecología,2023-05-03,
+P1500,Sofía Cruz,,F,NA,Ginecología,2023-11-05,
+P1501,Lucía Ramírez,87,NA,,Cardiología,2024-08-02,372.53
+P1502,Lucía Salazar,,NA,La Molina,Cardiología,2024-08-01,
+P1503,Ana Fernández,NA,,,Traumatología,2023-02-09,NA
+P1504,Carlos Pérez,NA,F,Miraflores,,2024-07-04,373.7
+P1505,Lucía Torres,,NA,La Molina,Medicina General,2023-08-22,
+P1506,Jorge Ramírez,,NA,Miraflores,Cardiología,2023-06-11,NA
+P1507,Ana Ramírez,NA,F,San Isidro,Cardiología,2023-01-03,NA
+P1508,María Salazar,,NA,Surco,NA,2024-10-26,
+P1509,Rosa Vargas,55,NA,NA,Medicina General,2023-09-09,
+P1510,Rosa Vargas,NA,,,,2024-05-13,328.78
+P1511,Pedro Fernández,,NA,Comas,,2023-08-29,489.8
+P1512,María Ramírez,,,La Molina,Cardiología,2023-07-06,62.28
+P1513,Pedro Torres,NA,F,San Isidro,Traumatología,2023-07-25,
+P1514,Rosa Gómez,,F,Comas,,2024-09-27,
+P1515,Miguel Gómez,,F,Comas,Medicina General,2023-06-13,482.67
+P1516,María Mendoza,,M,Comas,Traumatología,2023-02-04,
+P1517,María Vargas,NA,M,La Molina,Medicina General,2024-09-03,144.34
+P1518,María Ramírez,,M,Callao,Odontología,2024-06-19,
+P1519,Rosa Torres,,F,La Molina,Cardiología,2024-11-17,53.98
+P1520,Carlos Torres,,F,San Isidro,,2024-08-17,
+P1521,Luis Torres,,M,Los Olivos,NA,2024-06-24,400.03
+P1522,Rosa Salazar,63,M,Comas,Traumatología,2023-10-24,NA
+P1523,Rosa Salazar,87,,Miraflores,Traumatología,2024-02-12,
+P1524,Ana Torres,,,Los Olivos,Odontología,2024-09-04,376.69
+P1525,María Rojas,,NA,Miraflores,NA,2023-06-24,NA
+P1526,Miguel Salazar,,NA,Chorrillos,Pediatría,2023-02-25,NA
+P1527,Ana Gómez,14,M,Los Olivos,NA,2023-10-17,NA
+P1528,Pedro Torres,70,M,Callao,Odontología,2024-05-12,NA
+P1529,Jorge Cruz,,F,Comas,NA,2024-11-14,53.25
+P1530,María Vargas,NA,,Callao,Traumatología,2024-12-13,
+P1531,Lucía Rojas,,NA,NA,Odontología,2024-09-14,274.03
+P1532,Ana Cruz,64,F,Chorrillos,Traumatología,2024-02-11,NA
+P1533,Lucía Rojas,,,Callao,NA,2024-02-01,
+P1534,María Pérez,,M,Los Olivos,Cardiología,2023-04-29,124.83
+P1535,María Torres,,F,La Molina,Medicina General,2023-05-15,
+P1536,Luis Ramírez,,F,Chorrillos,Ginecología,2024-03-18,431.86
+P1537,Pedro Rojas,67,M,Callao,Traumatología,2024-05-08,
+P1538,Ana Vargas,80,,Chorrillos,Traumatología,2023-05-27,
+P1539,Luis Ramírez,NA,,Miraflores,Traumatología,2023-02-28,NA
+P1540,Rosa Cruz,,M,Comas,Cardiología,2023-08-08,
+P1541,Carlos Fernández,60,,San Isidro,Ginecología,2024-05-16,
+P1542,Sofía Mendoza,NA,F,Los Olivos,Ginecología,2024-02-05,
+P1543,María Cruz,NA,M,Chorrillos,Medicina General,2024-10-31,NA
+P1544,Ana Pérez,,F,Chorrillos,Traumatología,2023-04-22,NA
+P1545,Ana Rojas,NA,,La Molina,Cardiología,2024-11-27,NA
+P1546,Jorge Pérez,NA,M,NA,Medicina General,2024-03-12,NA
+P1547,Luis Cruz,,F,San Isidro,Medicina General,2024-10-06,
+P1548,Miguel Ramírez,73,F,NA,Traumatología,2023-10-03,NA
+P1549,Pedro Salazar,,M,Surco,Pediatría,2023-07-21,
+P1550,Ana Vargas,13,F,Callao,Pediatría,2023-02-13,
+P1551,Luis Fernández,,M,NA,Traumatología,2023-09-06,162.4
+P1552,Miguel Cruz,,NA,,Odontología,2024-07-05,302.76
+P1553,María Ramírez,NA,F,Comas,Odontología,2023-01-08,466.2
+P1554,María Mendoza,NA,F,La Molina,NA,2024-12-03,332.68
+P1555,Carlos Gómez,,M,Surco,NA,2023-05-06,NA
+P1556,Pedro Ramírez,61,F,Surco,,2023-06-25,
+P1557,Carlos Salazar,,,Miraflores,,2024-11-08,56.94
+P1558,Sofía Pérez,16,M,Los Olivos,Medicina General,2024-04-05,NA
+P1559,Lucía Rojas,NA,,Comas,NA,2024-03-29,NA
+P1560,Rosa Fernández,,F,Miraflores,Traumatología,2023-12-08,NA
+P1561,Jorge Torres,,M,La Molina,Pediatría,2023-05-20,374.21
+P1562,María Gómez,86,M,Miraflores,Odontología,2024-11-14,
+P1563,Jorge Torres,,F,La Molina,Traumatología,2024-10-14,
+P1564,Carlos Rojas,NA,,,Odontología,2023-02-03,
+P1565,Luis Torres,46,M,,Odontología,2024-10-09,214.55
+P1566,Ana Gómez,,F,Callao,NA,2024-03-17,NA
+P1567,Luis Cruz,,F,NA,Odontología,2023-01-09,
+P1568,Luis Pérez,58,NA,La Molina,Ginecología,2023-11-08,
+P1569,Pedro Torres,74,F,Miraflores,Ginecología,2023-12-02,62.34
+P1570,Luis Fernández,14,M,Comas,Cardiología,2024-08-19,325.54
+P1571,Sofía Salazar,,M,Los Olivos,Medicina General,2024-05-01,NA
+P1572,Lucía Gómez,,,Miraflores,,2023-10-06,
+P1573,Jorge Pérez,NA,NA,Los Olivos,Odontología,2024-03-09,
+P1574,Luis Fernández,NA,,Miraflores,,2023-11-30,
+P1575,María Pérez,38,,Comas,Cardiología,2024-10-02,456.92
+P1576,Pedro Salazar,NA,F,San Isidro,Odontología,2024-03-23,
+P1577,Carlos Vargas,,F,NA,Ginecología,2023-06-13,
+P1578,Luis Ramírez,11,NA,NA,Medicina General,2024-11-24,NA
+P1579,María Cruz,NA,,Callao,Medicina General,2023-03-02,NA
+P1580,Pedro Gómez,NA,NA,San Isidro,Traumatología,2023-05-21,NA
+P1581,Lucía Fernández,,,Callao,Medicina General,2023-03-22,64.53
+P1582,Ana Salazar,,F,Callao,NA,2024-10-16,
+P1583,Carlos Rojas,,,Comas,NA,2023-03-27,
+P1584,Pedro Vargas,NA,M,,Cardiología,2023-09-01,
+P1585,María Torres,,NA,Comas,Ginecología,2024-05-18,
+P1586,Sofía Gómez,NA,NA,San Isidro,Pediatría,2023-11-03,
+P1587,Ana Torres,,NA,NA,,2024-01-17,NA
+P1588,Lucía Rojas,20,,Callao,Cardiología,2024-03-10,313.03
+P1589,Carlos Gómez,,,Chorrillos,,2024-09-09,
+P1590,Carlos Fernández,14,NA,NA,,2023-12-04,
+P1591,Sofía Gómez,60,M,,,2023-08-10,
+P1592,Ana Rojas,3,NA,,,2024-10-17,307.29
+P1593,Luis Cruz,,F,Chorrillos,Cardiología,2024-05-23,
+P1594,Ana Salazar,,NA,Los Olivos,,2024-09-28,162.21
+P1595,Jorge Salazar,,F,NA,Odontología,2023-02-22,NA
+P1596,Jorge Salazar,,NA,Callao,Pediatría,2023-03-06,NA
+P1597,Miguel Mendoza,50,M,Callao,Odontología,2024-05-28,
+P1598,Pedro Salazar,62,,Los Olivos,Cardiología,2023-05-05,
+P1599,Jorge Vargas,,F,Callao,Traumatología,2024-12-03,
+P1600,Rosa Ramírez,NA,,San Isidro,,2024-05-23,159.86
+P1601,Carlos Torres,,,Comas,Ginecología,2024-11-05,
+P1602,Miguel Cruz,,,Comas,Ginecología,2023-11-21,NA
+P1603,Luis Torres,1,F,Callao,Traumatología,2024-04-24,
+P1604,Rosa Vargas,,NA,Los Olivos,,2024-12-19,
+P1605,Luis Fernández,,,,Ginecología,2024-01-16,
+P1606,Miguel Rojas,,M,San Isidro,Odontología,2023-04-16,
+P1607,Jorge Torres,NA,NA,Callao,NA,2024-10-08,NA
+P1608,Jorge Cruz,56,F,Callao,Traumatología,2023-05-30,92.43
+P1609,Sofía Fernández,,M,La Molina,,2024-06-29,NA
+P1610,Pedro Rojas,19,NA,Callao,Odontología,2024-09-09,
+P1611,Miguel Rojas,49,,Comas,Traumatología,2023-09-15,NA
+P1612,María Mendoza,61,NA,Miraflores,Cardiología,2023-07-01,NA
+P1613,Carlos Mendoza,,,Surco,Cardiología,2023-06-18,
+P1614,María Fernández,NA,,,Traumatología,2024-03-17,
+P1615,Lucía Mendoza,NA,NA,Chorrillos,,2024-12-31,NA
+P1616,Pedro Gómez,,F,NA,Odontología,2023-04-12,
+P1617,Rosa Cruz,,,San Isidro,Medicina General,2024-07-21,NA
+P1618,Miguel Rojas,,F,NA,Cardiología,2024-09-10,
+P1619,Carlos Ramírez,,M,NA,Medicina General,2023-08-13,
+P1620,Luis Mendoza,73,NA,Los Olivos,Traumatología,2023-10-09,
+P1621,Rosa Rojas,NA,,NA,NA,2023-01-23,
+P1622,Rosa Ramírez,81,F,Chorrillos,Odontología,2024-02-27,314.08
+P1623,Ana Ramírez,,,Los Olivos,NA,2024-06-29,312.04
+P1624,Luis Salazar,53,M,NA,Traumatología,2024-04-20,
+P1625,María Fernández,,M,Chorrillos,Traumatología,2024-04-17,
+P1626,Pedro Fernández,NA,,La Molina,Odontología,2024-12-29,
+P1627,Ana Ramírez,,M,La Molina,Odontología,2024-10-02,
+P1628,Miguel Cruz,,M,Comas,Pediatría,2024-08-18,NA
+P1629,Rosa Gómez,NA,NA,Comas,Ginecología,2023-06-22,NA
+P1630,Ana Salazar,NA,NA,Callao,Ginecología,2023-01-09,142.85
+P1631,Lucía Vargas,NA,NA,Surco,Traumatología,2024-04-02,
+P1632,Ana Gómez,,F,La Molina,Ginecología,2024-08-11,
+P1633,Sofía Salazar,68,F,,Odontología,2023-12-11,
+P1634,Miguel Cruz,,M,La Molina,Medicina General,2024-05-26,
+P1635,Pedro Fernández,,F,Los Olivos,Cardiología,2024-01-21,
+P1636,María Cruz,,M,San Isidro,Ginecología,2023-07-26,
+P1637,Rosa Rojas,,,NA,Odontología,2024-09-15,
+P1638,Ana Fernández,NA,,Chorrillos,NA,2023-02-15,
+P1639,Ana Ramírez,,M,San Isidro,Traumatología,2024-06-14,
+P1640,Miguel Torres,NA,M,Callao,NA,2023-06-07,
+P1641,Miguel Ramírez,,M,Callao,Traumatología,2023-11-18,
+P1642,Lucía Fernández,,M,La Molina,NA,2024-05-29,
+P1643,Pedro Mendoza,NA,NA,Surco,Medicina General,2024-01-22,
+P1644,Luis Rojas,,NA,Callao,Pediatría,2023-04-24,183.22
+P1645,Luis Cruz,,F,Comas,NA,2023-06-13,NA
+P1646,Ana Pérez,,F,Surco,Odontología,2023-03-29,NA
+P1647,Sofía Ramírez,49,NA,Surco,Traumatología,2024-06-28,
+P1648,Pedro Gómez,NA,F,Comas,NA,2024-10-17,
+P1649,Lucía Cruz,NA,NA,La Molina,Pediatría,2023-12-11,NA
+P1650,Luis Salazar,,F,Surco,Cardiología,2024-10-17,
+P1651,Ana Cruz,,NA,La Molina,Traumatología,2024-08-20,
+P1652,Carlos Mendoza,,M,NA,Traumatología,2024-03-17,
+P1653,Lucía Fernández,NA,M,La Molina,Traumatología,2024-01-10,
+P1654,Miguel Pérez,,M,Los Olivos,Medicina General,2024-07-04,452.52
+P1655,Rosa Salazar,75,NA,San Isidro,Cardiología,2024-03-15,
+P1656,Luis Rojas,,F,Miraflores,Medicina General,2024-04-24,358.7
+P1657,Luis Rojas,,M,Comas,Pediatría,2024-01-14,NA
+P1658,María Fernández,,,Comas,Traumatología,2024-09-26,213.11
+P1659,María Vargas,,,Miraflores,Medicina General,2024-12-07,NA
+P1660,Miguel Fernández,,,Surco,Ginecología,2024-07-05,
+P1661,Luis Pérez,,NA,Comas,NA,2024-04-04,
+P1662,Lucía Fernández,4,M,,Odontología,2024-12-21,
+P1663,Rosa Mendoza,NA,NA,La Molina,Traumatología,2023-10-20,
+P1664,Carlos Vargas,,,San Isidro,Odontología,2023-07-26,
+P1665,Miguel Rojas,57,NA,San Isidro,Medicina General,2024-03-08,
+P1666,Miguel Cruz,NA,M,Comas,Odontología,2023-06-23,
+P1667,Jorge Cruz,,M,Callao,NA,2024-10-14,NA
+P1668,Jorge Mendoza,,M,Surco,Odontología,2023-03-12,
+P1669,Miguel Salazar,68,NA,Callao,Pediatría,2024-12-31,NA
+P1670,Sofía Ramírez,,,Miraflores,NA,2024-12-27,
+P1671,Miguel Cruz,NA,M,San Isidro,Cardiología,2024-06-27,
+P1672,Ana Fernández,NA,,Comas,Ginecología,2023-12-13,
+P1673,Jorge Fernández,2,M,NA,Odontología,2023-05-27,
+P1674,Ana Cruz,,NA,Callao,Odontología,2024-08-11,82.91
+P1675,María Cruz,,,Comas,Traumatología,2024-08-17,187.25
+P1676,Carlos Vargas,,F,San Isidro,Pediatría,2024-05-30,
+P1677,Jorge Pérez,87,,La Molina,Medicina General,2023-06-15,
+P1678,Luis Torres,,F,NA,NA,2023-02-07,
+P1679,Sofía Vargas,62,,Surco,Odontología,2023-01-13,120.17
+P1680,Jorge Torres,,NA,San Isidro,NA,2023-04-01,NA
+P1681,Ana Mendoza,90,,,NA,2024-04-03,
+P1682,Luis Ramírez,NA,M,Callao,Pediatría,2023-10-12,376.45
+P1683,Carlos Rojas,NA,F,Miraflores,Odontología,2024-01-24,
+P1684,Lucía Cruz,,F,Miraflores,Medicina General,2024-07-29,NA
+P1685,Jorge Mendoza,NA,,Comas,Cardiología,2023-07-07,
+P1686,María Vargas,,F,La Molina,Traumatología,2023-10-16,
+P1687,Miguel Pérez,,M,NA,,2024-08-19,
+P1688,Luis Pérez,,NA,Chorrillos,Odontología,2024-05-24,NA
+P1689,Luis Cruz,NA,M,Los Olivos,Traumatología,2024-10-03,NA
+P1690,Luis Pérez,48,M,Comas,Ginecología,2024-12-28,
+P1691,Lucía Pérez,NA,NA,NA,,2023-01-20,
+P1692,Luis Cruz,,F,Surco,Ginecología,2023-12-09,477.77
+P1693,Ana Gómez,,NA,Surco,Medicina General,2024-12-01,NA
+P1694,Lucía Gómez,,M,Callao,Odontología,2024-08-11,256.21
+P1695,Rosa Rojas,,F,Chorrillos,Odontología,2024-04-02,112.62
+P1696,Lucía Torres,NA,NA,NA,Traumatología,2024-11-29,
+P1697,Ana Gómez,,,Miraflores,Traumatología,2024-06-08,177.13
+P1698,Carlos Cruz,,,Callao,Odontología,2023-07-18,
+P1699,Jorge Pérez,82,M,La Molina,Odontología,2023-12-22,
+P1700,Luis Mendoza,,M,Chorrillos,,2024-03-01,
+P1701,Sofía Rojas,49,,Los Olivos,Medicina General,2024-01-18,NA
+P1702,Jorge Mendoza,NA,NA,La Molina,Cardiología,2023-11-07,NA
+P1703,Luis Gómez,NA,NA,Los Olivos,NA,2024-12-19,165.66
+P1704,María Fernández,,NA,NA,NA,2024-02-19,
+P1705,Miguel Torres,,F,San Isidro,Pediatría,2024-11-02,
+P1706,Jorge Mendoza,,F,Callao,Cardiología,2023-06-12,
+P1707,Luis Vargas,,M,San Isidro,Ginecología,2024-02-08,
+P1708,Rosa Rojas,NA,,,Pediatría,2023-09-16,
+P1709,Rosa Ramírez,23,,San Isidro,Pediatría,2023-06-13,
+P1710,Jorge Rojas,NA,F,Chorrillos,Ginecología,2023-09-23,NA
+P1711,Luis Rojas,NA,F,San Isidro,Pediatría,2024-02-05,313.84
+P1712,Rosa Vargas,62,NA,Miraflores,Pediatría,2023-07-04,
+P1713,Jorge Torres,,M,Los Olivos,Medicina General,2023-04-19,NA
+P1714,Luis Fernández,,F,Chorrillos,Cardiología,2023-03-04,
+P1715,Lucía Rojas,15,M,NA,Cardiología,2024-11-09,NA
+P1716,Pedro Rojas,,NA,San Isidro,Cardiología,2024-11-24,NA
+P1717,Rosa Mendoza,71,NA,Comas,Ginecología,2023-03-05,216.34
+P1718,Sofía Vargas,48,,,Medicina General,2023-04-05,
+P1719,Jorge Rojas,,M,Chorrillos,Odontología,2023-07-14,
+P1720,Jorge Fernández,,F,Surco,Odontología,2023-12-08,
+P1721,Luis Salazar,NA,M,,Traumatología,2024-05-09,
+P1722,Sofía Cruz,,NA,La Molina,Ginecología,2024-03-28,444.15
+P1723,Luis Vargas,,,,Ginecología,2024-10-29,349.59
+P1724,María Vargas,,F,Comas,Cardiología,2024-11-30,
+P1725,Pedro Torres,NA,F,La Molina,Medicina General,2023-09-04,
+P1726,Ana Torres,,NA,San Isidro,Odontología,2023-08-30,
+P1727,Miguel Fernández,,M,Los Olivos,Cardiología,2023-02-07,NA
+P1728,Carlos Rojas,,F,Surco,Medicina General,2023-10-27,
+P1729,Jorge Mendoza,,NA,Comas,NA,2024-02-07,NA
+P1730,Jorge Mendoza,,,,Traumatología,2024-05-31,NA
+P1731,Jorge Rojas,,,Surco,,2023-03-03,NA
+P1732,Ana Vargas,,F,Miraflores,Pediatría,2024-06-03,NA
+P1733,María Ramírez,68,M,Los Olivos,Pediatría,2023-11-21,
+P1734,Lucía Mendoza,NA,F,Los Olivos,Odontología,2023-04-27,198.43
+P1735,Carlos Ramírez,33,,Miraflores,Medicina General,2024-08-11,
+P1736,Rosa Pérez,76,NA,Callao,NA,2024-05-04,
+P1737,Luis Gómez,NA,NA,NA,,2023-07-30,
+P1738,Jorge Gómez,,,Comas,Cardiología,2023-10-10,NA
+P1739,Lucía Cruz,76,M,Surco,,2023-04-15,NA
+P1740,Carlos Fernández,50,,Los Olivos,,2023-11-11,
+P1741,Sofía Pérez,21,F,Callao,Traumatología,2023-12-30,NA
+P1742,Jorge Pérez,NA,NA,NA,,2024-06-03,
+P1743,Sofía Mendoza,44,,Chorrillos,Cardiología,2024-04-24,
+P1744,Rosa Pérez,,NA,Los Olivos,Odontología,2023-04-24,
+P1745,Sofía Gómez,43,M,,Cardiología,2023-02-07,NA
+P1746,Sofía Pérez,,NA,Los Olivos,Cardiología,2023-02-26,375.98
+P1747,Carlos Torres,NA,NA,Callao,Medicina General,2023-04-19,373.39
+P1748,Sofía Torres,,F,NA,Cardiología,2023-01-18,
+P1749,María Rojas,NA,,San Isidro,Traumatología,2023-10-04,168.16
+P1750,María Gómez,3,M,La Molina,Traumatología,2023-02-16,
+P1751,Pedro Pérez,NA,M,Miraflores,Traumatología,2023-02-05,458.98
+P1752,Pedro Mendoza,NA,M,Surco,Odontología,2023-03-23,NA
+P1753,Ana Vargas,,NA,San Isidro,NA,2023-04-30,NA
+P1754,Ana Ramírez,NA,M,NA,Odontología,2023-04-16,NA
+P1755,Rosa Rojas,,NA,La Molina,Cardiología,2023-04-17,
+P1756,Lucía Gómez,,,NA,,2023-04-13,NA
+P1757,Rosa Torres,NA,,NA,Medicina General,2023-12-05,
+P1758,Ana Salazar,,F,Comas,Cardiología,2024-04-17,186.54
+P1759,Ana Pérez,NA,,NA,Cardiología,2024-02-15,NA
+P1760,María Ramírez,12,M,San Isidro,Traumatología,2024-01-26,NA
+P1761,María Ramírez,,NA,,,2024-06-03,292.01
+P1762,Sofía Salazar,,NA,Miraflores,Odontología,2024-03-26,275.67
+P1763,Jorge Gómez,17,NA,Chorrillos,Cardiología,2023-07-31,246.62
+P1764,Jorge Pérez,,M,Los Olivos,Cardiología,2023-06-11,
+P1765,Jorge Rojas,,M,San Isidro,,2023-10-18,
+P1766,Jorge Mendoza,,NA,Callao,Traumatología,2024-05-17,
+P1767,Luis Ramírez,18,F,Callao,Ginecología,2023-07-16,NA
+P1768,Sofía Ramírez,,M,Comas,Odontología,2024-06-30,
+P1769,Sofía Mendoza,21,,NA,,2024-07-29,NA
+P1770,Carlos Pérez,,F,Chorrillos,Ginecología,2023-02-14,
+P1771,Miguel Torres,NA,F,Miraflores,Cardiología,2024-12-21,
+P1772,Jorge Fernández,,M,Comas,Pediatría,2024-09-20,
+P1773,Pedro Fernández,,NA,San Isidro,Traumatología,2023-08-08,
+P1774,Miguel Torres,NA,,NA,Cardiología,2024-10-21,
+P1775,Lucía Cruz,,F,Los Olivos,Odontología,2024-09-15,
+P1776,Ana Gómez,NA,M,Comas,Traumatología,2023-01-25,
+P1777,Pedro Gómez,NA,,La Molina,Traumatología,2023-06-28,
+P1778,Sofía Vargas,,F,Comas,Medicina General,2023-04-30,461.3
+P1779,Lucía Mendoza,,M,Surco,Pediatría,2024-11-04,
+P1780,Jorge Rojas,,,Los Olivos,NA,2024-07-12,363.63
+P1781,Sofía Rojas,NA,F,La Molina,Cardiología,2024-03-31,355.85
+P1782,Pedro Torres,NA,M,NA,,2024-12-16,NA
+P1783,Sofía Salazar,,F,La Molina,Ginecología,2024-08-18,
+P1784,Sofía Pérez,42,,,Ginecología,2024-02-04,NA
+P1785,Ana Pérez,,,,Traumatología,2024-03-11,
+P1786,Ana Mendoza,NA,F,La Molina,,2024-11-03,
+P1787,María Cruz,,F,Comas,Cardiología,2023-01-27,NA
+P1788,Luis Gómez,72,,Miraflores,Odontología,2023-06-02,472.94
+P1789,Miguel Gómez,NA,NA,NA,Medicina General,2024-11-12,
+P1790,Miguel Cruz,NA,F,Comas,,2024-01-29,393.06
+P1791,Sofía Cruz,4,M,Chorrillos,,2024-08-20,
+P1792,Ana Gómez,,,La Molina,,2024-01-10,
+P1793,Carlos Pérez,,F,San Isidro,Pediatría,2023-03-24,
+P1794,Sofía Mendoza,7,NA,La Molina,Traumatología,2023-09-24,
+P1795,Luis Pérez,NA,F,Chorrillos,Ginecología,2023-09-28,151.37
+P1796,María Rojas,53,,Chorrillos,Traumatología,2023-05-12,NA
+P1797,Carlos Ramírez,,F,Surco,Ginecología,2024-07-12,NA
+P1798,María Salazar,NA,,,Odontología,2024-02-06,
+P1799,Lucía Vargas,,M,NA,Cardiología,2024-09-07,
+P1800,Pedro Vargas,,,Los Olivos,Pediatría,2024-03-04,
+P1801,Carlos Gómez,,NA,Chorrillos,NA,2023-03-18,
+P1802,Lucía Gómez,90,NA,San Isidro,Odontología,2024-02-18,
+P1803,Miguel Mendoza,NA,M,,Medicina General,2024-08-30,221.05
+P1804,Carlos Rojas,,NA,Miraflores,Medicina General,2023-08-14,
+P1805,Pedro Rojas,42,,Miraflores,Medicina General,2024-10-17,NA
+P1806,Rosa Mendoza,,M,Callao,Ginecología,2024-05-16,403.28
+P1807,Rosa Cruz,NA,M,Comas,Medicina General,2023-04-29,
+P1808,Luis Rojas,,F,Callao,,2024-06-24,254.51
+P1809,Rosa Gómez,,NA,Chorrillos,Medicina General,2024-04-15,NA
+P1810,Rosa Salazar,,,Callao,Traumatología,2023-02-09,
+P1811,María Pérez,NA,M,NA,,2023-02-19,59.82
+P1812,Ana Gómez,14,NA,Los Olivos,,2023-02-02,
+P1813,Miguel Pérez,,F,Miraflores,Ginecología,2024-12-25,349.72
+P1814,Jorge Ramírez,,NA,Comas,Cardiología,2023-09-21,
+P1815,María Cruz,NA,M,Chorrillos,Odontología,2023-10-26,301.76
+P1816,Jorge Mendoza,,NA,San Isidro,Odontología,2023-05-23,97.26
+P1817,Luis Rojas,NA,M,NA,Cardiología,2024-03-04,NA
+P1818,Lucía Torres,30,NA,Surco,Cardiología,2024-03-26,
+P1819,Lucía Rojas,NA,,San Isidro,Ginecología,2024-06-12,99.73
+P1820,Miguel Pérez,,F,La Molina,Medicina General,2023-07-30,
+P1821,Rosa Torres,,NA,NA,Medicina General,2024-06-08,
+P1822,Pedro Salazar,74,M,,,2023-08-25,
+P1823,Carlos Ramírez,,M,Comas,Pediatría,2023-06-29,
+P1824,Luis Cruz,61,F,San Isidro,Odontología,2024-08-23,
+P1825,Ana Vargas,,M,Chorrillos,Pediatría,2024-04-19,
+P1826,Sofía Torres,,NA,Los Olivos,NA,2024-05-07,
+P1827,Ana Fernández,,M,Surco,,2024-03-19,NA
+P1828,Lucía Fernández,NA,,Chorrillos,NA,2024-09-05,128.38
+P1829,Jorge Salazar,NA,M,Callao,Cardiología,2023-06-28,NA
+P1830,María Gómez,NA,NA,La Molina,Odontología,2023-12-14,
+P1831,Jorge Salazar,,F,NA,Medicina General,2023-05-01,
+P1832,Ana Mendoza,NA,M,Comas,Pediatría,2023-12-16,
+P1833,Jorge Gómez,,,Surco,Pediatría,2023-12-16,NA
+P1834,Rosa Vargas,,NA,,Medicina General,2023-08-04,494.33
+P1835,Lucía Ramírez,,,San Isidro,,2024-11-08,NA
+P1836,Luis Gómez,,M,Comas,Traumatología,2023-08-11,NA
+P1837,Ana Ramírez,NA,,,Ginecología,2023-03-16,
+P1838,Jorge Mendoza,,M,Miraflores,,2024-04-20,315.39
+P1839,Luis Torres,,NA,Miraflores,,2023-11-04,
+P1840,Rosa Mendoza,,NA,Los Olivos,Ginecología,2023-01-20,190.37
+P1841,Lucía Mendoza,,F,Miraflores,Pediatría,2024-12-18,177.37
+P1842,Sofía Vargas,,M,,Odontología,2024-07-29,NA
+P1843,Carlos Gómez,,,Surco,Cardiología,2023-06-21,106.45
+P1844,Rosa Vargas,NA,,Callao,Ginecología,2023-10-10,NA
+P1845,Miguel Mendoza,,M,La Molina,Medicina General,2024-04-24,
+P1846,Sofía Pérez,89,M,Miraflores,Odontología,2024-08-07,277.98
+P1847,Luis Mendoza,16,F,Surco,Traumatología,2024-05-24,265.88
+P1848,Jorge Mendoza,86,M,Callao,,2024-07-24,174.36
+P1849,Miguel Gómez,,,Surco,Medicina General,2023-12-05,
+P1850,Ana Torres,NA,NA,,Traumatología,2024-02-15,NA
+P1851,Sofía Ramírez,,F,Surco,Ginecología,2024-07-23,
+P1852,Lucía Ramírez,40,NA,Surco,Ginecología,2024-12-07,
+P1853,Ana Mendoza,NA,,Comas,Odontología,2023-09-22,367.4
+P1854,Ana Vargas,,M,Los Olivos,Cardiología,2023-02-24,314.95
+P1855,Rosa Gómez,,M,NA,Traumatología,2024-12-23,
+P1856,Miguel Cruz,,M,San Isidro,Pediatría,2023-01-29,139.32
+P1857,Ana Gómez,,M,Callao,Pediatría,2023-04-29,
+P1858,Rosa Mendoza,,F,Callao,Pediatría,2023-06-24,
+P1859,Carlos Cruz,,,Surco,Medicina General,2023-04-29,
+P1860,María Mendoza,69,NA,Surco,Ginecología,2024-08-06,
+P1861,Carlos Torres,,F,Chorrillos,Pediatría,2023-07-06,
+P1862,Miguel Vargas,,NA,Miraflores,Ginecología,2024-10-01,NA
+P1863,Jorge Gómez,,,Chorrillos,Pediatría,2024-07-08,NA
+P1864,Carlos Ramírez,32,M,Comas,Traumatología,2024-03-13,NA
+P1865,Pedro Mendoza,NA,NA,San Isidro,Pediatría,2024-04-25,
+P1866,Jorge Vargas,,NA,Los Olivos,Medicina General,2023-01-06,
+P1867,Rosa Pérez,,NA,Los Olivos,Cardiología,2024-02-02,378.34
+P1868,Jorge Fernández,5,F,Los Olivos,Ginecología,2023-02-05,NA
+P1869,Sofía Vargas,NA,NA,,Odontología,2024-04-01,294.83
+P1870,Ana Torres,,F,La Molina,Cardiología,2023-01-28,
+P1871,Miguel Cruz,,,Surco,Medicina General,2023-02-28,
+P1872,Rosa Torres,31,F,Callao,NA,2024-10-10,
+P1873,Miguel Pérez,,F,NA,Medicina General,2024-01-17,
+P1874,Lucía Ramírez,,NA,Comas,Ginecología,2024-12-03,104.35
+P1875,Luis Rojas,,NA,,Pediatría,2023-01-14,287.41
+P1876,Pedro Salazar,,M,Comas,Ginecología,2024-04-30,489.14
+P1877,Sofía Ramírez,,,Comas,,2024-07-07,
+P1878,Luis Mendoza,89,F,Comas,,2023-08-04,NA
+P1879,Lucía Torres,NA,,Comas,NA,2023-07-08,
+P1880,Miguel Fernández,,NA,,Cardiología,2024-07-06,254.61
+P1881,Jorge Torres,,,Callao,Pediatría,2024-08-07,
+P1882,Rosa Pérez,,F,La Molina,Ginecología,2024-04-18,
+P1883,Rosa Pérez,NA,,Comas,Ginecología,2023-10-01,NA
+P1884,Ana Gómez,10,M,Surco,Cardiología,2024-04-03,
+P1885,María Cruz,,,,Pediatría,2024-02-18,
+P1886,Pedro Torres,,F,,Pediatría,2024-03-22,NA
+P1887,Jorge Vargas,,M,Callao,Odontología,2024-01-15,NA
+P1888,Rosa Torres,,NA,Callao,Traumatología,2023-05-28,59.11
+P1889,Rosa Cruz,21,M,NA,Traumatología,2023-05-31,
+P1890,Luis Mendoza,,M,Comas,,2023-04-01,329.76
+P1891,Carlos Rojas,NA,,Chorrillos,Traumatología,2023-08-24,52.84
+P1892,Ana Ramírez,NA,NA,Chorrillos,NA,2024-12-13,NA
+P1893,María Mendoza,NA,NA,Los Olivos,Ginecología,2023-02-05,154.55
+P1894,Lucía Torres,,NA,Surco,Traumatología,2023-03-08,
+P1895,Pedro Mendoza,,F,San Isidro,Ginecología,2023-08-17,
+P1896,Lucía Ramírez,,M,Surco,Cardiología,2024-01-11,
+P1897,Miguel Mendoza,,M,Surco,Odontología,2024-12-27,
+P1898,Lucía Salazar,21,,Los Olivos,,2024-11-27,
+P1899,Ana Mendoza,,NA,San Isidro,Ginecología,2024-06-01,
+P1900,Lucía Pérez,3,NA,San Isidro,Traumatología,2024-05-27,
+P1901,Ana Vargas,80,M,Comas,Ginecología,2023-10-06,
+P1902,Luis Pérez,NA,,La Molina,Pediatría,2023-10-30,
+P1903,María Vargas,NA,NA,San Isidro,NA,2023-02-25,331.48
+P1904,Sofía Vargas,,NA,NA,,2023-02-23,300.65
+P1905,Rosa Mendoza,56,,La Molina,Medicina General,2023-10-09,132.86
+P1906,María Fernández,NA,NA,Surco,Ginecología,2024-01-20,
+P1907,Rosa Mendoza,NA,,NA,Traumatología,2024-04-01,
+P1908,Luis Torres,NA,F,Los Olivos,,2024-07-19,NA
+P1909,Lucía Fernández,NA,NA,Comas,Traumatología,2023-03-18,
+P1910,María Ramírez,,,Miraflores,,2024-02-29,NA
+P1911,Lucía Gómez,81,NA,La Molina,,2024-03-14,
+P1912,Luis Salazar,67,F,Comas,Ginecología,2023-12-08,
+P1913,Luis Fernández,,NA,,Pediatría,2023-08-24,
+P1914,María Salazar,,NA,San Isidro,Ginecología,2024-02-24,197.58
+P1915,Miguel Mendoza,16,M,Surco,NA,2023-09-06,
+P1916,Lucía Salazar,,,San Isidro,,2023-01-23,NA
+P1917,Ana Salazar,,F,Chorrillos,,2024-12-14,NA
+P1918,María Rojas,NA,NA,Surco,Pediatría,2024-09-15,NA
+P1919,Rosa Cruz,89,NA,Chorrillos,Ginecología,2024-09-30,NA
+P1920,Luis Gómez,56,F,San Isidro,Ginecología,2024-05-27,NA
+P1921,María Gómez,62,NA,Chorrillos,Pediatría,2024-11-06,228.48
+P1922,Pedro Mendoza,NA,NA,Comas,,2023-03-26,65.35
+P1923,Sofía Mendoza,41,M,San Isidro,Odontología,2024-06-19,218.19
+P1924,Lucía Vargas,21,M,NA,Ginecología,2023-08-13,
+P1925,Miguel Salazar,87,NA,Los Olivos,Traumatología,2024-09-08,
+P1926,María Cruz,,F,NA,NA,2023-09-16,
+P1927,Luis Mendoza,,NA,San Isidro,Cardiología,2024-05-10,NA
+P1928,Luis Gómez,,NA,Callao,Medicina General,2023-03-07,
+P1929,Ana Pérez,,F,San Isidro,,2024-02-08,
+P1930,Ana Pérez,,F,Chorrillos,Traumatología,2023-04-09,347.37
+P1931,Sofía Torres,,,Callao,Cardiología,2024-10-10,NA
+P1932,María Ramírez,,,Los Olivos,,2023-11-29,381.85
+P1933,Sofía Mendoza,,NA,La Molina,Traumatología,2024-07-10,
+P1934,Pedro Torres,,M,Los Olivos,Cardiología,2024-11-06,
+P1935,Carlos Ramírez,,,San Isidro,NA,2024-04-07,NA
+P1936,Jorge Fernández,NA,F,Surco,,2023-10-01,
+P1937,Carlos Pérez,,NA,Comas,Pediatría,2023-05-25,232.17
+P1938,Rosa Ramírez,,NA,Comas,Ginecología,2023-10-02,NA
+P1939,Sofía Vargas,,,Los Olivos,NA,2024-09-14,
+P1940,Sofía Mendoza,,M,Surco,Odontología,2023-11-17,NA
+P1941,Pedro Ramírez,,,Chorrillos,Odontología,2024-10-15,
+P1942,Lucía Rojas,NA,NA,Callao,Pediatría,2024-07-19,NA
+P1943,Rosa Rojas,35,M,San Isidro,Cardiología,2024-11-05,
+P1944,María Gómez,50,NA,Miraflores,,2023-06-08,NA
+P1945,Pedro Salazar,,,Callao,Odontología,2023-06-17,
+P1946,Lucía Mendoza,,,Surco,Medicina General,2023-12-11,NA
+P1947,Ana Gómez,,,,Cardiología,2023-04-09,
+P1948,Lucía Fernández,,NA,San Isidro,NA,2024-03-27,NA
+P1949,Rosa Fernández,,NA,Chorrillos,,2024-03-10,167.68
+P1950,María Mendoza,77,,NA,,2023-04-11,NA
+P1951,Lucía Fernández,,,La Molina,,2023-10-27,139.98
+P1952,Sofía Fernández,NA,NA,,NA,2023-09-25,
+P1953,Carlos Gómez,NA,NA,Los Olivos,NA,2023-10-11,
+P1954,Rosa Vargas,NA,F,Miraflores,Medicina General,2023-05-10,
+P1955,Ana Gómez,49,M,,Cardiología,2024-07-04,NA
+P1956,María Cruz,,M,Comas,Medicina General,2023-02-28,NA
+P1957,Ana Torres,NA,,,Cardiología,2024-01-22,
+P1958,María Gómez,,F,San Isidro,Traumatología,2023-09-04,494.13
+P1959,Luis Torres,,M,Miraflores,Medicina General,2023-06-23,NA
+P1960,Ana Rojas,,M,NA,Cardiología,2024-04-07,
+P1961,Luis Salazar,81,F,Comas,NA,2023-08-04,
+P1962,Rosa Torres,,F,San Isidro,Ginecología,2024-03-03,
+P1963,Lucía Ramírez,,F,Los Olivos,,2023-04-17,
+P1964,Luis Mendoza,,,Chorrillos,Medicina General,2024-04-13,
+P1965,Rosa Cruz,,M,Callao,Medicina General,2024-07-29,NA
+P1966,Pedro Salazar,,,Miraflores,NA,2023-05-25,
+P1967,Ana Fernández,,M,NA,Traumatología,2023-12-02,
+P1968,Lucía Ramírez,NA,M,Chorrillos,NA,2023-02-21,
+P1969,Miguel Torres,33,F,,Pediatría,2024-11-26,
+P1970,María Vargas,,NA,Miraflores,Medicina General,2023-11-11,
+P1971,Rosa Pérez,NA,F,Los Olivos,Traumatología,2024-04-16,463.37
+P1972,Rosa Salazar,59,F,Comas,,2023-12-30,NA
+P1973,Pedro Salazar,NA,NA,Chorrillos,Odontología,2023-08-11,
+P1974,Luis Vargas,,,Callao,Pediatría,2024-10-12,234.97
+P1975,María Torres,,M,San Isidro,Odontología,2024-12-06,NA
+P1976,Rosa Ramírez,,F,Callao,Ginecología,2024-09-19,
+P1977,María Ramírez,NA,F,Los Olivos,Ginecología,2023-04-28,NA
+P1978,Rosa Rojas,,,Chorrillos,Medicina General,2023-12-31,
+P1979,Luis Fernández,NA,,San Isidro,Odontología,2023-10-17,NA
+P1980,Pedro Mendoza,,NA,Chorrillos,NA,2023-07-14,
+P1981,María Fernández,22,,Los Olivos,Pediatría,2024-08-15,
+P1982,Miguel Vargas,NA,F,Surco,Medicina General,2024-04-30,
+P1983,María Fernández,,F,Surco,Odontología,2024-06-18,
+P1984,Pedro Rojas,,M,Callao,Medicina General,2024-01-17,262.31
+P1985,Sofía Salazar,NA,M,La Molina,Medicina General,2023-01-18,
+P1986,María Vargas,,,Los Olivos,Pediatría,2023-05-13,
+P1987,Luis Pérez,,F,NA,Traumatología,2023-04-13,NA
+P1988,Ana Vargas,26,M,Los Olivos,Cardiología,2024-09-25,NA
+P1989,Jorge Pérez,6,,Chorrillos,NA,2023-01-01,
+P1990,Luis Fernández,NA,M,Surco,Odontología,2024-04-14,
+P1991,Lucía Pérez,,,Callao,Traumatología,2024-03-06,NA
+P1992,Ana Mendoza,81,F,Comas,,2023-02-02,
+P1993,María Cruz,84,M,Callao,,2024-12-10,95.78
+P1994,Ana Vargas,,,Comas,Odontología,2023-08-22,234.18
+P1995,Pedro Salazar,,M,,NA,2024-06-26,
+P1996,María Pérez,,NA,Surco,Ginecología,2023-05-05,
+P1997,Luis Torres,,,La Molina,Odontología,2024-06-27,
+P1998,Pedro Rojas,,F,Chorrillos,Cardiología,2024-01-10,NA
+P1999,Rosa Torres,28,NA,La Molina,Pediatría,2023-12-07,NA
+P2000,Sofía Gómez,,NA,San Isidro,Medicina General,2023-02-07,259.57
+P2001,Rosa Fernández,48,,Surco,Odontología,2023-12-07,
+P2002,Pedro Rojas,,F,Callao,Pediatría,2023-07-13,
+P2003,Pedro Vargas,,M,La Molina,Ginecología,2024-12-30,NA
+P2004,Ana Ramírez,NA,,La Molina,Ginecología,2024-03-18,
+P2005,Lucía Pérez,,,Surco,Pediatría,2024-07-03,NA
+P2006,Ana Torres,NA,NA,Chorrillos,Odontología,2024-07-17,
+P2007,Ana Vargas,NA,NA,,Medicina General,2024-01-06,NA
+P2008,Jorge Salazar,NA,NA,Miraflores,Ginecología,2024-09-15,
+P2009,Jorge Gómez,,F,San Isidro,Ginecología,2023-10-18,
+P2010,Jorge Salazar,NA,NA,Comas,Cardiología,2023-05-20,
+P2011,Miguel Ramírez,,F,San Isidro,Odontología,2023-11-30,490.57
+P2012,Jorge Cruz,,M,Miraflores,Traumatología,2024-02-02,430.36
+P2013,Lucía Vargas,,F,Miraflores,Medicina General,2024-07-01,269.32
+P2014,Lucía Ramírez,,F,La Molina,Traumatología,2024-11-04,
+P2015,Luis Pérez,90,M,Comas,Ginecología,2023-04-24,NA
+P2016,Carlos Rojas,,NA,NA,Cardiología,2023-06-25,
+P2017,Miguel Mendoza,18,NA,Miraflores,Medicina General,2024-04-23,
+P2018,Lucía Pérez,,,La Molina,Cardiología,2023-02-22,NA
+P2019,Rosa Salazar,NA,F,Chorrillos,,2023-02-04,287.64
+P2020,Pedro Pérez,,,NA,Ginecología,2023-06-07,NA
+P2021,Luis Fernández,,F,NA,NA,2023-10-31,
+P2022,María Mendoza,,,NA,NA,2024-02-18,349.5
+P2023,Miguel Gómez,20,M,La Molina,Ginecología,2024-09-14,NA
+P2024,Ana Mendoza,,,Surco,Odontología,2024-05-31,
+P2025,María Torres,,NA,La Molina,NA,2023-05-23,261.23
+P2026,Jorge Pérez,,NA,Miraflores,Odontología,2023-10-04,
+P2027,Sofía Cruz,NA,M,Surco,Pediatría,2023-04-07,
+P2028,Lucía Rojas,14,NA,,,2023-04-20,
+P2029,María Vargas,,NA,Miraflores,NA,2023-06-03,
+P2030,Pedro Rojas,24,,San Isidro,Cardiología,2024-08-27,NA
+P2031,María Rojas,4,M,Callao,,2024-12-26,200.26
+P2032,Jorge Gómez,,,NA,NA,2024-02-07,
+P2033,Miguel Cruz,,M,,Traumatología,2024-08-24,
+P2034,María Rojas,24,F,,NA,2024-04-28,
+P2035,Luis Torres,,NA,San Isidro,Odontología,2023-12-31,NA
+P2036,Ana Cruz,6,M,Surco,Traumatología,2023-05-29,
+P2037,Miguel Vargas,NA,F,La Molina,Medicina General,2024-12-23,NA
+P2038,Luis Rojas,,NA,San Isidro,Traumatología,2023-03-27,
+P2039,Rosa Salazar,,,NA,Ginecología,2023-03-10,
+P2040,Sofía Salazar,,NA,Los Olivos,Odontología,2023-05-15,204.57
+P2041,Lucía Torres,,,Comas,Ginecología,2024-04-08,271.1
+P2042,Ana Vargas,NA,,Surco,Ginecología,2023-02-12,
+P2043,Luis Mendoza,,,Surco,Traumatología,2023-07-23,
+P2044,Luis Gómez,,M,Miraflores,Traumatología,2024-11-01,159.09
+P2045,Luis Torres,,NA,Surco,Odontología,2023-11-24,
+P2046,Carlos Gómez,,,NA,NA,2023-03-23,
+P2047,Rosa Pérez,,,NA,Cardiología,2023-02-28,
+P2048,Ana Pérez,,NA,Miraflores,Odontología,2024-10-04,73.29
+P2049,Pedro Salazar,NA,,Surco,Medicina General,2023-09-08,395.76
+P2050,Sofía Vargas,85,,Surco,Traumatología,2023-09-16,
+P2051,María Salazar,NA,NA,San Isidro,Traumatología,2023-03-22,NA
+P2052,María Fernández,,,NA,Traumatología,2023-10-14,
+P2053,Lucía Torres,70,F,Comas,Medicina General,2024-12-21,NA
+P2054,Ana Rojas,,M,La Molina,Medicina General,2024-07-26,
+P2055,Ana Mendoza,,M,Comas,Cardiología,2023-04-17,
+P2056,Pedro Mendoza,NA,M,Surco,Odontología,2024-09-14,NA
+P2057,Pedro Pérez,,M,,Traumatología,2024-06-06,
+P2058,Rosa Ramírez,NA,M,,Odontología,2023-04-01,
+P2059,Ana Torres,,NA,Miraflores,Ginecología,2023-10-27,NA
+P2060,Sofía Gómez,,F,Chorrillos,Traumatología,2024-02-18,205.81
+P2061,Miguel Rojas,,M,Comas,Medicina General,2023-09-24,NA
+P2062,Sofía Fernández,,,Callao,Pediatría,2023-05-11,322.56
+P2063,Lucía Pérez,,,,NA,2024-03-14,
+P2064,Luis Fernández,,M,Los Olivos,Ginecología,2024-01-13,
+P2065,Rosa Rojas,,F,San Isidro,Ginecología,2024-01-13,NA
+P2066,Pedro Rojas,,NA,San Isidro,Ginecología,2023-08-13,280.24
+P2067,Rosa Ramírez,NA,,Chorrillos,Pediatría,2023-02-23,NA
+P2068,María Gómez,,NA,Callao,Ginecología,2024-06-23,459.09
+P2069,María Salazar,NA,M,Miraflores,NA,2023-01-13,180.95
+P2070,Jorge Torres,NA,M,Callao,NA,2024-07-01,NA
+P2071,Jorge Salazar,,NA,Surco,,2023-12-25,
+P2072,Ana Torres,18,NA,NA,NA,2024-03-03,NA
+P2073,Pedro Fernández,,F,Surco,NA,2023-10-11,202.1
+P2074,Lucía Cruz,,NA,Chorrillos,Ginecología,2023-09-27,
+P2075,Carlos Pérez,,NA,La Molina,,2023-02-15,472.66
+P2076,Luis Pérez,26,M,NA,Traumatología,2023-05-25,83.96
+P2077,Carlos Gómez,,F,San Isidro,,2023-05-03,NA
+P2078,Pedro Torres,NA,NA,,,2023-08-27,253.2
+P2079,Luis Pérez,88,,Chorrillos,Medicina General,2023-07-05,76.76
+P2080,Carlos Mendoza,,,Los Olivos,Pediatría,2024-04-12,
+P2081,Ana Rojas,,NA,Miraflores,Traumatología,2024-09-04,
+P2082,Pedro Gómez,,M,Surco,Pediatría,2024-02-09,NA
+P2083,María Pérez,26,F,La Molina,Ginecología,2023-01-24,
+P2084,Rosa Fernández,42,F,Surco,Pediatría,2023-07-22,
+P2085,Miguel Torres,,M,Chorrillos,Pediatría,2023-05-20,NA
+P2086,Lucía Pérez,25,M,La Molina,Traumatología,2024-09-26,112.49
+P2087,Jorge Rojas,,M,Comas,Cardiología,2024-11-15,
+P2088,Rosa Ramírez,57,F,Callao,Medicina General,2023-05-17,291.23
+P2089,Carlos Vargas,,,La Molina,,2023-07-28,
+P2090,Miguel Ramírez,,F,Comas,Ginecología,2024-12-11,398.03
+P2091,Carlos Fernández,,NA,San Isidro,Medicina General,2024-07-26,109.91
+P2092,Pedro Gómez,,M,La Molina,Traumatología,2024-10-19,
+P2093,Miguel Fernández,2,F,La Molina,Pediatría,2023-08-28,NA
+P2094,Rosa Pérez,,NA,NA,Traumatología,2024-09-28,282.31
+P2095,Sofía Mendoza,33,M,Comas,Cardiología,2024-08-31,171.79
+P2096,Luis Fernández,NA,M,NA,Cardiología,2023-11-14,NA
+P2097,Carlos Rojas,,F,Callao,Traumatología,2024-09-07,NA
+P2098,Sofía Salazar,,M,Surco,NA,2023-01-07,
+P2099,Pedro Torres,23,NA,San Isidro,Pediatría,2024-06-17,
+P2100,Luis Rojas,,NA,La Molina,,2023-08-29,
+P2101,Sofía Vargas,79,M,Callao,,2024-03-14,
+P2102,Ana Torres,NA,M,San Isidro,NA,2024-09-20,NA
+P2103,Luis Mendoza,,M,Los Olivos,,2023-01-30,345.04
+P2104,Carlos Fernández,NA,M,Miraflores,Medicina General,2023-05-17,
+P2105,Miguel Cruz,50,F,Callao,Pediatría,2024-04-01,NA
+P2106,Pedro Vargas,NA,NA,San Isidro,NA,2023-05-12,
+P2107,Carlos Pérez,54,M,Comas,NA,2023-06-15,143.18
+P2108,Rosa Salazar,29,F,NA,Traumatología,2023-10-07,
+P2109,Lucía Gómez,NA,F,La Molina,Ginecología,2023-10-10,358.74
+P2110,Luis Pérez,NA,,Miraflores,Pediatría,2023-09-08,
+P2111,Luis Ramírez,,M,Comas,Traumatología,2024-08-17,249.51
+P2112,Ana Vargas,40,F,Comas,Cardiología,2024-09-01,NA
+P2113,Jorge Torres,,F,,Medicina General,2024-06-24,
+P2114,Sofía Salazar,84,NA,Surco,Cardiología,2023-12-14,
+P2115,Luis Rojas,78,NA,San Isidro,,2024-01-06,
+P2116,Miguel Pérez,,,Surco,Medicina General,2024-09-09,
+P2117,Miguel Gómez,34,F,Surco,,2023-09-10,
+P2118,Jorge Salazar,,F,Miraflores,Odontología,2023-07-13,
+P2119,Jorge Fernández,88,NA,Callao,Medicina General,2023-08-08,
+P2120,Ana Pérez,,,San Isidro,Traumatología,2024-06-09,430.55
+P2121,Jorge Torres,NA,,San Isidro,,2023-08-05,NA
+P2122,Carlos Fernández,,NA,Surco,Cardiología,2023-03-06,94.09
+P2123,Carlos Mendoza,,,San Isidro,Traumatología,2024-10-21,
+P2124,Jorge Salazar,NA,M,La Molina,Odontología,2023-05-30,
+P2125,María Torres,,,Miraflores,Traumatología,2023-09-02,NA
+P2126,Ana Gómez,83,M,Chorrillos,Ginecología,2023-04-10,NA
+P2127,Jorge Torres,84,F,Los Olivos,Medicina General,2023-08-04,
+P2128,Lucía Ramírez,NA,NA,Los Olivos,NA,2023-12-01,206.14
+P2129,Lucía Torres,10,NA,Comas,Odontología,2023-11-30,NA
+P2130,Luis Torres,,F,Chorrillos,Traumatología,2023-01-29,
+P2131,Lucía Ramírez,NA,NA,Comas,Cardiología,2023-11-17,
+P2132,Ana Rojas,NA,M,Chorrillos,Pediatría,2024-12-07,NA
+P2133,Jorge Gómez,NA,F,Callao,Ginecología,2024-04-07,
+P2134,Pedro Gómez,,,Miraflores,Odontología,2023-01-10,401.46
+P2135,Ana Ramírez,,F,La Molina,Traumatología,2024-07-10,
+P2136,Lucía Vargas,61,M,San Isidro,Odontología,2023-11-06,
+P2137,Lucía Torres,74,F,Callao,Cardiología,2023-10-20,
+P2138,Jorge Pérez,84,NA,Surco,Pediatría,2023-06-06,NA
+P2139,María Torres,NA,NA,San Isidro,,2024-09-06,NA
+P2140,Pedro Vargas,NA,NA,,Medicina General,2024-01-30,64.0
+P2141,Lucía Ramírez,NA,F,Callao,Cardiología,2023-09-14,NA
+P2142,Lucía Vargas,,F,Comas,Ginecología,2023-02-09,174.52
+P2143,Miguel Rojas,,M,Comas,Medicina General,2024-03-08,NA
+P2144,Miguel Pérez,NA,M,La Molina,Cardiología,2024-03-15,
+P2145,Rosa Vargas,3,NA,,Cardiología,2024-03-04,
+P2146,Ana Gómez,41,M,,Traumatología,2023-06-16,240.2
+P2147,Ana Fernández,NA,F,San Isidro,Cardiología,2024-06-22,
+P2148,Jorge Torres,,F,Chorrillos,Medicina General,2023-09-29,
+P2149,Lucía Salazar,2,F,Surco,,2023-10-13,377.08
+P2150,María Torres,,,Callao,NA,2023-02-13,NA
+P2151,Sofía Vargas,,F,La Molina,Medicina General,2023-06-09,NA
+P2152,Rosa Cruz,54,M,Miraflores,Traumatología,2024-04-03,
+P2153,Ana Rojas,,M,NA,,2024-09-04,NA
+P2154,Sofía Torres,35,,,Cardiología,2024-09-17,
+P2155,Miguel Mendoza,NA,,Comas,Pediatría,2023-05-23,NA
+P2156,María Salazar,,F,Comas,Odontología,2023-12-11,311.7
+P2157,Rosa Cruz,NA,NA,Miraflores,Traumatología,2023-04-30,NA
+P2158,Lucía Vargas,,F,San Isidro,Pediatría,2023-11-05,NA
+P2159,Sofía Fernández,,,San Isidro,,2023-05-15,391.78
+P2160,Carlos Pérez,56,,Callao,Pediatría,2023-02-12,
+P2161,Ana Torres,,F,La Molina,Medicina General,2023-08-28,NA
+P2162,Lucía Mendoza,57,F,San Isidro,Ginecología,2024-12-12,NA
+P2163,Lucía Cruz,,F,Miraflores,Ginecología,2023-08-29,NA
+P2164,Sofía Fernández,,NA,Callao,Traumatología,2023-11-17,NA
+P2165,Sofía Cruz,,M,NA,Odontología,2023-05-12,
+P2166,Jorge Salazar,,M,Miraflores,,2024-01-02,
+P2167,Pedro Gómez,,M,La Molina,,2023-01-17,447.15
+P2168,Luis Fernández,,M,NA,,2024-05-08,468.54
+P2169,Luis Gómez,NA,,San Isidro,Medicina General,2024-11-17,130.06
+P2170,Miguel Vargas,,NA,Los Olivos,,2023-02-04,
+P2171,Ana Torres,,F,Los Olivos,NA,2024-08-14,NA
+P2172,Rosa Fernández,,M,Surco,,2024-07-29,
+P2173,Lucía Salazar,,F,NA,Medicina General,2023-01-26,NA
+P2174,Miguel Gómez,,,,Odontología,2024-03-21,
+P2175,María Cruz,,F,Chorrillos,Ginecología,2024-08-04,
+P2176,Jorge Ramírez,NA,M,Miraflores,Medicina General,2023-09-03,246.25
+P2177,Ana Vargas,,NA,Comas,,2024-10-23,442.44
+P2178,Pedro Fernández,,M,La Molina,Pediatría,2023-11-16,
+P2179,Sofía Rojas,11,NA,Chorrillos,Medicina General,2024-06-22,
+P2180,Pedro Gómez,NA,M,Los Olivos,,2024-07-20,
+P2181,Sofía Fernández,,,Los Olivos,Odontología,2023-04-16,454.11
+P2182,Ana Cruz,,F,Los Olivos,Ginecología,2024-02-17,NA
+P2183,Jorge Rojas,,M,La Molina,Medicina General,2023-09-09,230.42
+P2184,Luis Pérez,NA,NA,Callao,Cardiología,2023-01-01,
+P2185,Ana Fernández,,NA,Comas,Traumatología,2023-03-21,NA
+P2186,Lucía Rojas,NA,F,Comas,,2024-11-14,NA
+P2187,Ana Fernández,,,NA,Ginecología,2024-05-15,NA
+P2188,Luis Pérez,,F,NA,Odontología,2023-03-09,NA
+P2189,Ana Gómez,,F,Surco,Pediatría,2023-07-14,
+P2190,Pedro Cruz,NA,F,Los Olivos,,2024-01-27,
+P2191,Pedro Torres,69,F,Los Olivos,Odontología,2023-02-09,
+P2192,Carlos Rojas,NA,F,Callao,NA,2024-11-10,
+P2193,Sofía Fernández,,NA,NA,Medicina General,2024-08-25,NA
+P2194,Luis Gómez,,M,Callao,Odontología,2024-05-10,NA
+P2195,Jorge Cruz,84,F,Miraflores,,2024-03-08,
+P2196,Jorge Torres,56,,La Molina,Odontología,2024-04-30,346.02
+P2197,Luis Torres,,F,NA,NA,2024-04-02,NA
+P2198,Jorge Rojas,,F,Miraflores,Medicina General,2024-08-13,NA
+P2199,María Fernández,59,NA,Chorrillos,,2023-07-14,
+P2200,Ana Torres,NA,,La Molina,Pediatría,2023-03-26,
+P2201,Miguel Mendoza,,M,Callao,Pediatría,2023-12-08,
+P2202,María Fernández,,M,La Molina,Ginecología,2023-04-02,
+P2203,Sofía Vargas,NA,M,Chorrillos,Pediatría,2023-06-29,467.07
+P2204,Rosa Gómez,,M,Surco,,2023-10-31,
+P2205,Luis Pérez,31,,La Molina,Traumatología,2024-10-05,NA
+P2206,Ana Ramírez,,F,San Isidro,Odontología,2023-02-07,NA
+P2207,Jorge Vargas,51,M,Callao,Pediatría,2023-01-21,
+P2208,Lucía Fernández,,F,Miraflores,Cardiología,2023-10-17,476.14
+P2209,Sofía Fernández,62,,Comas,Ginecología,2023-12-19,
+P2210,María Rojas,,F,Comas,Cardiología,2024-03-27,441.76
+P2211,Jorge Mendoza,,M,Miraflores,Traumatología,2023-11-22,NA
+P2212,Rosa Cruz,8,,Chorrillos,Medicina General,2024-09-12,
+P2213,Miguel Gómez,,NA,Callao,Ginecología,2024-01-17,399.18
+P2214,Carlos Pérez,44,M,Miraflores,Medicina General,2023-12-11,NA
+P2215,Luis Rojas,,NA,Chorrillos,Ginecología,2024-02-17,
+P2216,Ana Torres,,,San Isidro,Pediatría,2023-03-10,
+P2217,María Fernández,,,Callao,Traumatología,2024-06-01,NA
+P2218,Ana Gómez,NA,F,,Ginecología,2023-03-22,281.94
+P2219,Carlos Pérez,13,NA,NA,Ginecología,2024-04-06,
+P2220,Sofía Mendoza,80,NA,NA,Pediatría,2024-06-26,NA
+P2221,Pedro Rojas,,NA,Callao,NA,2024-09-24,
+P2222,Sofía Mendoza,,NA,Surco,Ginecología,2023-04-24,
+P2223,María Ramírez,,M,,Traumatología,2023-12-24,
+P2224,Miguel Mendoza,,NA,,Pediatría,2023-07-15,NA
+P2225,Lucía Rojas,,NA,Comas,Pediatría,2024-03-16,
+P2226,Sofía Vargas,71,M,Los Olivos,Cardiología,2024-11-19,
+P2227,Carlos Rojas,NA,M,La Molina,Odontología,2024-08-23,217.38
+P2228,Sofía Gómez,NA,F,NA,Ginecología,2023-02-20,385.71
+P2229,Pedro Fernández,NA,F,Surco,Odontología,2023-05-01,217.68
+P2230,Carlos Vargas,,NA,,Ginecología,2023-11-18,235.63
+P2231,Rosa Gómez,,NA,Surco,NA,2024-04-17,238.96
+P2232,Sofía Gómez,,M,Comas,Medicina General,2024-09-16,NA
+P2233,Sofía Gómez,14,NA,La Molina,Ginecología,2023-12-22,
+P2234,Ana Torres,,F,La Molina,,2023-07-11,
+P2235,Pedro Gómez,,F,Miraflores,Ginecología,2024-05-26,
+P2236,Sofía Vargas,7,F,Los Olivos,Cardiología,2024-01-31,
+P2237,Pedro Fernández,29,NA,San Isidro,Pediatría,2023-08-02,
+P2238,Luis Vargas,,F,Callao,NA,2024-11-24,NA
+P2239,María Ramírez,,NA,Chorrillos,Odontología,2024-12-29,114.66
+P2240,Lucía Gómez,51,,Los Olivos,Ginecología,2024-12-13,183.36
+P2241,Jorge Pérez,,,La Molina,Cardiología,2023-11-22,
+P2242,María Torres,,NA,Callao,NA,2024-03-19,NA
+P2243,Miguel Gómez,,NA,Miraflores,NA,2023-11-02,331.31
+P2244,Luis Ramírez,,M,Surco,Traumatología,2024-12-19,
+P2245,Miguel Salazar,,,NA,Cardiología,2023-05-29,268.74
+P2246,Pedro Pérez,NA,,Los Olivos,Odontología,2024-11-22,NA
+P2247,Rosa Salazar,,F,Surco,NA,2024-02-26,
+P2248,María Rojas,70,F,NA,NA,2024-11-06,
+P2249,Miguel Pérez,,M,NA,,2023-03-06,
+P2250,Miguel Ramírez,62,M,,NA,2024-08-16,NA
+P2251,Luis Salazar,,F,La Molina,Cardiología,2023-09-23,131.55
+P2252,Lucía Fernández,NA,F,,NA,2023-06-06,
+P2253,Carlos Ramírez,,F,Callao,,2023-07-28,
+P2254,Luis Mendoza,,NA,La Molina,Cardiología,2023-10-06,
+P2255,Lucía Cruz,,M,Miraflores,Traumatología,2024-08-19,355.99
+P2256,Luis Cruz,,,Comas,,2023-07-14,
+P2257,Rosa Gómez,,F,Los Olivos,Ginecología,2024-11-04,NA
+P2258,Luis Ramírez,,,Chorrillos,Ginecología,2023-07-03,283.51
+P2259,Luis Salazar,NA,M,Los Olivos,Medicina General,2024-07-31,NA
+P2260,Rosa Cruz,7,M,Callao,Medicina General,2024-08-22,52.29
+P2261,Rosa Cruz,73,M,La Molina,Traumatología,2024-04-02,
+P2262,Jorge Gómez,,,NA,Cardiología,2024-02-28,
+P2263,Ana Mendoza,,F,Callao,Ginecología,2023-10-03,NA
+P2264,Lucía Ramírez,,M,Chorrillos,Odontología,2024-09-23,NA
+P2265,Carlos Rojas,,F,Chorrillos,Pediatría,2024-08-25,NA
+P2266,Carlos Salazar,,F,La Molina,Ginecología,2023-01-07,119.92
+P2267,Jorge Ramírez,NA,F,Comas,,2024-06-02,316.45
+P2268,Jorge Cruz,53,M,La Molina,NA,2024-11-25,NA
+P2269,Carlos Gómez,84,M,Callao,Cardiología,2024-06-03,370.2
+P2270,Ana Pérez,45,M,Chorrillos,Medicina General,2024-01-01,
+P2271,Rosa Vargas,27,F,La Molina,Ginecología,2023-07-04,NA
+P2272,Luis Cruz,,F,Los Olivos,Medicina General,2023-05-06,NA
+P2273,María Gómez,NA,NA,Callao,,2024-11-13,NA
+P2274,Rosa Pérez,,,Callao,NA,2024-03-12,
+P2275,Lucía Rojas,,M,Surco,Medicina General,2024-02-16,NA
+P2276,Miguel Cruz,NA,M,Surco,Medicina General,2024-01-30,
+P2277,Carlos Pérez,,F,La Molina,Cardiología,2024-12-27,223.96
+P2278,Lucía Gómez,NA,NA,Chorrillos,Pediatría,2023-07-05,390.95
+P2279,Luis Mendoza,NA,M,Chorrillos,,2024-07-15,
+P2280,Luis Rojas,,M,Chorrillos,Medicina General,2023-12-30,NA
+P2281,Rosa Fernández,14,NA,Miraflores,,2024-12-14,463.8
+P2282,Lucía Fernández,60,M,Callao,Traumatología,2023-11-30,246.74
+P2283,Sofía Gómez,33,M,Chorrillos,,2023-10-06,
+P2284,Pedro Vargas,NA,F,Surco,Odontología,2024-05-09,NA
+P2285,Sofía Mendoza,26,M,Comas,,2024-05-16,227.98
+P2286,Luis Salazar,NA,NA,,Cardiología,2024-11-27,NA
+P2287,Sofía Salazar,18,F,Los Olivos,Cardiología,2023-06-08,288.61
+P2288,Pedro Ramírez,NA,F,Surco,Traumatología,2024-11-15,
+P2289,María Rojas,,M,Callao,Cardiología,2023-05-20,401.82
+P2290,María Torres,70,,Comas,Cardiología,2023-06-23,
+P2291,Lucía Ramírez,,NA,Callao,NA,2024-01-28,
+P2292,Luis Rojas,,NA,Surco,Ginecología,2023-03-10,174.48
+P2293,María Cruz,,M,NA,,2023-01-31,NA
+P2294,Pedro Rojas,13,M,NA,Cardiología,2024-02-01,
+P2295,Ana Gómez,,M,Chorrillos,Medicina General,2024-02-13,NA
+P2296,Rosa Vargas,,,NA,Odontología,2023-02-09,131.75
+P2297,Carlos Salazar,,,NA,NA,2023-08-30,NA
+P2298,Luis Cruz,,F,Chorrillos,Pediatría,2023-08-19,NA
+P2299,Sofía Torres,,,Miraflores,Odontología,2023-05-01,
+P2300,Jorge Fernández,NA,M,La Molina,Cardiología,2023-06-24,68.64
+P2301,Ana Vargas,85,NA,La Molina,,2023-10-24,NA
+P2302,Luis Vargas,,F,Miraflores,Medicina General,2024-03-01,
+P2303,Ana Pérez,,,Los Olivos,Traumatología,2024-01-04,
+P2304,Sofía Torres,NA,,Miraflores,Ginecología,2024-01-29,158.0
+P2305,Miguel Salazar,,M,La Molina,Odontología,2023-12-21,NA
+P2306,Sofía Cruz,,NA,Chorrillos,Ginecología,2023-01-06,
+P2307,Pedro Vargas,13,,Comas,Odontología,2024-06-06,
+P2308,Sofía Cruz,NA,,Miraflores,Odontología,2024-08-22,NA
+P2309,María Cruz,NA,M,La Molina,Medicina General,2023-01-01,238.4
+P2310,Pedro Ramírez,25,,Comas,Cardiología,2024-08-06,NA
+P2311,Luis Mendoza,,,NA,Ginecología,2023-07-03,
+P2312,Luis Torres,,,Chorrillos,Cardiología,2023-07-04,
+P2313,Miguel Torres,,NA,NA,Medicina General,2024-04-02,
+P2314,Lucía Gómez,,,Comas,Cardiología,2024-08-28,
+P2315,Luis Mendoza,,M,Chorrillos,NA,2024-06-18,
+P2316,Rosa Fernández,,F,Chorrillos,Medicina General,2024-06-27,149.34
+P2317,Sofía Ramírez,,F,Miraflores,Cardiología,2023-10-25,139.81
+P2318,Jorge Gómez,,NA,Los Olivos,,2023-06-26,
+P2319,Sofía Rojas,NA,M,NA,Traumatología,2023-10-26,
+P2320,María Vargas,,M,Surco,Ginecología,2023-10-27,492.57
+P2321,Jorge Vargas,NA,F,Surco,Pediatría,2023-07-26,168.76
+P2322,Rosa Salazar,NA,F,Surco,Traumatología,2023-12-24,
+P2323,Jorge Fernández,,M,Los Olivos,Medicina General,2024-11-07,250.61
+P2324,Luis Vargas,,F,,Ginecología,2023-12-24,
+P2325,Sofía Ramírez,,,Comas,Ginecología,2023-10-30,
+P2326,Carlos Gómez,,F,Surco,NA,2024-05-31,271.17
+P2327,María Vargas,71,,Comas,Odontología,2024-02-25,119.58
+P2328,Sofía Salazar,,,NA,Odontología,2023-10-18,NA
+P2329,Ana Gómez,,F,Comas,,2024-09-27,
+P2330,Carlos Salazar,4,M,Callao,Pediatría,2023-03-15,NA
+P2331,Pedro Fernández,NA,,Los Olivos,Odontología,2024-11-16,404.11
+P2332,Rosa Salazar,,F,,NA,2024-03-23,
+P2333,Luis Mendoza,86,,La Molina,Odontología,2024-12-27,NA
+P2334,Pedro Pérez,NA,M,La Molina,Cardiología,2023-03-04,
+P2335,Ana Ramírez,NA,NA,Los Olivos,Cardiología,2024-09-04,NA
+P2336,Rosa Gómez,33,M,Miraflores,Pediatría,2024-02-01,NA
+P2337,Luis Cruz,,NA,NA,Odontología,2023-09-02,
+P2338,Jorge Fernández,,M,NA,Traumatología,2023-02-03,476.9
+P2339,Pedro Fernández,,NA,Comas,Ginecología,2024-07-03,
+P2340,Jorge Mendoza,70,F,San Isidro,Cardiología,2024-01-12,
+P2341,Jorge Torres,,M,Surco,Odontología,2023-07-27,
+P2342,María Fernández,,,San Isidro,NA,2024-08-24,
+P2343,Ana Salazar,,F,Surco,NA,2024-09-25,
+P2344,Lucía Salazar,14,F,San Isidro,Odontología,2024-12-23,
+P2345,María Mendoza,58,M,Los Olivos,NA,2024-06-19,NA
+P2346,Ana Torres,21,,La Molina,,2023-06-21,NA
+P2347,Pedro Vargas,,M,San Isidro,NA,2024-08-01,NA
+P2348,Pedro Torres,13,,Chorrillos,Medicina General,2023-09-16,274.13
+P2349,Carlos Salazar,,NA,,Traumatología,2024-09-02,
+P2350,Sofía Ramírez,NA,,Surco,Medicina General,2024-05-22,
+P2351,Luis Rojas,,NA,La Molina,Medicina General,2024-11-25,
+P2352,Rosa Fernández,NA,M,Miraflores,Cardiología,2024-01-04,420.55
+P2353,Lucía Vargas,NA,,Chorrillos,NA,2024-05-26,
+P2354,Jorge Mendoza,NA,NA,NA,Ginecología,2023-01-10,
+P2355,Sofía Vargas,,,NA,NA,2024-12-20,434.59
+P2356,Pedro Vargas,67,NA,Miraflores,Ginecología,2023-12-14,NA
+P2357,Ana Torres,,NA,San Isidro,Pediatría,2023-01-03,NA
+P2358,Luis Pérez,55,M,Callao,,2023-10-27,NA
+P2359,Rosa Gómez,85,F,Los Olivos,,2023-05-04,
+P2360,Rosa Cruz,NA,NA,San Isidro,,2023-08-26,
+P2361,Jorge Rojas,,M,Miraflores,Medicina General,2024-11-28,427.13
+P2362,Sofía Vargas,11,F,Surco,Cardiología,2024-12-30,NA
+P2363,Luis Fernández,NA,,Comas,Pediatría,2024-10-23,NA
+P2364,Lucía Vargas,,F,Chorrillos,Cardiología,2024-12-29,
+P2365,Miguel Pérez,,M,Callao,Pediatría,2023-09-01,
+P2366,Ana Vargas,,M,Chorrillos,Cardiología,2024-10-17,
+P2367,María Fernández,NA,,Chorrillos,Odontología,2023-07-10,
+P2368,Carlos Mendoza,,,,,2023-01-23,
+P2369,Luis Pérez,NA,F,Surco,Ginecología,2023-03-15,
+P2370,Rosa Mendoza,NA,,NA,,2023-01-29,NA
+P2371,Luis Rojas,,NA,Miraflores,Odontología,2024-12-30,
+P2372,Pedro Pérez,NA,M,Surco,Medicina General,2024-06-23,
+P2373,María Gómez,NA,F,,,2024-12-06,
+P2374,Miguel Vargas,NA,F,NA,NA,2023-11-25,NA
+P2375,Jorge Fernández,NA,,NA,Traumatología,2023-06-20,NA
+P2376,Carlos Rojas,NA,NA,Comas,Ginecología,2024-10-03,357.71
+P2377,Pedro Salazar,,M,Los Olivos,NA,2023-01-07,
+P2378,Carlos Rojas,,F,San Isidro,Traumatología,2024-06-06,
+P2379,Luis Torres,,M,Callao,NA,2024-06-30,
+P2380,Carlos Pérez,,,Los Olivos,Medicina General,2023-10-21,NA
+P2381,Carlos Torres,67,,,NA,2024-04-08,NA
+P2382,Luis Rojas,NA,M,Chorrillos,,2024-03-06,144.99
+P2383,Sofía Gómez,,NA,Chorrillos,Ginecología,2024-01-18,
+P2384,Ana Torres,18,,Callao,Traumatología,2023-09-09,NA
+P2385,Rosa Pérez,13,M,Callao,Medicina General,2023-12-16,
+P2386,Luis Torres,,,Chorrillos,Traumatología,2023-12-26,
+P2387,Luis Torres,NA,NA,Los Olivos,Medicina General,2023-04-16,
+P2388,Pedro Torres,86,F,Comas,Traumatología,2023-12-21,NA
+P2389,María Rojas,,M,San Isidro,Traumatología,2024-12-30,
+P2390,María Mendoza,63,NA,Chorrillos,Cardiología,2023-06-28,490.63
+P2391,Carlos Gómez,90,,Callao,Cardiología,2023-10-20,
+P2392,Luis Rojas,,NA,NA,Medicina General,2024-01-22,115.07
+P2393,Pedro Rojas,,M,NA,Odontología,2024-11-02,
+P2394,Pedro Cruz,,,San Isidro,NA,2024-09-08,
+P2395,Lucía Cruz,NA,F,Callao,Pediatría,2023-04-28,NA
+P2396,Miguel Ramírez,,M,Surco,Medicina General,2023-01-04,308.58
+P2397,Rosa Ramírez,,NA,La Molina,NA,2024-09-14,
+P2398,Carlos Cruz,43,,NA,Cardiología,2023-07-22,238.6
+P2399,Luis Gómez,70,,Miraflores,Medicina General,2024-01-21,
+P2400,Jorge Cruz,,,Surco,Odontología,2024-03-11,
+P2401,Sofía Rojas,26,,San Isidro,Cardiología,2024-06-01,
+P2402,Jorge Vargas,24,F,San Isidro,,2024-08-10,
+P2403,Jorge Mendoza,56,,San Isidro,Ginecología,2024-09-18,182.63
+P2404,Jorge Torres,,F,NA,,2023-12-18,
+P2405,Lucía Ramírez,15,,Los Olivos,Medicina General,2024-06-13,NA
+P2406,Carlos Mendoza,81,NA,Surco,Traumatología,2024-02-15,
+P2407,Pedro Pérez,,F,Comas,Odontología,2024-08-14,
+P2408,Carlos Gómez,NA,NA,NA,NA,2024-07-25,449.04
+P2409,Pedro Rojas,,F,,Odontología,2024-02-26,NA
+P2410,María Cruz,,NA,La Molina,Ginecología,2023-12-20,
+P2411,Rosa Fernández,NA,M,Comas,Pediatría,2023-09-06,
+P2412,María Salazar,,M,Callao,Cardiología,2023-09-27,402.65
+P2413,Rosa Cruz,,F,,Pediatría,2024-08-30,NA
+P2414,Lucía Mendoza,,F,Comas,NA,2023-01-19,
+P2415,Rosa Pérez,,M,,Ginecología,2024-09-08,142.68
+P2416,Jorge Salazar,NA,,Chorrillos,Cardiología,2023-09-29,
+P2417,Miguel Rojas,,F,Surco,Cardiología,2023-10-16,
+P2418,Rosa Cruz,,,Surco,Pediatría,2024-04-19,289.95
+P2419,Carlos Cruz,75,NA,,Ginecología,2023-09-08,NA
+P2420,Pedro Fernández,NA,F,Chorrillos,Medicina General,2024-09-01,NA
+P2421,Rosa Torres,,NA,Comas,Pediatría,2023-08-02,214.14
+P2422,Rosa Fernández,17,F,Comas,NA,2024-01-20,87.98
+P2423,Jorge Torres,17,F,San Isidro,,2023-08-25,
+P2424,Jorge Pérez,,F,San Isidro,Pediatría,2024-05-04,
+P2425,Ana Rojas,NA,M,Miraflores,Cardiología,2023-05-14,
+P2426,Ana Torres,,NA,,,2024-01-08,
+P2427,Rosa Cruz,NA,NA,San Isidro,NA,2023-11-21,NA
+P2428,Jorge Rojas,,M,Chorrillos,Cardiología,2024-11-28,NA
+P2429,Miguel Torres,,F,Comas,Ginecología,2024-06-08,482.31
+P2430,Luis Torres,NA,NA,Miraflores,,2024-03-31,NA
+P2431,Carlos Fernández,,NA,Surco,Pediatría,2024-12-18,
+P2432,Sofía Cruz,39,,Callao,Pediatría,2023-10-27,
+P2433,Ana Cruz,,F,Surco,Ginecología,2023-12-14,
+P2434,Miguel Ramírez,,F,San Isidro,Pediatría,2023-01-04,
+P2435,Ana Ramírez,60,F,,Pediatría,2023-04-04,393.94
+P2436,Jorge Pérez,,M,NA,Odontología,2023-03-25,
+P2437,Luis Cruz,,M,La Molina,,2023-03-05,
+P2438,Lucía Gómez,NA,NA,La Molina,Medicina General,2023-03-19,
+P2439,Ana Vargas,,F,Los Olivos,Medicina General,2023-10-23,392.89
+P2440,Rosa Ramírez,NA,M,Surco,Pediatría,2024-05-04,
+P2441,Jorge Torres,NA,M,NA,Traumatología,2023-03-13,
+P2442,Lucía Gómez,NA,NA,San Isidro,Odontología,2023-01-28,
+P2443,Pedro Pérez,6,F,Miraflores,Cardiología,2024-09-19,NA
+P2444,Luis Rojas,,M,Comas,Odontología,2024-02-07,
+P2445,Sofía Fernández,,F,Comas,,2023-03-03,NA
+P2446,Ana Pérez,,F,,Cardiología,2023-04-04,
+P2447,Pedro Mendoza,62,,La Molina,Odontología,2023-12-30,NA
+P2448,Miguel Cruz,NA,M,Los Olivos,Pediatría,2023-07-04,79.22
+P2449,Lucía Torres,NA,NA,La Molina,Odontología,2023-12-15,
+P2450,Sofía Torres,,M,Surco,Ginecología,2023-04-22,
+P2451,Jorge Mendoza,NA,,,NA,2023-08-30,
+P2452,María Torres,NA,F,La Molina,Traumatología,2024-06-28,453.19
+P2453,Rosa Torres,,F,Miraflores,Traumatología,2024-10-26,
+P2454,Jorge Cruz,NA,F,Los Olivos,Odontología,2023-08-07,
+P2455,Rosa Ramírez,24,NA,La Molina,Pediatría,2024-10-27,
+P2456,Lucía Rojas,NA,NA,San Isidro,Cardiología,2023-12-17,499.87
+P2457,Ana Vargas,39,M,Miraflores,Cardiología,2024-06-10,NA
+P2458,Luis Cruz,NA,,Comas,Ginecología,2024-06-24,NA
+P2459,Carlos Rojas,,NA,Miraflores,Traumatología,2024-11-02,81.21
+P2460,Carlos Rojas,NA,F,Los Olivos,NA,2024-10-12,
+P2461,Rosa Salazar,NA,,Miraflores,,2023-12-26,348.1
+P2462,Carlos Mendoza,NA,NA,San Isidro,Ginecología,2024-01-19,
+P2463,Sofía Fernández,30,NA,La Molina,NA,2024-09-12,348.47
+P2464,Lucía Rojas,63,,Surco,Cardiología,2024-05-31,245.32
+P2465,Ana Mendoza,,M,NA,Traumatología,2024-11-07,
+P2466,Lucía Mendoza,,M,NA,Ginecología,2023-08-17,NA
+P2467,Miguel Pérez,,M,Comas,Cardiología,2024-06-15,114.33
+P2468,Lucía Rojas,,NA,Los Olivos,Odontología,2024-01-14,
+P2469,María Fernández,NA,NA,San Isidro,Traumatología,2024-10-28,161.2
+P2470,Sofía Salazar,NA,M,Chorrillos,Ginecología,2024-09-12,279.36
+P2471,Carlos Ramírez,NA,M,Comas,Cardiología,2024-02-24,
+P2472,Sofía Pérez,NA,NA,Callao,Cardiología,2024-04-07,
+P2473,Carlos Pérez,49,M,Los Olivos,Medicina General,2024-04-27,NA
+P2474,Sofía Cruz,NA,NA,,,2024-01-21,
+P2475,Ana Pérez,NA,F,Callao,Medicina General,2024-06-12,
+P2476,Pedro Fernández,NA,,Los Olivos,Cardiología,2023-12-07,
+P2477,Carlos Cruz,26,NA,San Isidro,,2023-10-08,NA
+P2478,Lucía Pérez,NA,M,San Isidro,Odontología,2024-11-18,NA
+P2479,Jorge Vargas,12,F,Chorrillos,Pediatría,2023-03-02,317.47
+P2480,Jorge Cruz,16,,La Molina,Pediatría,2023-02-02,
+P2481,Pedro Fernández,NA,,NA,Odontología,2023-10-22,
+P2482,Sofía Salazar,49,F,,Cardiología,2024-01-29,NA
+P2483,Miguel Fernández,,M,Miraflores,Odontología,2024-01-07,
+P2484,Sofía Mendoza,,M,Miraflores,Medicina General,2024-01-08,NA
+P2485,Lucía Rojas,37,,La Molina,Ginecología,2023-06-02,
+P2486,Miguel Mendoza,68,NA,Los Olivos,Cardiología,2023-07-03,
+P2487,Jorge Pérez,,M,La Molina,NA,2023-11-07,322.96
+P2488,Jorge Mendoza,26,M,Miraflores,Pediatría,2023-12-08,
+P2489,Rosa Ramírez,,,Chorrillos,,2024-05-21,
+P2490,Luis Gómez,,M,Miraflores,Odontología,2024-10-27,
+P2491,Pedro Cruz,,,Surco,Pediatría,2023-06-07,
+P2492,Jorge Fernández,,F,La Molina,Medicina General,2023-01-25,NA
+P2493,Carlos Ramírez,,,Comas,,2023-07-26,
+P2494,Rosa Torres,17,F,San Isidro,,2024-12-12,
+P2495,Rosa Torres,,NA,Chorrillos,Ginecología,2023-02-12,
+P2496,Lucía Pérez,,NA,La Molina,Medicina General,2024-10-08,315.6
+P2497,Sofía Rojas,NA,,Los Olivos,Medicina General,2023-09-17,
+P2498,Carlos Gómez,,NA,Los Olivos,Odontología,2024-09-27,
+P2499,Jorge Rojas,,F,San Isidro,Traumatología,2023-02-15,
+P2500,Rosa Salazar,,F,Chorrillos,Cardiología,2024-04-15,NA
+P2501,Carlos Salazar,42,,La Molina,NA,2024-07-21,184.77
+P2502,Miguel Cruz,NA,F,San Isidro,Cardiología,2024-02-28,84.04
+P2503,Carlos Fernández,,NA,La Molina,Ginecología,2024-03-06,NA
+P2504,Luis Pérez,62,M,La Molina,Medicina General,2024-06-07,232.19
+P2505,Pedro Salazar,NA,NA,Chorrillos,Cardiología,2024-12-25,
+P2506,Rosa Mendoza,,M,Miraflores,Cardiología,2023-06-15,103.76
+P2507,Pedro Rojas,5,NA,Chorrillos,Pediatría,2024-03-01,
+P2508,Sofía Gómez,56,F,Miraflores,Cardiología,2024-05-01,
+P2509,Pedro Gómez,,NA,Los Olivos,Ginecología,2024-07-25,326.17
+P2510,Miguel Gómez,,F,Surco,,2024-11-12,
+P2511,Pedro Torres,NA,M,Chorrillos,Pediatría,2023-11-15,
+P2512,María Gómez,,M,La Molina,,2024-02-20,
+P2513,Luis Salazar,NA,,Surco,Cardiología,2024-09-28,NA
+P2514,Jorge Torres,,,Los Olivos,Odontología,2023-10-29,
+P2515,Lucía Vargas,,F,,Ginecología,2023-06-11,NA
+P2516,Miguel Salazar,,NA,,Odontología,2024-11-26,
+P2517,Luis Vargas,,NA,Los Olivos,NA,2024-08-24,NA
+P2518,Ana Fernández,23,NA,La Molina,Pediatría,2024-05-31,150.9
+P2519,Miguel Gómez,,F,Chorrillos,Pediatría,2024-10-03,251.09
+P2520,Sofía Vargas,,F,Los Olivos,Traumatología,2023-05-07,295.56
+P2521,Carlos Rojas,,M,,Medicina General,2023-02-06,NA
+P2522,Jorge Vargas,,M,,Odontología,2023-07-13,
+P2523,Jorge Cruz,,M,Los Olivos,Odontología,2023-03-20,
+P2524,Jorge Salazar,,,Callao,Ginecología,2024-06-21,
+P2525,Rosa Ramírez,29,NA,Surco,Ginecología,2024-09-06,487.49
+P2526,Jorge Salazar,NA,F,San Isidro,Medicina General,2024-03-30,NA
+P2527,Miguel Salazar,NA,F,,Medicina General,2023-06-28,
+P2528,Carlos Mendoza,,M,Surco,,2024-07-21,NA
+P2529,Luis Fernández,,NA,,Ginecología,2024-01-01,138.23
+P2530,Carlos Pérez,,NA,Surco,Medicina General,2024-08-03,
+P2531,Lucía Salazar,,NA,San Isidro,Medicina General,2023-04-13,
+P2532,Miguel Mendoza,,NA,Los Olivos,Medicina General,2023-03-19,105.4
+P2533,María Gómez,,,NA,NA,2024-12-30,NA
+P2534,Sofía Gómez,,F,Chorrillos,Cardiología,2024-05-16,
+P2535,Ana Cruz,21,M,Los Olivos,Cardiología,2024-04-02,304.9
+P2536,Jorge Mendoza,,M,Los Olivos,Odontología,2023-07-03,311.04
+P2537,María Pérez,NA,NA,Surco,Pediatría,2024-06-06,
+P2538,Ana Gómez,,NA,Callao,Odontología,2024-09-10,
+P2539,Ana Gómez,,NA,,Ginecología,2023-08-15,461.16
+P2540,Miguel Salazar,,,,,2024-06-18,
+P2541,Pedro Pérez,,M,,Traumatología,2023-09-02,122.53
+P2542,Ana Pérez,,M,Surco,NA,2023-12-08,NA
+P2543,Pedro Rojas,,,,Cardiología,2023-06-30,126.61
+P2544,Rosa Torres,NA,M,La Molina,Odontología,2024-07-23,
+P2545,Sofía Rojas,,NA,San Isidro,Cardiología,2023-07-31,
+P2546,Rosa Cruz,NA,F,San Isidro,Cardiología,2023-05-07,
+P2547,Carlos Pérez,,NA,La Molina,NA,2024-09-24,NA
+P2548,María Fernández,,NA,Los Olivos,Pediatría,2024-02-26,
+P2549,Ana Pérez,25,F,Comas,Cardiología,2023-10-20,129.73
+P2550,Luis Rojas,NA,NA,Miraflores,Odontología,2024-05-27,NA
+P2551,Ana Vargas,,NA,,Ginecología,2024-01-23,
+P2552,Jorge Vargas,,NA,Surco,Cardiología,2023-08-25,
+P2553,María Torres,3,M,Miraflores,Cardiología,2024-08-11,
+P2554,Rosa Mendoza,,F,San Isidro,Pediatría,2024-08-15,191.42
+P2555,Luis Pérez,,F,NA,Pediatría,2023-03-21,
+P2556,Jorge Vargas,,NA,,Odontología,2023-01-04,
+P2557,Lucía Vargas,,F,Callao,Traumatología,2024-09-20,NA
+P2558,Sofía Torres,,NA,,Cardiología,2024-02-29,372.72
+P2559,Sofía Fernández,NA,,Callao,,2023-09-08,NA
+P2560,Rosa Salazar,NA,M,Chorrillos,Odontología,2024-01-28,NA
+P2561,Sofía Pérez,,M,San Isidro,,2024-06-12,
+P2562,Jorge Vargas,,F,La Molina,Ginecología,2023-05-14,NA
+P2563,Lucía Torres,73,NA,Miraflores,Cardiología,2023-08-07,NA
+P2564,María Ramírez,,M,San Isidro,,2023-06-26,
+P2565,Miguel Salazar,NA,M,Miraflores,,2023-11-16,NA
+P2566,Carlos Torres,NA,NA,Los Olivos,Traumatología,2024-04-28,NA
+P2567,Miguel Gómez,,F,La Molina,Pediatría,2023-07-09,
+P2568,Rosa Ramírez,60,F,Callao,Traumatología,2023-06-15,
+P2569,Miguel Torres,NA,,Miraflores,Cardiología,2023-04-13,NA
+P2570,Pedro Mendoza,,M,Comas,Odontología,2023-01-20,NA
+P2571,Ana Gómez,,NA,San Isidro,,2023-08-12,
+P2572,Carlos Mendoza,NA,NA,Surco,,2023-07-09,NA
+P2573,Carlos Cruz,,,Surco,,2023-08-20,
+P2574,Sofía Salazar,,F,Callao,Ginecología,2024-01-19,NA
+P2575,Lucía Vargas,17,M,Miraflores,Ginecología,2024-08-02,
+P2576,Miguel Gómez,,NA,Miraflores,NA,2023-04-11,NA
+P2577,Sofía Mendoza,NA,F,NA,Cardiología,2023-02-16,181.94
+P2578,María Fernández,NA,M,Los Olivos,NA,2023-12-16,122.29
+P2579,Miguel Ramírez,NA,NA,Surco,Cardiología,2023-05-03,
+P2580,Miguel Ramírez,NA,NA,NA,,2023-04-04,
+P2581,Rosa Torres,,NA,Surco,Traumatología,2023-08-01,72.67
+P2582,Lucía Pérez,55,NA,Los Olivos,Odontología,2023-01-14,
+P2583,Miguel Mendoza,9,NA,La Molina,Cardiología,2024-07-07,NA
+P2584,Jorge Ramírez,19,M,San Isidro,Pediatría,2024-11-16,NA
+P2585,Lucía Fernández,34,NA,Los Olivos,Ginecología,2023-09-08,
+P2586,Sofía Cruz,,NA,Los Olivos,Odontología,2024-09-11,
+P2587,Pedro Cruz,NA,M,Comas,Cardiología,2024-05-06,310.3
+P2588,María Vargas,,NA,Los Olivos,Ginecología,2024-11-12,NA
+P2589,Jorge Pérez,,,San Isidro,Medicina General,2023-07-25,
+P2590,Lucía Fernández,NA,M,San Isidro,Medicina General,2023-10-29,NA
+P2591,Carlos Mendoza,,F,Miraflores,Cardiología,2024-11-17,NA
+P2592,María Mendoza,,,Surco,Ginecología,2023-03-29,
+P2593,Miguel Mendoza,NA,,Chorrillos,Odontología,2024-01-19,
+P2594,Sofía Torres,,,NA,Medicina General,2023-10-07,164.55
+P2595,Pedro Pérez,,M,NA,Odontología,2023-10-12,137.18
+P2596,María Mendoza,,F,Miraflores,,2023-09-03,485.6
+P2597,María Pérez,,F,San Isidro,Cardiología,2023-05-14,
+P2598,Miguel Torres,,M,Callao,NA,2023-02-27,
+P2599,Ana Vargas,NA,NA,Callao,Pediatría,2023-08-18,
+P2600,Miguel Salazar,,F,Comas,,2024-07-26,
+P2601,Carlos Fernández,,,San Isidro,Odontología,2024-11-06,NA
+P2602,Carlos Pérez,,F,Chorrillos,,2023-08-03,
+P2603,Rosa Cruz,,,La Molina,Traumatología,2024-12-08,NA
+P2604,Rosa Rojas,NA,NA,,Medicina General,2024-12-20,373.5
+P2605,Pedro Torres,,,,Traumatología,2023-06-25,
+P2606,Ana Salazar,,,Chorrillos,NA,2024-05-26,NA
+P2607,Luis Pérez,,F,Chorrillos,,2023-12-08,213.24
+P2608,María Cruz,,,Miraflores,Odontología,2023-04-06,
+P2609,Rosa Ramírez,,M,NA,Medicina General,2023-11-12,NA
+P2610,Rosa Salazar,NA,NA,Miraflores,Medicina General,2024-08-19,350.64
+P2611,Carlos Vargas,,,San Isidro,Cardiología,2023-08-12,NA
+P2612,Luis Salazar,,M,La Molina,Traumatología,2023-05-09,101.7
+P2613,Luis Cruz,40,F,Los Olivos,Medicina General,2024-01-10,
+P2614,Rosa Cruz,,NA,Chorrillos,Pediatría,2024-01-27,314.26
+P2615,Pedro Vargas,NA,F,La Molina,NA,2024-04-16,NA
+P2616,Sofía Mendoza,NA,F,La Molina,Ginecología,2023-05-29,NA
+P2617,Rosa Torres,,M,La Molina,Cardiología,2024-08-31,186.37
+P2618,Lucía Pérez,NA,NA,Comas,,2023-05-21,NA
+P2619,Luis Ramírez,NA,F,Callao,Traumatología,2023-06-25,NA
+P2620,Jorge Salazar,NA,M,Los Olivos,NA,2024-04-27,
+P2621,Lucía Torres,NA,M,San Isidro,Ginecología,2024-12-30,225.35
+P2622,Rosa Gómez,,,NA,Odontología,2024-01-24,
+P2623,Jorge Vargas,14,F,,NA,2024-04-28,
+P2624,Lucía Torres,,,San Isidro,Ginecología,2024-05-19,
+P2625,Sofía Rojas,NA,NA,Surco,Ginecología,2024-12-15,NA
+P2626,Ana Vargas,79,M,Callao,Cardiología,2023-11-20,462.83
+P2627,Miguel Ramírez,,M,La Molina,Odontología,2023-01-30,
+P2628,Jorge Rojas,19,NA,Callao,Medicina General,2024-04-28,
+P2629,Miguel Torres,,,Comas,Pediatría,2024-06-12,
+P2630,Rosa Ramírez,NA,,Callao,Ginecología,2024-06-20,
+P2631,Pedro Gómez,NA,,,Pediatría,2023-05-28,359.48
+P2632,Pedro Rojas,80,NA,,Odontología,2023-07-05,
+P2633,Luis Cruz,NA,M,NA,Traumatología,2023-08-31,
+P2634,Luis Torres,,,Miraflores,Medicina General,2023-07-19,NA
+P2635,Miguel Pérez,,M,Callao,Odontología,2024-05-22,106.12
+P2636,Luis Pérez,48,M,Miraflores,Pediatría,2024-10-02,NA
+P2637,Ana Rojas,9,M,NA,Pediatría,2023-09-13,NA
+P2638,Pedro Ramírez,,M,Chorrillos,,2024-09-22,NA
+P2639,María Torres,NA,NA,Comas,Ginecología,2023-01-21,90.06
+P2640,Lucía Pérez,84,NA,Comas,Odontología,2023-03-16,NA
+P2641,Jorge Mendoza,,,La Molina,Cardiología,2024-06-09,368.83
+P2642,Luis Rojas,,M,NA,Traumatología,2023-04-25,451.12
+P2643,Miguel Torres,48,F,,NA,2024-09-19,279.18
+P2644,Sofía Mendoza,NA,M,Surco,Odontología,2023-10-18,
+P2645,Carlos Ramírez,NA,M,Miraflores,Traumatología,2023-10-19,
+P2646,Sofía Fernández,70,M,Comas,Cardiología,2024-04-24,
+P2647,Miguel Ramírez,,NA,San Isidro,Ginecología,2024-03-24,
+P2648,María Torres,,,San Isidro,Cardiología,2024-02-20,
+P2649,Sofía Fernández,,NA,Los Olivos,Traumatología,2023-04-09,160.49
+P2650,Lucía Fernández,70,NA,Callao,Cardiología,2023-01-11,225.31
+P2651,Jorge Pérez,,F,Callao,Odontología,2024-01-30,NA
+P2652,Pedro Vargas,72,NA,Surco,Pediatría,2023-05-01,
+P2653,Luis Cruz,,NA,Chorrillos,NA,2024-12-27,NA
+P2654,Luis Rojas,NA,,Comas,Medicina General,2024-04-26,135.74
+P2655,Ana Vargas,,NA,La Molina,Odontología,2024-06-10,325.57
+P2656,Jorge Pérez,36,F,Surco,NA,2023-07-20,NA
+P2657,Sofía Mendoza,NA,NA,Chorrillos,NA,2024-08-23,NA
+P2658,Luis Ramírez,NA,,Callao,Traumatología,2023-08-29,NA
+P2659,Luis Cruz,6,,Miraflores,Medicina General,2024-11-13,NA
+P2660,Miguel Rojas,,,Chorrillos,Ginecología,2023-11-27,
+P2661,Pedro Vargas,NA,M,NA,Traumatología,2024-02-29,
+P2662,María Mendoza,NA,M,Comas,Ginecología,2024-02-06,
+P2663,Jorge Mendoza,,NA,NA,NA,2023-04-28,
+P2664,Carlos Rojas,NA,M,NA,Cardiología,2023-03-14,
+P2665,Rosa Salazar,,,Surco,Ginecología,2024-07-30,
+P2666,Rosa Pérez,,F,Comas,NA,2023-02-07,
+P2667,Lucía Torres,,M,La Molina,,2023-08-08,
+P2668,Ana Ramírez,,M,Miraflores,Medicina General,2024-10-14,
+P2669,Carlos Vargas,,,Los Olivos,Traumatología,2023-12-24,NA
+P2670,Rosa Rojas,NA,F,Surco,Odontología,2023-08-24,189.13
+P2671,Lucía Vargas,NA,M,Callao,Cardiología,2023-07-17,
+P2672,Lucía Salazar,NA,NA,La Molina,Cardiología,2024-11-19,
+P2673,Pedro Torres,NA,,,NA,2024-12-07,NA
+P2674,Lucía Cruz,,,Surco,Cardiología,2024-09-28,426.91
+P2675,Sofía Ramírez,NA,F,,,2023-02-05,450.41
+P2676,Luis Ramírez,,NA,Callao,Traumatología,2024-03-02,
+P2677,Rosa Salazar,10,,NA,Odontología,2024-10-16,
+P2678,Ana Torres,,,Callao,Pediatría,2024-04-25,NA
+P2679,Carlos Mendoza,,F,Callao,,2024-03-24,NA
+P2680,Miguel Torres,NA,,San Isidro,Cardiología,2023-04-11,
+P2681,María Fernández,82,,Miraflores,Cardiología,2024-10-27,
+P2682,Sofía Gómez,38,NA,Miraflores,NA,2023-09-03,NA
+P2683,Luis Mendoza,,NA,San Isidro,Odontología,2023-05-19,442.9
+P2684,Rosa Rojas,75,F,Los Olivos,,2023-06-03,470.2
+P2685,Miguel Cruz,,F,Callao,Ginecología,2024-09-17,
+P2686,Miguel Fernández,,NA,Callao,Pediatría,2024-07-01,
+P2687,María Cruz,,,Los Olivos,Medicina General,2024-09-13,NA
+P2688,Jorge Ramírez,,NA,NA,NA,2024-01-25,
+P2689,Rosa Mendoza,,F,Chorrillos,Cardiología,2023-06-16,NA
+P2690,Jorge Vargas,NA,NA,San Isidro,NA,2023-07-22,162.01
+P2691,Carlos Torres,8,M,Miraflores,Odontología,2023-03-17,
+P2692,Carlos Gómez,,F,San Isidro,Traumatología,2023-09-10,NA
+P2693,Luis Mendoza,,M,La Molina,Traumatología,2024-04-12,418.56
+P2694,Jorge Vargas,,NA,Surco,Pediatría,2023-12-29,NA
+P2695,Miguel Salazar,,NA,Surco,Cardiología,2023-04-18,NA
+P2696,Rosa Rojas,,NA,La Molina,Pediatría,2024-01-25,
+P2697,María Torres,NA,M,Surco,Traumatología,2024-08-04,226.01
+P2698,María Vargas,,NA,Chorrillos,Ginecología,2024-11-03,
+P2699,Pedro Gómez,,M,San Isidro,Cardiología,2024-05-02,
+P2700,Ana Mendoza,,NA,NA,Ginecología,2024-01-10,356.07
+P2701,Carlos Rojas,NA,F,La Molina,Medicina General,2023-02-23,377.75
+P2702,Pedro Mendoza,,NA,San Isidro,Cardiología,2024-05-28,
+P2703,Lucía Pérez,26,NA,,Pediatría,2024-10-24,
+P2704,Miguel Mendoza,NA,F,Miraflores,Odontología,2024-05-19,NA
+P2705,Luis Torres,2,,Chorrillos,Odontología,2023-11-17,
+P2706,Lucía Mendoza,,,Los Olivos,Traumatología,2023-04-17,NA
+P2707,Luis Pérez,,NA,La Molina,Traumatología,2024-12-25,NA
+P2708,Sofía Cruz,,,La Molina,Pediatría,2024-12-23,370.6
+P2709,Jorge Fernández,NA,M,Los Olivos,Medicina General,2024-01-12,
+P2710,Luis Ramírez,NA,NA,Los Olivos,Pediatría,2023-07-18,
+P2711,María Fernández,64,M,La Molina,NA,2023-10-24,362.39
+P2712,Jorge Gómez,NA,F,Surco,Traumatología,2024-10-02,262.68
+P2713,Carlos Cruz,NA,M,Callao,Traumatología,2024-11-21,50.14
+P2714,Miguel Pérez,16,F,Miraflores,Traumatología,2024-12-04,
+P2715,Jorge Torres,NA,,Surco,Pediatría,2024-01-16,
+P2716,María Vargas,NA,F,Comas,Ginecología,2023-11-10,
+P2717,Luis Mendoza,47,,Los Olivos,Cardiología,2023-10-17,
+P2718,Pedro Ramírez,25,F,San Isidro,Medicina General,2024-01-11,NA
+P2719,Rosa Gómez,NA,NA,La Molina,Pediatría,2024-02-29,
+P2720,Miguel Cruz,NA,F,Surco,Medicina General,2024-04-03,
+P2721,Rosa Rojas,NA,NA,,Ginecología,2024-04-17,
+P2722,Carlos Rojas,,M,San Isidro,Medicina General,2023-10-12,
+P2723,Carlos Fernández,,M,Surco,,2023-01-20,406.32
+P2724,Miguel Pérez,34,F,,Ginecología,2023-03-10,
+P2725,Carlos Cruz,,F,La Molina,Traumatología,2024-10-09,
+P2726,Ana Vargas,17,M,NA,Medicina General,2024-05-04,
+P2727,Carlos Vargas,60,,Los Olivos,NA,2023-04-24,
+P2728,María Pérez,,F,,NA,2024-12-01,403.1
+P2729,Luis Salazar,NA,F,San Isidro,Odontología,2024-11-05,
+P2730,Sofía Vargas,36,F,Los Olivos,Odontología,2023-12-28,245.85
+P2731,Sofía Gómez,NA,NA,La Molina,Pediatría,2024-07-20,NA
+P2732,Carlos Vargas,,M,Chorrillos,Cardiología,2023-06-16,
+P2733,María Rojas,,,Callao,Pediatría,2024-04-20,
+P2734,Pedro Ramírez,,M,NA,NA,2024-03-03,NA
+P2735,Miguel Rojas,,M,Callao,Cardiología,2023-09-25,
+P2736,Lucía Rojas,NA,NA,Miraflores,,2023-05-18,
+P2737,Pedro Pérez,,F,San Isidro,Traumatología,2023-08-01,
+P2738,Jorge Cruz,,NA,Comas,Cardiología,2023-10-12,
+P2739,Jorge Cruz,21,,,Ginecología,2023-03-23,332.1
+P2740,Jorge Vargas,21,M,,Ginecología,2024-12-17,
+P2741,Rosa Salazar,,M,,Medicina General,2023-11-10,
+P2742,Carlos Salazar,,M,Comas,NA,2024-06-05,NA
+P2743,Carlos Mendoza,20,NA,NA,Traumatología,2024-05-16,NA
+P2744,Lucía Torres,72,,La Molina,Traumatología,2023-06-23,139.86
+P2745,Luis Gómez,NA,M,La Molina,Medicina General,2024-04-20,
+P2746,Lucía Rojas,,M,San Isidro,Odontología,2024-07-09,
+P2747,Rosa Cruz,,,Callao,Pediatría,2024-09-30,
+P2748,María Rojas,49,NA,NA,Medicina General,2024-04-18,
+P2749,Jorge Fernández,,F,Callao,,2024-05-26,NA
+P2750,Ana Gómez,NA,M,Los Olivos,Traumatología,2024-04-23,260.06
+P2751,María Fernández,,M,NA,NA,2024-10-28,
+P2752,Lucía Cruz,,NA,Callao,Ginecología,2023-01-03,
+P2753,Luis Cruz,,M,,Ginecología,2024-09-11,NA
+P2754,María Pérez,,NA,Miraflores,NA,2024-12-02,
+P2755,Lucía Gómez,6,,San Isidro,Pediatría,2024-06-27,
+P2756,Jorge Mendoza,,M,Callao,Traumatología,2023-08-28,
+P2757,Carlos Fernández,NA,,Comas,Cardiología,2023-01-25,NA
+P2758,Miguel Pérez,,F,Los Olivos,NA,2024-08-14,
+P2759,Sofía Fernández,,,Surco,,2023-02-25,NA
+P2760,María Gómez,,F,Comas,,2023-02-08,
+P2761,Rosa Rojas,,,,Medicina General,2024-07-12,NA
+P2762,Sofía Cruz,NA,F,La Molina,NA,2023-04-28,
+P2763,Lucía Torres,,NA,Chorrillos,,2024-09-13,
+P2764,Pedro Cruz,,F,Callao,,2023-01-08,101.38
+P2765,Jorge Salazar,,,San Isidro,,2024-04-13,
+P2766,Pedro Mendoza,,,,Medicina General,2024-12-30,
+P2767,Ana Gómez,,M,San Isidro,Pediatría,2023-04-14,
+P2768,Miguel Torres,NA,,San Isidro,,2024-07-20,NA
+P2769,Ana Rojas,,F,Surco,Pediatría,2023-06-12,
+P2770,Sofía Gómez,54,M,Callao,Pediatría,2024-02-29,NA
+P2771,Miguel Vargas,58,F,,NA,2023-03-12,NA
+P2772,Lucía Ramírez,,,Miraflores,Odontología,2024-09-30,
+P2773,María Vargas,NA,F,Comas,Ginecología,2023-10-06,
+P2774,Pedro Cruz,,F,NA,Odontología,2024-10-12,NA
+P2775,Sofía Ramírez,NA,NA,La Molina,Odontología,2023-11-20,
+P2776,Luis Cruz,NA,NA,Miraflores,Cardiología,2023-07-07,NA
+P2777,María Cruz,10,F,Miraflores,,2023-03-28,
+P2778,Ana Fernández,77,NA,La Molina,Odontología,2024-03-21,
+P2779,Carlos Ramírez,,NA,Miraflores,NA,2023-08-16,
+P2780,Pedro Vargas,68,NA,,NA,2023-02-20,457.73
+P2781,Rosa Torres,32,NA,NA,Odontología,2023-07-24,NA
+P2782,Lucía Salazar,NA,,Comas,NA,2024-11-10,
+P2783,Rosa Torres,,,Chorrillos,,2024-07-16,338.03
+P2784,Lucía Gómez,,,Los Olivos,,2023-05-27,
+P2785,Lucía Salazar,NA,NA,Chorrillos,,2023-11-05,
+P2786,Carlos Cruz,,M,Chorrillos,Cardiología,2023-04-16,
+P2787,Ana Fernández,57,F,Surco,Ginecología,2023-06-03,
+P2788,María Salazar,,,,NA,2023-02-07,
+P2789,Lucía Ramírez,,,Surco,,2024-10-13,185.23
+P2790,Jorge Fernández,79,,Comas,,2024-09-25,
+P2791,Ana Ramírez,NA,M,Chorrillos,NA,2024-12-16,
+P2792,María Gómez,,M,NA,Pediatría,2024-01-02,145.24
+P2793,Luis Rojas,NA,M,,Ginecología,2023-04-29,
+P2794,Miguel Cruz,82,F,Callao,Traumatología,2024-12-26,148.32
+P2795,Ana Cruz,NA,F,Los Olivos,Medicina General,2024-08-21,
+P2796,María Mendoza,84,,Los Olivos,Odontología,2024-03-22,NA
+P2797,Lucía Rojas,75,F,Surco,Ginecología,2024-12-13,NA
+P2798,Jorge Pérez,,NA,Callao,,2023-10-31,NA
+P2799,Lucía Cruz,13,M,,Traumatología,2024-04-27,NA
+P2800,Jorge Cruz,,M,Callao,Ginecología,2024-10-08,
+P2801,Sofía Salazar,,M,NA,Medicina General,2024-12-17,
+P2802,Rosa Gómez,3,M,La Molina,NA,2024-05-06,255.8
+P2803,Carlos Rojas,9,M,Chorrillos,Odontología,2024-03-06,
+P2804,Lucía Mendoza,,F,La Molina,Cardiología,2024-04-06,325.71
+P2805,Sofía Vargas,75,F,Los Olivos,Medicina General,2024-05-12,165.69
+P2806,Luis Vargas,,M,Los Olivos,Medicina General,2023-01-17,
+P2807,Rosa Torres,,F,Surco,Traumatología,2023-08-22,NA
+P2808,Ana Vargas,11,NA,Miraflores,Traumatología,2023-12-13,
+P2809,Luis Torres,NA,,Los Olivos,Cardiología,2024-11-04,241.95
+P2810,Rosa Gómez,,,Callao,Cardiología,2024-04-13,
+P2811,Ana Cruz,2,,Surco,Medicina General,2024-09-17,NA
+P2812,Luis Salazar,,NA,Miraflores,NA,2024-08-01,
+P2813,Sofía Salazar,,NA,Callao,Ginecología,2023-11-21,
+P2814,Miguel Torres,,NA,NA,Odontología,2024-06-03,
+P2815,Ana Salazar,15,M,La Molina,,2024-06-10,221.57
+P2816,Rosa Cruz,NA,,NA,Ginecología,2024-07-02,
+P2817,Pedro Mendoza,NA,M,,Traumatología,2024-10-13,323.6
+P2818,Sofía Salazar,NA,F,NA,Odontología,2024-05-26,
+P2819,Miguel Salazar,NA,M,Comas,,2024-04-14,308.17
+P2820,Lucía Rojas,,NA,Los Olivos,Ginecología,2024-05-29,172.93
+P2821,Ana Cruz,,F,Los Olivos,Pediatría,2024-04-13,
+P2822,Ana Cruz,NA,M,Comas,,2023-05-03,
+P2823,Pedro Torres,NA,M,San Isidro,Cardiología,2023-02-22,
+P2824,Sofía Gómez,NA,F,Comas,Traumatología,2023-11-21,
+P2825,Jorge Pérez,NA,M,,Cardiología,2023-07-22,
+P2826,María Vargas,NA,M,Comas,Ginecología,2023-12-04,NA
+P2827,Carlos Torres,NA,NA,Surco,Medicina General,2023-07-14,
+P2828,Lucía Ramírez,,M,NA,Traumatología,2024-09-23,
+P2829,Lucía Torres,NA,F,NA,Medicina General,2024-12-06,463.46
+P2830,Lucía Cruz,NA,M,Callao,NA,2023-04-21,
+P2831,Miguel Rojas,NA,NA,Chorrillos,Medicina General,2024-11-15,NA
+P2832,Lucía Fernández,NA,NA,Callao,Pediatría,2024-12-12,
+P2833,Sofía Rojas,,NA,Comas,Medicina General,2024-09-13,
+P2834,Lucía Cruz,NA,F,,Ginecología,2023-10-07,NA
+P2835,Luis Rojas,,NA,La Molina,NA,2024-11-16,
+P2836,Sofía Torres,,,,Odontología,2024-08-07,
+P2837,Carlos Torres,73,M,Los Olivos,,2023-11-13,NA
+P2838,Jorge Rojas,,M,Chorrillos,Cardiología,2023-05-29,
+P2839,Lucía Rojas,,,Surco,Ginecología,2023-08-19,
+P2840,Luis Ramírez,,,San Isidro,Odontología,2024-07-01,NA
+P2841,Jorge Mendoza,,M,,Odontología,2023-11-28,
+P2842,Sofía Torres,NA,F,Surco,Traumatología,2023-07-26,192.96
+P2843,Lucía Fernández,,M,Callao,Pediatría,2024-06-25,
+P2844,Carlos Cruz,,NA,Los Olivos,,2024-12-06,
+P2845,Carlos Salazar,,,NA,,2024-09-28,
+P2846,Sofía Pérez,65,,San Isidro,Odontología,2023-09-09,
+P2847,Sofía Gómez,NA,F,,NA,2023-02-28,
+P2848,Pedro Rojas,NA,NA,La Molina,Cardiología,2024-07-15,
+P2849,Carlos Torres,NA,F,,Odontología,2024-10-03,
+P2850,Lucía Mendoza,,,NA,NA,2024-10-05,NA
+P2851,Luis Torres,72,F,Comas,Medicina General,2023-08-10,131.93
+P2852,Sofía Rojas,,,Los Olivos,NA,2023-08-29,
+P2853,Carlos Ramírez,,NA,,Medicina General,2024-10-13,
+P2854,Miguel Vargas,,F,San Isidro,Odontología,2024-10-17,
+P2855,María Ramírez,,NA,Callao,Medicina General,2023-10-29,NA
+P2856,Ana Ramírez,,,La Molina,Medicina General,2024-05-12,469.95
+P2857,Luis Ramírez,17,F,Callao,Odontología,2024-02-18,
+P2858,Ana Ramírez,26,F,San Isidro,Medicina General,2023-08-01,
+P2859,Sofía Gómez,,M,Callao,Ginecología,2023-11-18,494.57
+P2860,Jorge Gómez,,NA,La Molina,Pediatría,2023-01-12,
+P2861,Miguel Pérez,NA,F,Miraflores,NA,2024-05-23,241.35
+P2862,Lucía Rojas,79,F,Miraflores,NA,2023-06-15,NA
+P2863,Luis Mendoza,NA,F,Los Olivos,Traumatología,2024-06-18,
+P2864,Jorge Rojas,36,M,NA,NA,2023-06-03,
+P2865,Pedro Ramírez,,F,La Molina,Medicina General,2024-01-22,80.52
+P2866,Sofía Rojas,NA,M,Callao,NA,2023-07-04,
+P2867,Jorge Fernández,14,NA,La Molina,Odontología,2023-02-12,137.04
+P2868,María Fernández,5,F,Miraflores,Odontología,2023-07-15,NA
+P2869,Pedro Cruz,NA,F,Los Olivos,Pediatría,2024-11-01,NA
+P2870,Ana Pérez,,NA,,Ginecología,2023-06-19,
+P2871,Pedro Cruz,41,NA,NA,Cardiología,2024-11-02,NA
+P2872,Jorge Cruz,NA,NA,Los Olivos,Traumatología,2023-03-05,
+P2873,Lucía Mendoza,,M,Los Olivos,Medicina General,2023-07-13,NA
+P2874,Jorge Ramírez,,,La Molina,,2024-03-28,315.33
+P2875,Luis Torres,,NA,Los Olivos,Pediatría,2024-09-20,
+P2876,Carlos Fernández,,NA,Comas,Medicina General,2024-11-26,
+P2877,Sofía Rojas,33,M,Chorrillos,Medicina General,2024-02-16,436.28
+P2878,Miguel Vargas,,M,Surco,Ginecología,2023-03-10,NA
+P2879,Carlos Rojas,,M,NA,Traumatología,2023-11-13,NA
+P2880,Rosa Torres,,M,Miraflores,NA,2023-05-15,NA
+P2881,María Vargas,NA,M,San Isidro,Medicina General,2024-11-10,
+P2882,Carlos Gómez,,F,NA,Pediatría,2023-02-01,
+P2883,Luis Pérez,15,,La Molina,Odontología,2024-02-29,
+P2884,María Pérez,NA,F,Callao,Cardiología,2024-04-14,
+P2885,Rosa Fernández,,,Los Olivos,Traumatología,2024-09-21,
+P2886,María Ramírez,25,M,Surco,,2023-03-24,NA
+P2887,Jorge Cruz,NA,NA,Los Olivos,Traumatología,2024-12-12,NA
+P2888,Rosa Salazar,NA,NA,Miraflores,Ginecología,2024-10-14,NA
+P2889,Sofía Rojas,29,M,NA,Odontología,2023-01-20,
+P2890,Ana Salazar,,M,Miraflores,,2024-11-07,
+P2891,Miguel Gómez,,NA,Chorrillos,Odontología,2023-04-19,
+P2892,Sofía Rojas,NA,NA,Surco,,2024-02-24,
+P2893,Pedro Torres,,NA,Chorrillos,Pediatría,2023-07-03,
+P2894,Ana Ramírez,NA,M,NA,Ginecología,2023-11-05,
+P2895,Luis Ramírez,,,San Isidro,,2023-06-11,
+P2896,Ana Cruz,,NA,NA,Cardiología,2023-10-19,
+P2897,Pedro Torres,NA,,Los Olivos,Pediatría,2023-04-30,394.72
+P2898,Lucía Rojas,81,NA,Surco,Medicina General,2023-04-26,
+P2899,Lucía Mendoza,NA,NA,Miraflores,NA,2024-09-17,308.13
+P2900,Luis Gómez,,,,Traumatología,2023-10-09,
+P2901,Carlos Ramírez,,M,,NA,2023-04-19,
+P2902,Miguel Pérez,NA,M,La Molina,Pediatría,2024-03-07,448.4
+P2903,Carlos Vargas,54,NA,NA,Pediatría,2023-11-26,
+P2904,Jorge Mendoza,47,,Surco,NA,2023-09-14,
+P2905,María Fernández,,,San Isidro,NA,2024-02-02,453.75
+P2906,Lucía Fernández,69,NA,NA,Traumatología,2023-11-29,
+P2907,Jorge Salazar,NA,NA,San Isidro,Pediatría,2023-05-01,
+P2908,Ana Torres,,F,Chorrillos,Medicina General,2023-11-29,142.35
+P2909,Carlos Gómez,27,,,Ginecología,2023-09-17,NA
+P2910,Carlos Rojas,NA,M,Chorrillos,,2023-09-14,
+P2911,Sofía Gómez,NA,NA,La Molina,NA,2024-01-17,NA
+P2912,Carlos Rojas,NA,F,NA,NA,2024-04-02,
+P2913,Pedro Cruz,NA,NA,Los Olivos,Pediatría,2024-08-16,
+P2914,María Gómez,,,NA,Cardiología,2024-07-02,
+P2915,Lucía Fernández,NA,NA,La Molina,,2024-10-03,
+P2916,Ana Ramírez,57,NA,Chorrillos,,2023-08-12,
+P2917,Lucía Gómez,,,La Molina,Odontología,2024-11-08,
+P2918,Rosa Torres,,NA,Chorrillos,Odontología,2023-11-09,162.42
+P2919,Pedro Fernández,,F,La Molina,Pediatría,2024-07-21,314.15
+P2920,Ana Rojas,10,M,NA,Odontología,2024-11-13,
+P2921,Luis Salazar,NA,M,Chorrillos,Ginecología,2024-03-04,
+P2922,Sofía Cruz,47,F,Surco,Medicina General,2023-12-05,
+P2923,Jorge Fernández,,M,Surco,Ginecología,2023-02-14,
+P2924,Rosa Mendoza,,,Chorrillos,Pediatría,2024-08-30,NA
+P2925,Luis Rojas,,M,,Pediatría,2023-09-23,
+P2926,Miguel Mendoza,,,Miraflores,Odontología,2023-09-27,
+P2927,María Fernández,NA,NA,La Molina,Odontología,2024-10-14,
+P2928,Pedro Mendoza,19,NA,Callao,NA,2023-05-12,110.17
+P2929,María Vargas,,M,NA,Odontología,2024-01-23,NA
+P2930,Sofía Salazar,,,Comas,Pediatría,2024-01-22,275.76
+P2931,Miguel Pérez,25,M,,Ginecología,2023-08-17,
+P2932,Lucía Salazar,,NA,San Isidro,Traumatología,2024-03-03,447.62
+P2933,Sofía Ramírez,,M,San Isidro,Medicina General,2024-05-02,
+P2934,Rosa Torres,24,M,San Isidro,Odontología,2024-02-27,50.16
+P2935,Jorge Pérez,,M,NA,NA,2024-06-13,245.55
+P2936,Rosa Mendoza,NA,M,Miraflores,Medicina General,2024-10-31,
+P2937,Miguel Salazar,,NA,Surco,,2024-04-16,
+P2938,Jorge Salazar,NA,M,Surco,Cardiología,2024-07-25,
+P2939,Lucía Mendoza,27,NA,Chorrillos,Odontología,2023-04-22,NA
+P2940,Rosa Mendoza,,NA,Miraflores,Ginecología,2024-10-07,
+P2941,Sofía Salazar,,NA,Los Olivos,Ginecología,2024-12-28,
+P2942,Sofía Rojas,53,M,Surco,Medicina General,2024-05-19,
+P2943,María Gómez,,NA,Los Olivos,Pediatría,2023-01-01,
+P2944,Pedro Vargas,,NA,La Molina,Medicina General,2024-04-17,222.57
+P2945,Sofía Torres,NA,F,San Isidro,Odontología,2024-12-12,NA
+P2946,Jorge Torres,NA,,Comas,Medicina General,2024-08-19,
+P2947,Rosa Pérez,,M,Comas,Traumatología,2024-11-23,
+P2948,Miguel Gómez,13,F,La Molina,Cardiología,2023-10-31,476.24
+P2949,Rosa Cruz,,NA,San Isidro,Pediatría,2023-01-10,73.12
+P2950,Jorge Fernández,NA,,Surco,NA,2024-03-15,NA
+P2951,Luis Salazar,NA,M,Chorrillos,Pediatría,2024-03-20,
+P2952,Jorge Fernández,,M,Callao,,2024-01-28,
+P2953,Rosa Mendoza,86,F,,Traumatología,2024-04-27,
+P2954,Rosa Pérez,,NA,La Molina,,2024-01-30,227.35
+P2955,Rosa Cruz,NA,NA,Callao,Ginecología,2023-08-08,313.72
+P2956,Carlos Salazar,26,M,,Traumatología,2024-11-29,
+P2957,Sofía Vargas,56,,La Molina,Medicina General,2023-01-08,63.86
+P2958,Lucía Fernández,NA,,Los Olivos,Traumatología,2024-03-23,
+P2959,Ana Rojas,NA,M,Comas,Medicina General,2023-06-23,NA
+P2960,Pedro Gómez,NA,,Surco,Medicina General,2024-05-14,
+P2961,Miguel Salazar,,M,Miraflores,Cardiología,2023-10-26,
+P2962,María Gómez,,NA,Miraflores,Ginecología,2023-08-29,
+P2963,Ana Vargas,73,F,La Molina,Cardiología,2023-06-24,
+P2964,Lucía Vargas,NA,M,Callao,NA,2024-12-23,
+P2965,Lucía Pérez,NA,NA,Surco,Pediatría,2024-01-06,
+P2966,María Gómez,,,Chorrillos,Medicina General,2024-04-01,NA
+P2967,Sofía Vargas,,M,Los Olivos,Medicina General,2024-02-05,60.37
+P2968,Pedro Fernández,NA,F,,Traumatología,2023-11-15,
+P2969,Rosa Rojas,5,,Miraflores,Ginecología,2023-07-30,
+P2970,Luis Pérez,53,,San Isidro,Odontología,2023-05-20,474.29
+P2971,Ana Rojas,,,Comas,Odontología,2023-08-19,360.03
+P2972,Carlos Salazar,18,M,La Molina,Odontología,2024-08-23,
+P2973,María Ramírez,NA,NA,La Molina,Cardiología,2024-09-25,NA
+P2974,Carlos Gómez,,,Miraflores,NA,2024-02-03,
+P2975,Pedro Salazar,71,NA,La Molina,Ginecología,2024-07-04,NA
+P2976,Ana Salazar,NA,F,Callao,Medicina General,2024-01-01,NA
+P2977,Jorge Gómez,,F,Chorrillos,NA,2024-01-30,60.83
+P2978,Jorge Pérez,39,,Callao,,2023-02-06,NA
+P2979,Carlos Torres,,F,Miraflores,,2024-03-21,NA
+P2980,María Vargas,NA,M,Surco,Traumatología,2023-12-30,NA
+P2981,Miguel Torres,86,M,Chorrillos,Pediatría,2024-07-13,319.99
+P2982,Jorge Ramírez,NA,,Miraflores,NA,2023-01-27,179.18
+P2983,Ana Cruz,58,NA,Chorrillos,Medicina General,2024-01-20,
+P2984,Ana Fernández,25,,La Molina,Odontología,2023-06-19,NA
+P2985,Lucía Gómez,NA,M,Miraflores,Cardiología,2023-06-19,
+P2986,María Fernández,NA,M,Comas,Odontología,2023-10-01,
+P2987,Jorge Ramírez,15,M,Callao,Medicina General,2023-01-12,NA
+P2988,Carlos Fernández,,NA,La Molina,Pediatría,2023-05-09,
+P2989,Jorge Mendoza,,,Surco,Traumatología,2024-08-30,NA
+P2990,Sofía Cruz,13,M,,Ginecología,2023-12-06,
+P2991,Lucía Vargas,,,La Molina,Ginecología,2023-03-21,
+P2992,Pedro Vargas,,,Los Olivos,Traumatología,2024-05-16,
+P2993,Carlos Fernández,,F,Miraflores,NA,2023-03-28,
+P2994,Pedro Cruz,,,,Pediatría,2023-05-30,
+P2995,Lucía Salazar,17,F,Surco,,2024-01-29,
+P2996,Miguel Salazar,54,NA,Miraflores,Cardiología,2023-10-17,366.72
+P2997,Pedro Rojas,NA,,Miraflores,Odontología,2023-03-02,
+P2998,Miguel Cruz,NA,F,NA,Odontología,2023-08-27,57.68
+P2999,Ana Gómez,NA,F,Chorrillos,,2023-06-01,
+P3000,María Vargas,,F,NA,Ginecología,2024-04-06,281.96
+P3001,María Rojas,,,Comas,Traumatología,2024-02-08,
+P3002,Rosa Ramírez,68,F,Surco,Medicina General,2024-05-29,
