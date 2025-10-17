@@ -67,10 +67,9 @@ Generar un archivo base CSV (base.csv) con la estructura indicada.
 🧩 Fase 3 – Generación de Datos Aleatorios
 Generar un archivo CSV (pacientes.csv) con 3000 registros simulados, que incluya campos nulos, NA, entre otros
 🧩 Fase 4 – ETL (Limpieza de Datos)
-•	Eliminar duplicados
-•	Rellenar valores nulos en campos de transporte o destino
-•	Formatear fechas
-•	Validar tipos de datos
+- Eliminar duplicados
+- Rellenar valores nulos en campos de transporte o destinoFormatear fechas
+- Validar tipos de datos
 Guardar como pacientes_clean.csv.
 🧩 Fase 5 – Carga en MongoDB
 Crear base de datos SaludDigital_2025 y colección pacientes
