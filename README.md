@@ -60,7 +60,7 @@ id_paciente	nombre	edad	sexo	distrito	servicio	fecha_atencion	monto
 P001	Ana Torres	34	F	Miraflores	Odontología	2024-11-15	150
 P002	Luis Pérez	42	M	Surco	Pediatría	2024-10-21	250
 ## 🔍 Fases del Proyecto
-🧩 Fase 1 – Creación de Archivos
+### 🧩 Fase 1 – Creación de Archivos
 Crear carpetas data, database, reports, ci, git y scripts y estructura base del proyecto usando os y pathlib en tiempo de ejecución
 🧩 Fase 2 – Definición de Esquema
 Generar un archivo base CSV (base.csv) con la estructura indicada.
