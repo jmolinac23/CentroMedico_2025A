@@ -50,7 +50,7 @@ SaludDigitalB_E1/
 
 ```bash
 Proyecto desarrollado aplicando conceptos de Big Data, Vs Code, Python, MongoDB y Jenkins.
-Jaime Llanos Bardales
+Jak Molina Campos
 Fecha: 17.10.2025
 ```
 ## 🧱 Estructura de Datos Simulada
@@ -74,7 +74,7 @@ Guardar como pacientes_clean.csv.
 ### 🧩 Fase 5 – Carga en MongoDB
 Crear base de datos SaludDigital_2025 y colección pacientes
 Insertar los registros limpios desde CSV.
-🧩 Fase 6 – Visualización de Datos
+### 🧩 Fase 6 – Visualización de Datos
 Usar matplotlib y pandas para mostrar:
 1.	Gráfico de barras: número de pacientes atendidos por servicio.
 2.	Gráfico circular: distribución por sexo.
