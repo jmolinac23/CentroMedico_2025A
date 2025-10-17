@@ -54,8 +54,8 @@ Jak Steve Molina Campos
 Fecha: 17.10.2025
 ```
 ## 🧱 Estructura de Datos Simulada
-Archivo: pacientes.csv
-Crear un archivo pacientes.csv en la carpeta /data con la siguiente estructura:
+- Archivo: pacientes.csv
+- Crear un archivo pacientes.csv en la carpeta /data con la siguiente estructura:
 id_paciente	nombre	edad	sexo	distrito	servicio	fecha_atencion	monto
 P001	Ana Torres	34	F	Miraflores	Odontología	2024-11-15	150
 P002	Luis Pérez	42	M	Surco	Pediatría	2024-10-21	250
@@ -72,7 +72,7 @@ Generar un archivo CSV (pacientes.csv) con 3000 registros simulados, que incluya
 - Validar tipos de datos
 Guardar como pacientes_clean.csv.
 ### 🧩 Fase 5 – Carga en MongoDB
-Crear base de datos SaludDigital_2025 y colección pacientes
+- Crear base de datos SaludDigital_2025 y colección pacientes
 Insertar los registros limpios desde CSV.
 ### 🧩 Fase 6 – Visualización de Datos
 Usar matplotlib y pandas para mostrar:
