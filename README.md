@@ -50,7 +50,7 @@ SaludDigitalB_E1/
 
 ```bash
 Proyecto desarrollado aplicando conceptos de Big Data, Vs Code, Python, MongoDB y Jenkins.
-Jak Molina Campos
+Jak Steve Molina Campos
 Fecha: 17.10.2025
 ```
 ## 🧱 Estructura de Datos Simulada
